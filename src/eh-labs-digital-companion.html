@@ -101,8 +101,8 @@
             <paper-icon-button icon="eh-labs-icons:menu" drawer-toggle=""></paper-icon-button>
             <div main-title="">[[localize(page)]]</div>
             <iron-selector id="infoPageSelector" selected="[[page]]" attr-for-selected="name" role="navigation">
-              <a name="diagnosis-support" href="/diagnosis-support"><paper-fab icon="eh-labs-icons:diagnosis" mini=""></paper-fab></a>
-              <a name="annotated-ehr" href="/annotated-ehr"><paper-fab icon="eh-labs-icons:literature" mini=""></paper-fab></a>
+              <a name="diagnosis-support" href="[[_getPageUrl('diagnosis-support', query)]]"><paper-fab icon="eh-labs-icons:diagnosis" mini=""></paper-fab></a>
+              <a name="annotated-ehr" href="[[_getPageUrl('annotated-ehr', query)]]"><paper-fab icon="eh-labs-icons:literature" mini=""></paper-fab></a>
               <a name="view3" href="/view3"><paper-fab label="[[localize('/ehr')]]" icon="eh-labs-icons:ehr" mini=""></paper-fab></a>
             </iron-selector>
 
@@ -150,9 +150,14 @@
         Polymer.AppLocalizeBehavior
       ],
 
+
       observers: [
         '_routePageChanged(routeData.page)',
       ],
+
+      _getPageUrl(page, query){
+        return '/' + page + '?q=' + encodeURIComponent(query)
+      },
 
       attached: function() {
         this.loadResources(this.resolveUrl('locales.json'));
