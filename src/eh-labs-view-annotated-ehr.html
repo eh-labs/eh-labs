@@ -1,0 +1,84 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="shared-styles.html">
+
+<link rel="import" href="elements/markjs-element.html">
+
+</head><body><dom-module id="eh-labs-view-annotated-ehr">
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+
+        background-color: var(--primary-background-color);
+
+        padding: 10px;
+      }
+
+      mark{
+        background-color: var(--light-accent-color);
+
+      }
+
+      }
+    </style>
+
+
+  <div id="marked">
+    [[ehr]]
+  </div>
+
+
+
+  </template>
+
+  <script>
+    Polymer({
+      is: 'eh-labs-view-annotated-ehr',
+
+      properties:{
+        ehr: {
+          type: String,
+          notify: true
+        },
+        terms:{
+          type: Array,
+          notify:true
+        },
+
+      },
+
+      observers: [
+        '_performMark(terms.*, ehr)'
+
+      ],
+
+      _call(ehr){console.log(ehr)},
+      _performMark(terms, ehr){
+        const markInstance = new Mark(this.$.marked)
+
+        // Read the keyword
+        var keyword = this.get('terms')
+
+
+
+        // Remove previous marked elements and mark
+        // the new keyword inside the context
+        markInstance.unmark({
+        	done: function(){
+          	markInstance.mark(keyword, {});
+          }
+        });
+
+      },
+
+      attached: function(){
+
+
+        this.markInstance = new Mark(this.$.marked);
+
+
+      }
+    });
+  </script>
+</dom-module>
+</body></html>

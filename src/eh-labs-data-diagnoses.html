@@ -1,0 +1,63 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../bower_components/lodash-element/lodash.js.html">
+
+
+</head><body><dom-module id="eh-labs-data-diagnoses">
+  <script>
+    const mockDataRareDiseases = [
+      'Acidemia Isovaleric', 'Acoustic Neuroma',
+'Alpha Thalassemia',
+'Alpha Thalassemia X-linked Intellectual Disability Syndrome',
+'Alpha-1 Antitrypsin Deficiency',
+'Alpha-Mannosidosis',
+'Alport Syndrome',
+'Alström Syndrome'
+    ]
+
+    Polymer({
+      is: 'eh-labs-data-diagnoses',
+
+      properties:{
+        query: {
+          type: String,
+          readonly: true,
+        },
+        diagnoses: {
+          type: Array,
+          notify: true,
+          computed:'_queryDiagnoses(query)'
+        }
+
+      },
+
+      /*
+        call API in order to get all relevant diagnoses for a query
+        query: long String
+      */
+      _queryDiagnoses(query){
+        const mockIt = function(rd) {
+
+          terms = this.query.split(/[\s|\.|,|\!|\?]/)
+
+          t = _.chain(terms)
+               .groupBy()
+               .map( (val, key) => {
+                 return {word: key, times: val.length, complexity: key.length}}
+                 )
+               .filter((obj) => obj.complexity > 0)
+               .sortBy( 'complexity')
+               .takeRight(8)
+               .map('word')
+               .value()
+
+          return { diagnosis: rd, terms: t }
+        }
+
+        return this.query ? _.map(mockDataRareDiseases, mockIt.bind(this)) : []
+
+      },
+    });
+  </script>
+</dom-module>
+</body></html>
