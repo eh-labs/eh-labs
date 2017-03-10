@@ -1,0 +1,106 @@
+[C0014236]	Endophthalmitis	61.0700297464
+[C0035309]	Retinal Diseases	10.9066136077
+[C0010034]	Corneal Diseases	8.11846162841
+[C0010709]	Cyst	8.09174870526
+[C0017601]	Glaucoma	7.25797141668
+[C0036416]	Scleritis	7.2507381996
+[C0004771]	Bartonella Infections	6.56042554023
+[C0024198]	Lyme Disease	5.84819284423
+[C0085702]	Monocytosis	5.14567342845
+[C0022568]	Keratitis	4.99981105491
+[C1562230]	Retinochoroidopathy	4.93785935122
+[C0039082]	Syndrome	4.78654379691
+[C0024141]	Lupus Erythematosus, Systemic	4.67186771449
+[C0022575]	Keratoconjunctivitis Sicca	4.00603159573
+[C0277334]	Infection by Moniliformis	4.00130258641
+[C0857236]	rash both legs	4.00103827994
+[C0037274]	Dermatologic disorders	3.86804186277
+[C0344297]	Choroidal sclerosis	3.77761011364
+[C0085661]	Onycholysis	3.65213624244
+[C0036412]	Scleral Diseases	3.56790579219
+[C0343398]	Cyclosporiasis	3.54610874358
+[C0571276]	Miconazole allergy	3.42361660484
+[C0000833]	Abscess	3.31086742523
+[C0238902]	Carotidynia	3.1827828769
+[C0036202]	Sarcoidosis	3.04484699287
+[C0023860]	Listeriosis	3.00693768965
+[C0152964]	streptococcal bacteremia	2.97725890527
+[C0028879]	Odontogenic Cysts	2.92555626827
+[C0877445]	Candidemia	2.90613728175
+[C0276758]	Fusariosis	2.7277869266
+[C0029877]	Ear Inflammation	2.28936883705
+[C0571388]	Vancomycin allergy	2.26906496362
+[C0152063]	Streptobacillary fever	2.20474183692
+[C0578682]	Madarosis of eyebrow	2.20468825369
+[C0041582]	Ulcer	2.14952686186
+[C0858958]	shock symptoms	2.1324340293
+[C0042384]	Vasculitis	2.10944869549
+[C0848648]	fungal rash	2.04927268724
+[C0005716]	Blastomycosis	2.04799288755
+[C0152965]	staph bacteremia	2.03391933372
+[C0263009]	Sclerosis of the skin	2.02940020102
+[C0867390]	postoperative stroke	2.02091676235
+[C0264551]	Pleurisy with effusion	1.99881966653
+[C0235394]	Wasting	1.97899669825
+[C0032285]	Pneumonia	1.94649033012
+[C0035321]	Retinal Perforations	1.93483676228
+[C0041296]	Tuberculosis	1.9299111144
+[C0030326]	Panniculitis	1.88980187544
+[C0085635]	Photopsia	1.88735424215
+[C0003864]	Arthritis	1.84681274749
+[C0023092]	Lassa Fever	1.84116995176
+[C0014457]	Eosinophilia	1.83291147971
+[C0342114]	Diffuse goiter	1.82732770699
+[C0339321]	Phacotoxic uveitis	1.82161380101
+[C0571418]	Ampicillin allergy	1.8178273282
+[C0025289]	Meningitis	1.79266516354
+[C0571522]	Rifabutin allergy	1.78873751134
+[C3875267]	Renal anasarca	1.71693687511
+[C0019069]	Hemophilia A	1.51034559493
+[C0153042]	Herpetic whitlow	1.47876296409
+[C0033999]	Pterygium	1.40872413412
+[C0276097]	Coligranuloma	1.38658118608
+[C0571458]	Ceftazidime allergy	1.37587181681
+[C1291490]	Hyaluronidase Deficiency	1.36429051546
+[C0238045]	Carotid-Cavernous Sinus Fistula	1.32764928332
+[C0030593]	Pars Planitis	1.26207654572
+[C0037116]	Silicosis	1.25481348201
+[C0024440]	Macular Edema, Cystoid	1.22847131273
+[C0019114]	Hemosiderosis	1.18779461963
+[C0155338]	Total ophthalmoplegia	1.18685829872
+[C0030636]	Pasteurella Infections	1.18143812601
+[C0013182]	Drug Allergy	1.14035304346
+[C0018802]	Congestive heart failure	1.12171705813
+[C0238454]	Cavernous Sinus Thrombosis	1.11151676599
+[C0521173]	Granulomatosis	1.10264299605
+[C3875310]	Nephropathy induced by amphotericin	1.07742410084
+[C0028242]	Nocardia Infections	1.07015701027
+[C0162674]	Chronic progressive external ophthalmoplegia	1.05814659327
+[C0393866]	Injection neuropathy	1.03857991526
+[C0035333]	Retinitis	1.02451114704
+[C0347630]	Liver hematoma	1.01847933194
+[C1408889]	Subperiosteal ossification	1.00858599106
+[C0009763]	Conjunctivitis	0.992884132225
+[C0004030]	Aspergillosis	0.991726957911
+[C0519030]	Pneumonia due to Klebsiella pneumoniae	0.987846269416
+[C0001261]	Actinomycosis	0.97478515131
+[C0038757]	Allergy to sulfonamides	0.965672665134
+[C0155877]	Allergic asthma	0.963112728172
+[C0741020]	Anesthetic allergy	0.953134895895
+[C0022904]	Lacrimal Apparatus Diseases	0.942087202125
+[C1290051]	Sweat gland pore closure	0.936085260238
+[C0152972]	pseudomonas sepsis	0.910049787172
+[C0155177]	Eczematous dermatitis of eyelid	0.905651773818
+[C0232881]	True proteinuria	0.877261527651
+[C3249881]	Infection - suppurative	0.857904976618
+[C0027726]	Nephrotic Syndrome	0.84267974773
+[C0035319]	Retinal Necrosis Syndrome, Acute	0.795483209216
+[C0019158]	Hepatitis	0.771450044767
+[C0206178]	Cytomegalovirus Retinitis	0.643136468407
+[C0024236]	Lymphedema	0.598067446002
+[C0017455]	Geotrichosis	0.590845638651
+[C1323099]	sympathomimetic disorder	0.571144090264
+[C0596992]	myelinopathy	0.526433028282
+[C0006840]	Candidiasis	0.518905356388
+[C0015402]	Eye Hemorrhage	0.502003339189
+[C0029405]	Osteitis Fibrosa Cystica	0.48086215148

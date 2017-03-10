@@ -1,0 +1,50 @@
+[C0400875]	Hollow visceral neuropathy	7.68140698268
+[C0000833]	Abscess	4.72634269156
+[C0009324]	Ulcerative Colitis	4.370711136
+[C0009319]	Colitis	4.05915469795
+[C0010346]	Crohn Disease	3.54937912736
+[C0033680]	Protein-Losing Enteropathies	3.35969511608
+[C0010823]	Cytomegalovirus Infections	2.68886620076
+[C0017160]	Gastroenteritis	2.45049718468
+[C0162429]	Malnutrition	2.29244051513
+[C0021933]	Intussusception	2.19730162112
+[C0036992]	Short Bowel Syndrome	2.14713941375
+[C0022104]	Irritable Bowel Syndrome	1.89972081737
+[C0023092]	Lassa Fever	1.89428521092
+[C0949135]	Other constipation	1.87804062004
+[C0267475]	Impaction of colon	1.86455971929
+[C0007570]	Celiac Disease	1.79686475832
+[C0341266]	Diverticulosis of the duodenum	1.79195677541
+[C0268021]	Potassium intoxication	1.73186802255
+[C0339991]	Post-lung transplantation bronchiectasis	1.72824071788
+[C0333291]	Bleeding ulcer	1.69865845225
+[C0342114]	Diffuse goiter	1.65572456418
+[C0041328]	Tuberculosis, Renal	1.63891388078
+[C0034362]	Q Fever	1.60944200159
+[C0040147]	Thyroiditis	1.59928193324
+[C0002726]	Amyloidosis	1.58746117289
+[C0677607]	Hashimoto Disease	1.58556898074
+[C0221505]	Lesion of brain	1.58008705287
+[C0341325]	Leukoplakia of anus	1.55580380963
+[C0374994]	Clostridium perfringens infection in conditions classified elsewhere and of unspecified site	1.52581559039
+[C0241950]	bowel infarction	1.51905165698
+[C0036474]	Scurvy	1.51200069107
+[C0267533]	Ulcer of cecum	1.50611691689
+[C0041582]	Ulcer	1.49342931825
+[C0034150]	Purpura	1.48673049154
+[C0570942]	Pseudoephedrine allergy	1.48668074749
+[C0238316]	Abscess of omentum	1.45577348586
+[C0849663]	abdominal cyst	1.44497906767
+[C0519002]	gi amyloid	1.44415201715
+[C0152517]	Enteritis due to specified virus	1.44305725775
+[C1955552]	Non-foodborne botulism NOS	1.44063288906
+[C0040128]	Thyroid Diseases	1.43084711817
+[C0162635]	Angelman Syndrome	1.31670442188
+[C0009450]	Communicable Diseases	1.23905003814
+[C0035869]	Rotavirus Infections	1.20338810778
+[C0014378]	Enterovirus Infections	1.17335789529
+[C1518296]	Neuropathogenesis	1.17303938945
+[C0043037]	Common wart	1.168498269
+[C0042109]	Urticaria	1.12648484397
+[C0162855]	Mucinoses	1.0888264609
+[C0679412]	noninfectious hepatitis	0.975613637233

@@ -1,0 +1,38 @@
+[C0041324]	Tuberculosis, Osteoarticular	4.17985787052
+[C0085682]	Hypophosphatemia	4.04151026771
+[C0007570]	Celiac Disease	3.88503519504
+[C0029434]	Osteogenesis Imperfecta	3.57488929461
+[C3536983]	Familial Hypophosphatemic Rickets	3.06331334423
+[C0029442]	Osteomalacia	2.80694490112
+[C0040250]	Tinea Capitis	2.60704651594
+[C0020757]	Ichthyoses	2.18775828608
+[C1861821]	CATARACT, MARNER TYPE	2.05825684876
+[C0011434]	Dentin, Secondary	1.81640555225
+[C0432219]	Opsismodysplasia	1.73562764247
+[C0030517]	Parathyroid Diseases	1.71246137049
+[C0013720]	Ehlers-Danlos Syndrome	1.647148857
+[C1306220]	Fort Bragg Fever	1.63556693616
+[C0020630]	Hypophosphatasia	1.62882736785
+[C0571740]	Disodium pamidronate allergy	1.61613858715
+[C0410824]	Infected intramedullary nail	1.57577410242
+[C0013537]	Eclampsia	1.53870456879
+[C0158322]	Heel Spur	1.51321048948
+[C0029652]	Other kyphoscoliosis and scoliosis	1.47998442373
+[C2931642]	Benign symmetrical lipomatosis	1.42343096807
+[C0235950]	Zinc deficiency	1.36785666706
+[C0031099]	Periodontitis	1.35483943009
+[C0263661]	Disorder of skeletal system	1.31344466221
+[C0546878]	Nodding spasm	1.29471542473
+[C0029405]	Osteitis Fibrosa Cystica	1.28315730531
+[C0994344]	Rheumatoid lung disease	1.21800039507
+[C1262008]	hyperphosphatasemia	1.19451324702
+[C0027030]	Myiasis	1.19134075697
+[C0038644]	Sudden infant death syndrome	1.13011988825
+[C0085409]	Polyendocrinopathies, Autoimmune	1.12187763823
+[C0747918]	pregnancy preterm	1.05935700112
+[C0010674]	Cystic Fibrosis	1.01223724203
+[C0238316]	Abscess of omentum	0.988505637445
+[C0341850]	Vulval warts	0.917166331589
+[C0266039]	Taurodontism	0.867229405672
+[C0876991]	Histiocytosis haematophagic	0.834166499222
+[C0021831]	Intestinal Diseases	0.821332174823

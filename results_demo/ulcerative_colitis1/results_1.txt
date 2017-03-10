@@ -1,0 +1,27 @@
+[C0155285]	Orbital cyst	8.15928447334
+[C0000833]	Abscess	6.42609714872
+[C0238454]	Cavernous Sinus Thrombosis	3.66281513267
+[C0238902]	Carotidynia	3.44464522458
+[C0085270]	Orbital Pseudotumor	3.14430948296
+[C0149931]	Migraine Disorders	3.0005297278
+[C0032002]	Pituitary Diseases	2.81240708343
+[C0027121]	Myositis	2.58984603004
+[C0748694]	sick sinus	2.38498960508
+[C0009319]	Colitis	2.37736690942
+[C0041296]	Tuberculosis	2.09660797142
+[C0238045]	Carotid-Cavernous Sinus Fistula	2.06124504954
+[C0751079]	Diplopia, Vertical	1.94173429035
+[C0018802]	Congestive heart failure	1.90880127149
+[C0019360]	Herpes zoster disease	1.80271022009
+[C0030332]	Panophthalmitis	1.7002829136
+[C0002940]	Aneurysm	1.60239611634
+[C0023895]	Liver diseases	1.54399391752
+[C0041328]	Tuberculosis, Renal	1.47293768668
+[C0271270]	Oculovestibuloauditory syndrome	1.45672648865
+[C0393735]	Headache Disorders	1.42935339595
+[C0870074]	inferior infarction	1.4248859569
+[C0042345]	Varicosity	1.38984196819
+[C0019342]	Genital Herpes	1.37568971333
+[C0026691]	Mucocutaneous Lymph Node Syndrome	1.34688290392
+[C0031350]	Pharyngitis	1.2654195557
+[C0006309]	Brucellosis	1.21722326402

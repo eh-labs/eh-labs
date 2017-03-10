@@ -8,12 +8,15 @@
 <link rel="import" href="bower_components/iron-pages/iron-pages.html">
 <link rel="import" href="bower_components/iron-selector/iron-selector.html">
 <link rel="import" href="bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="bower_components/paper-fab/paper-fab.html">
+<link rel="import" href="bower_components/paper-slider/paper-slider.html">
 
 <link rel="import" href="src/eh-labs-icons.html">
 
 <link rel="import" href="bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="bower_components/paper-input/paper-textarea.html">
 <link rel="import" href="bower_components/paper-item/paper-item.html">
+<link rel="import" href="bower_components/iron-collapse/iron-collapse.html">
 
 <link rel="import" href="bower_components/basic-seamless-iframe/basic-seamless-iframe.html">
 
@@ -23,12 +26,46 @@
 </head><body><dom-module id="eh-lab-kis">
   <template>
     <style>
-      basic-seamless-iframe{
+      :host {
+        --iron-collapse-transition-duration: 800ms;
+
+      }
+
+      #companion-box{
         position: fixed;
         bottom: 5vh;
         right: 3vw;
+        background-color:white;
+      }
+
+      basic-seamless-iframe{
         min-width:400px;
         min-height:600px;
+      }
+
+      .toolbar{
+        background-color:darkgrey;
+      }
+
+
+      .note-card{
+        margin-top:10px;
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+      }
+
+      .actions{
+         display: flex;
+         flex-direction: row;
+      }
+
+      paper-fab:first-child {
+        background-color: var(--primary-color);
+      }
+
+      paper-fab {
+        background-color: var(--light-primary-color);
       }
 
 
@@ -55,22 +92,54 @@
       <app-header fixed="" condenses="" effects="waterfall">
         <app-toolbar>
           <div main-title="">Informationssystem Atrappe</div>
+          <paper-icon-button icon="eh-labs-icons:menu" on-tap="_toggleExamples"></paper-icon-button>
         </app-toolbar>
       </app-header>
-      <div class="kis">
-        <eh-labs-data-ehr example-ehrs="{{ehrs}}"></eh-labs-data-ehr>
 
-        <template is="dom-repeat" items="[[ehrs]]" as="ehr">
-          <paper-item id="[[index]]" on-tap="_selectEhr">Example [[index]]</paper-item>
-        </template>
+        <div class="kis">
+          <eh-labs-data-ehr query-data="{{queryData}}"></eh-labs-data-ehr>
+
+          <iron-collapse opened="[[showExamples]]">
+            <template is="dom-repeat" items="[[queryData]]" as="ehr">
+              <paper-item id="[[index]]" on-tap="_selectEhr">Example [[index]] - Diagnose: [[ehr.path]]</paper-item>
+            </template>
+          </iron-collapse>
 
 
-        <paper-textarea label="Electronical Health Record" value="{{ehr}}"></paper-textarea>
-      </div>
+
+          <template is="dom-if" if="[[_not(showExamples)]]">
+            <app-toolbar>
+              <div main-title="">Medical Notes</div>
+              <iron-label>
+                 Number of Notes to display
+               </iron-label>
+                 <paper-slider min="1" value="{{selectedNoteCount}}" max="[[patient.notes.length]]" pin=""></paper-slider>
+              <div class="actions">
+                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:diagnosis" on-tap="_showDiagnosis"></paper-fab>
+                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:ehr" on-tap="_showEhr"></paper-fab>
+                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:literature"></paper-fab>
+              </div>
+
+            </app-toolbar>
+          </template>
+
+          <template is="dom-repeat" items="[[_getPatientNotes(patient.notes, selectedNoteCount)]]">
+            <div class="note-card">
+              <paper-textarea label="Medical Note" value="{{item}}"></paper-textarea>
+            </div>
+          </template>
+        </div>
+
     </app-header-layout>
 
-    <basic-seamless-iframe src="[[_getSrc(ehr)]]"></basic-seamless-iframe>
-
+    <div id="companion-box">
+      <div class="toolbar">
+        <paper-icon-button icon="eh-labs-icons:close" on-tap="_toggleCompanion"></paper-icon-button>
+      </div>
+      <iron-collapse opened="[[showCompanion]]">
+        <basic-seamless-iframe src="[[_getSrc(patient, selectedNoteCount, companionFunction)]]"></basic-seamless-iframe>
+      </iron-collapse>
+    </div>
   </template>
 
   <script>
@@ -78,24 +147,77 @@
       is: 'eh-lab-kis',
 
       properties: {
-        ehrs:{
-          type:Array,
+        patient:{
+          type:Object,
+          computed:'_getEhr(selectedId)'
         },
 
-        ehr:{
-          type:String,
-          value:'',
-        }
+        selectedId:{
+          type: String,
+        },
+
+        selectedNoteCount:{
+          type: String,
+        },
+
+        companionFunction:{
+          type: String,
+        },
+
+        showExamples:{
+          type: Boolean,
+          value: true
+        },
+
+
       },
 
-      _getSrc(ehr){
-        return ehr ? '/?q=' + encodeURIComponent(ehr) : '/'
+      _toggleExamples(){
+        this.set('showExamples', !this.get('showExamples'))
+      },
+
+      _not(value){
+        return !value
+      },
+
+      _getEhr(id){
+        return this.get('queryData.' + id)
+      },
+
+      _getSrc(patient, selectedNoteCount, companionFunction){
+
+        const search = Object.assign({}, patient)
+        search.notes = search.notes.filter( (obj, idx) => idx < selectedNoteCount )
+        delete search.results
+
+        json = JSON.stringify( search )
+        return patient ? companionFunction + '/?q=' + encodeURIComponent(json) : '/'
       },
 
       _selectEhr(ev){
-        if (ev.srcElement.id) {
-          this.set('ehr', this.get('ehrs')[ev.srcElement.id])
-        }
+        this.set('selectedId', ev.srcElement.id)
+        this._toggleExamples()
+      },
+
+      _handleNoteActionClick(noteIndex, compFunction){
+        //this.set('selectedNoteIndex',  noteIndex)
+        this.set('companionFunction',  compFunction)
+        this.set('showCompanion', true)
+      },
+
+      _showDiagnosis(ev){
+        this._handleNoteActionClick(ev.srcElement.id, 'diagnosis-support')
+      },
+      _showEhr(ev){
+        this._handleNoteActionClick(ev.srcElement.id, 'annotated-ehr')
+      },
+
+      _toggleCompanion(){
+        this.set('showCompanion', !this.get('showCompanion'))
+      },
+
+      _getPatientNotes(notes, selectedNoteCount){
+        return notes.filter( (obj, idx) => idx < selectedNoteCount )
       }
 
 

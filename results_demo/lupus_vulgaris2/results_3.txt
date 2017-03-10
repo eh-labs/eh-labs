@@ -1,0 +1,97 @@
+[C0919913]	nasal odor	11.3069109584
+[C0034212]	Pyoderma	8.047426078
+[C0276085]	Ecthyma gangrenosum	7.82793567102
+[C0030846]	Penile Diseases	5.50827034345
+[C0034063]	Pulmonary Edema	4.81147067752
+[C0221436]	Melanoderma (disorder)	3.66297774312
+[C0577658]	Ulcer of palate	3.37975553341
+[C0011389]	Dental Plaque	3.31503203095
+[C0024131]	Lupus Vulgaris	3.28207199835
+[C0275934]	Scrofuloderma	3.13168468148
+[C0746306]	lupus cutaneous	3.04156776819
+[C0038034]	Sporotrichosis	2.69576853589
+[C0362030]	Verrucous epidermal nevus	2.39270079702
+[C0036202]	Sarcoidosis	2.3245390238
+[C0029443]	Osteomyelitis	2.29534313567
+[C0023343]	Leprosy	2.23980334628
+[C0026718]	Mucormycosis	2.23523219418
+[C0042109]	Urticaria	2.10968843454
+[C0017589]	Glanders	1.99600186839
+[C0269017]	Pearly penile papules	1.97959479507
+[C3665444]	Neutrophilia (disorder)	1.97903912233
+[C0340030]	Pleural plaque	1.89448951642
+[C0040247]	Tinea	1.86770255157
+[C0037274]	Dermatologic disorders	1.86066976907
+[C0155285]	Orbital cyst	1.74263038076
+[C0015300]	Exophthalmos	1.72106290809
+[C0035455]	Rhinitis	1.61261274064
+[C0272388]	Amygdalolith	1.57112350818
+[C1302210]	Toxicity due to radiotherapy	1.53563143441
+[C0276912]	Pythiosis	1.53559792889
+[C0343029]	Tuberculid	1.46379583745
+[C0000833]	Abscess	1.44604799741
+[C0026686]	Mucocele of salivary gland	1.44489714686
+[C0032285]	Pneumonia	1.44264897967
+[C0037023]	Sialadenitis	1.40638882149
+[C0276097]	Coligranuloma	1.31176399069
+[C0006664]	Calcinosis cutis	1.31114863018
+[C0004030]	Aspergillosis	1.30778410481
+[C1368797]	Pseudopyogenic Granuloma	1.29969132488
+[C0023646]	Lichen Planus	1.27298569058
+[C0023643]	Lichen disease	1.27176063472
+[C0151785]	Disease of mucous membrane	1.23722505173
+[C0235880]	Mononeuritis	1.23445578551
+[C0032326]	Pneumothorax	1.21592374907
+[C0238036]	Bronchocentric granulomatosis	1.20527160445
+[C0571279]	Itraconazole allergy	1.20008545395
+[C0003175]	Anthrax disease	1.19542130228
+[C0019357]	Keratitis, Herpetic	1.1806009497
+[C0042029]	Urinary tract infection	1.16143400035
+[C0152227]	Excessive tearing	1.15388369576
+[C0268992]	Prolapse of prepuce	1.14907644762
+[C0007302]	Cartilage Diseases	1.14018250606
+[C0018816]	Heart Septal Defects	1.14010032227
+[C0343730]	Perianal warts	1.13822810856
+[C0151664]	Gastrointestinal perforation	1.13412720494
+[C0153257]	Primary pulmonary coccidioidomycosis	1.11596745371
+[C0009319]	Colitis	1.09305049571
+[C0948780]	rhinosinusitis	1.04575895169
+[C1141927]	wound sepsis	1.03199518616
+[C0400839]	Ulcer of rectum	1.01368367318
+[C0041582]	Ulcer	0.996076421166
+[C0013592]	Ectropion	0.992424920074
+[C0919794]	itching scar	0.976355047335
+[C0013394]	Dyspareunia (female)	0.959964481272
+[C0019919]	Hordeolum externum	0.957257970198
+[C0024236]	Lymphedema	0.94061628213
+[C0749006]	sternum mass	0.867398730047
+[C0023348]	Leprosy, Lepromatous	0.829008200318
+[C0012634]	Disease	0.784107010868
+[C0155843]	Retropharyngeal Abscess	0.780659465632
+[C0085663]	Plasmacytosis	0.776386953765
+[C0024141]	Lupus Erythematosus, Systemic	0.754633319864
+[C0040128]	Thyroid Diseases	0.750930677862
+[C0746550]	mercury allergy	0.734802220759
+[C0155842]	Parapharyngeal abscess	0.726998498373
+[C0238965]	Ulcer of cervix	0.723533142398
+[C0302840]	Toxic thyroid adenoma	0.701166099401
+[C2613439]	Extramedullary Hematopoiesis (disorder)	0.686657003573
+[C0749263]	temporal pain	0.685945187242
+[C1882620]	Rat Cholangiofibrosis	0.684096428778
+[C0271163]	Incipient cataract	0.657459052318
+[C0027441]	Nasopharyngitis	0.65455411223
+[C0024959]	Maxillary Sinusitis	0.633713075509
+[C0149754]	Cellulitis of periorbital region	0.630502446686
+[C0037887]	Sphenopalatine Neuralgia	0.627123527048
+[C0270932]	Paraneoplastic Polyneuropathy	0.621322173572
+[C0004610]	Bacteremia	0.621109462698
+[C0870082]	Hyperkeratosis	0.620751994194
+[C0027438]	Nasopharyngeal Diseases	0.614307485093
+[C0039082]	Syndrome	0.614210892121
+[C0027034]	Ocular myiasis	0.598532412643
+[C0234906]	Annular Erythema	0.594656087355
+[C1636205]	Rhinocerebral phycomycosis	0.593234765845
+[C0699949]	airway disease	0.585265096851
+[C0027030]	Myiasis	0.573349089984
+[C0004096]	Asthma	0.502701790775
+[C0014457]	Eosinophilia	0.486218366814

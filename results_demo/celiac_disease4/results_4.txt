@@ -1,0 +1,113 @@
+[C0007570]	Celiac Disease	17.146622408
+[C0040259]	Tinea Pedis	11.710513916
+[C0475036]	Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with concussion, unspecified	6.18640078904
+[C0024198]	Lyme Disease	5.5334541946
+[C0221022]	Sports anemia	4.93597599541
+[C0018013]	Gnathostomiasis	4.1487232743
+[C0024141]	Lupus Erythematosus, Systemic	3.3359272094
+[C0039082]	Syndrome	3.23349875919
+[C0012634]	Disease	3.11559293437
+[C0019243]	Angioedemas, Hereditary	3.09710452551
+[C0043121]	Wernicke Encephalopathy	3.03698784153
+[C0004096]	Asthma	2.79198191126
+[C2936258]	Peri-Implantitis	2.65299373115
+[C0040896]	Trichinellosis	2.44556382034
+[C0010346]	Crohn Disease	2.41603836305
+[C0571687]	Estrogen allergy	2.41349217205
+[C0024312]	Lymphopenia	2.39224929054
+[C0023364]	Leptospirosis	2.35488441011
+[C0019655]	Histoplasmosis	2.34656117191
+[C0023895]	Liver diseases	2.13934309515
+[C0847780]	meatitis	2.1368438743
+[C0041296]	Tuberculosis	2.01686174418
+[C0025007]	Measles	1.99582148316
+[C0034362]	Q Fever	1.99375785043
+[C0042109]	Urticaria	1.91763641043
+[C0751101]	Post-Vaccinal Encephalitis	1.91069193417
+[C0850803]	Anaphylaxis (non medication)	1.90268717148
+[C0014053]	Encephalitis, California	1.89322066113
+[C0162451]	Poison Ivy Dermatitis	1.87877032808
+[C0042749]	Viremia	1.86323456856
+[C0264467]	Animal handlers' lung	1.83491629763
+[C0020625]	Hyponatremia	1.83347933936
+[C1313977]	Dental cyst	1.82948705359
+[C0004943]	Behcet Syndrome	1.82606939798
+[C0570532]	Fentanyl allergy	1.80756733045
+[C0570587]	Sulfasalazine allergy	1.78599486256
+[C0571371]	Albendazole allergy	1.77941182486
+[C0521173]	Granulomatosis	1.73090555119
+[C0570511]	Analgesic allergy	1.70280623721
+[C0263334]	Urticaria, Aquagenic	1.52165663023
+[C1867467]	Acholinesterasemia	1.44830052452
+[C0025221]	Meleda Disease	1.42050886569
+[C0857362]	groin nodes	1.38031024277
+[C0016522]	Foramen Ovale, Patent	1.36614111695
+[C0264099]	Freiberg's disease	1.36027819339
+[C0341266]	Diverticulosis of the duodenum	1.33874532054
+[C0019099]	Hemorrhagic Fever, Crimean	1.33444747324
+[C1290755]	Abfraction	1.30072306456
+[C1282952]	Enthesitis	1.29541717271
+[C0151281]	Genital ulcers	1.28826044797
+[C0038992]	Sweating fever	1.28317525904
+[C0497286]	Shoulder syndrome	1.2583829023
+[C0008055]	Chikungunya Fever	1.25087190697
+[C0570661]	Levamisole allergy	1.23095943587
+[C0012813]	Diverticulitis	1.21537826175
+[C0263942]	carpitis	1.2117849768
+[C0152517]	Enteritis due to specified virus	1.20719088607
+[C0003864]	Arthritis	1.19575806353
+[C0342114]	Diffuse goiter	1.17882882002
+[C0571293]	Tribavirin allergy	1.17353782984
+[C0042781]	Visceral Myopathy	1.15618200781
+[C0410353]	Infection of metatarsal	1.15356304095
+[C0008325]	Cholecystitis	1.14382897788
+[C0014518]	Toxic Epidermal Necrolysis	1.12977747446
+[C0006818]	Campylobacter infection	1.12281245637
+[C0020437]	Hypercalcemia	1.11659538036
+[C0746306]	lupus cutaneous	1.11394554147
+[C0003504]	Aortic Valve Insufficiency	1.11242118691
+[C0035127]	Cumulative Trauma Disorders	1.11193453472
+[C0004610]	Bacteremia	1.09454371802
+[C0011633]	Dermatomyositis	1.09400216625
+[C0267809]	Cirrhosis, Cryptogenic	1.08896091723
+[C1275589]	Lobular pneumonia	1.0882598705
+[C0178237]	diseases and injuries	1.08315907489
+[C0151239]	Pericarditis, on EKG or echocardiography	1.08210882038
+[C0876991]	Histiocytosis haematophagic	1.0582739731
+[C0027051]	Myocardial Infarction	1.04342023306
+[C0152965]	staph bacteremia	1.04187061267
+[C0477582]	unspecified disorder of the patella	1.03521256873
+[C0339195]	Pyogenic metastatic scleritis	1.03101378341
+[C0546983]	Post-Concussion Syndrome	1.02489410545
+[C0919794]	itching scar	1.02244245231
+[C0571279]	Itraconazole allergy	0.990505207167
+[C3714757]	Juvenile rheumatoid arthritis	0.982259091248
+[C1275138]	Neonatal bullous dermatosis due to maternal antibodies	0.981250778918
+[C0023092]	Lassa Fever	0.972178373886
+[C0571591]	Prednisone allergy	0.953267557418
+[C0745617]	labor fast	0.95286836021
+[C0019345]	Herpes Labialis	0.941851425893
+[C0042384]	Vasculitis	0.920615076629
+[C0022951]	Lactose Intolerance	0.920267091946
+[C0017547]	Gigantism	0.824132139455
+[C0040128]	Thyroid Diseases	0.823206954851
+[C0344183]	Exercise anaphylaxis	0.650580523105
+[C0018022]	Endemic goiter	0.532305555419
+[C0153062]	Viral exanthem	0.500531854726
+[C0683065]	personal AODE	0.457635197013
+[C0342039]	Postpartum deep phlebothrombosis	0.427097763432
+[C0009324]	Ulcerative Colitis	0.411953246449
+[C1412000]	Mesenteric vascular insufficiency	0.407537996811
+[C0020615]	Hypoglycemia	0.400066044382
+[C0003123]	Anorexia	0.399767084339
+[C0162635]	Angelman Syndrome	0.391808720813
+[C0002895]	Anemia, Sickle Cell	0.386777883924
+[C0333497]	Segmental glomerulosclerosis	0.376076817576
+[C0338480]	Common Migraine	0.365315225503
+[C0021390]	Inflammatory Bowel Diseases	0.364987454028
+[C2930966]	Gas bloat syndrome	0.351066681813
+[C0013289]	Duodenal Diseases	0.350043105327
+[C0042769]	Virus Diseases	0.344221176207
+[C0162429]	Malnutrition	0.320432919928
+[C0520947]	Clumsiness - motor delay	0.298945350166
+[C1561826]	Overweight and obesity	0.288217112881

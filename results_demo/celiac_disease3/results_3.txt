@@ -1,0 +1,78 @@
+[C0007570]	Celiac Disease	66.3805555848
+[C0041324]	Tuberculosis, Osteoarticular	8.00975337986
+[C0029434]	Osteogenesis Imperfecta	7.19435144136
+[C0085682]	Hypophosphatemia	6.03146012998
+[C0021831]	Intestinal Diseases	5.74340026071
+[C0029442]	Osteomalacia	4.42285269383
+[C3536983]	Familial Hypophosphatemic Rickets	4.32973813022
+[C0020757]	Ichthyoses	3.44625758541
+[C0020630]	Hypophosphatasia	2.78164113637
+[C0432219]	Opsismodysplasia	2.74298237685
+[C0038054]	Sprue, Tropical	2.72399914744
+[C1306220]	Fort Bragg Fever	2.68171364963
+[C0158322]	Heel Spur	2.65637009579
+[C0571740]	Disodium pamidronate allergy	2.61351582741
+[C0151785]	Disease of mucous membrane	2.60936684174
+[C0011434]	Dentin, Secondary	2.55762589458
+[C1861821]	CATARACT, MARNER TYPE	2.53421966007
+[C0030517]	Parathyroid Diseases	2.5300445857
+[C0012634]	Disease	2.43143602389
+[C0040250]	Tinea Capitis	2.40516165379
+[C2931642]	Benign symmetrical lipomatosis	2.39534853686
+[C0263661]	Disorder of skeletal system	2.33273882048
+[C0266039]	Taurodontism	2.28893961636
+[C0015302]	External exotoses	2.23447389719
+[C0994344]	Rheumatoid lung disease	2.22911235157
+[C0013720]	Ehlers-Danlos Syndrome	1.99468367472
+[C0410824]	Infected intramedullary nail	1.983893559
+[C0013537]	Eclampsia	1.97592999343
+[C0235950]	Zinc deficiency	1.95083958627
+[C0029652]	Other kyphoscoliosis and scoliosis	1.90412223247
+[C0031099]	Periodontitis	1.86128427826
+[C1262008]	hyperphosphatasemia	1.8543736513
+[C0027030]	Myiasis	1.85016142802
+[C0029405]	Osteitis Fibrosa Cystica	1.84834267845
+[C0546878]	Nodding spasm	1.83078190783
+[C0038644]	Sudden infant death syndrome	1.81231431791
+[C0085409]	Polyendocrinopathies, Autoimmune	1.78781755553
+[C0747918]	pregnancy preterm	1.77397847702
+[C0010674]	Cystic Fibrosis	1.7441424274
+[C0238316]	Abscess of omentum	1.74066178364
+[C0341850]	Vulval warts	1.70162725181
+[C0341276]	jejunitis	1.69749669932
+[C0876991]	Histiocytosis haematophagic	1.67772490241
+[C0008312]	Primary biliary cirrhosis	1.6537595141
+[C0033860]	Psoriasis	1.59304417396
+[C0013295]	Duodenal Ulcer	1.49685904663
+[C0041582]	Ulcer	1.46976817247
+[C0042075]	Urologic Diseases	1.46111466574
+[C0036474]	Scurvy	1.40538831582
+[C0857090]	patchy rash	1.39751025769
+[C0024236]	Lymphedema	1.37510773901
+[C0030499]	Parasitic Diseases	1.35938686741
+[C0576721]	Drug-induced dyspepsia	1.32289568924
+[C0162635]	Angelman Syndrome	1.2981520989
+[C0020676]	Hypothyroidism	1.29634827796
+[C0571288]	Interferons allergy	1.25301035025
+[C0016053]	Fibromyalgia	1.23632384865
+[C0860168]	Distal colitis	1.20307121787
+[C0014084]	Enchondromatosis	1.13125197107
+[C0001126]	Renal tubular acidosis	1.08921853927
+[C0263630]	Hypertrophic disorder of skin, unspecified	0.62610092472
+[C0497388]	nevus/mole	0.602107243967
+[C1838608]	Radial aplasia	0.579623576848
+[C0020497]	Cortical Congenital Hyperostosis	0.575728216643
+[C0400807]	Stress ulcer of stomach	0.566237881062
+[C0271871]	Calcipenic type rickets	0.552077301176
+[C0029464]	Osteosclerosis	0.529840229471
+[C0001678]	Adult maltreatment syndrome	0.51814048397
+[C0041328]	Tuberculosis, Renal	0.484518579206
+[C0001125]	Acidosis, Lactic	0.476523870871
+[C0264009]	Osteodystrophy	0.468260012966
+[C0700136]	Epiphysis disorders	0.460119298409
+[C2921012]	Other neurofibromatosis	0.455215784279
+[C0020502]	Hyperparathyroidism	0.453228793891
+[C1408889]	Subperiosteal ossification	0.429092454252
+[C0019202]	Hepatolenticular Degeneration	0.387208743838
+[C0220697]	POLYDACTYLY, POSTAXIAL	0.368680394079
+[C0520998]	Accommodation phosphene disorder	0.368333861664

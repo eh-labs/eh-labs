@@ -1,0 +1,87 @@
+[C0026769]	Multiple Sclerosis	8.27626654695
+[C0747918]	pregnancy preterm	5.71295489873
+[C0149931]	Migraine Disorders	4.91888834461
+[C0871535]	toxicomania	4.59035321569
+[C0027849]	Neuroleptic Malignant Syndrome	4.3029623379
+[C0036323]	Schistosomiasis	4.15939331818
+[C0236026]	Fetal valproate syndrome	4.09623935719
+[C0014070]	Encephalomyelitis	3.89095881876
+[C0011303]	Demyelinating Diseases	3.28129725644
+[C0340869]	Transfusion reaction due to excess volume	2.75061396346
+[C0011311]	Dengue Fever	2.49210882637
+[C0338480]	Common Migraine	2.47504974701
+[C0570837]	Risperidone allergy	2.27677356773
+[C0036310]	Scheuermann's Disease	2.17639764273
+[C0679416]	lipidose	2.11848097896
+[C0677607]	Hashimoto Disease	2.0362794266
+[C0040147]	Thyroiditis	1.9894876366
+[C0151559]	Central nervous system depression (disorder)	1.91509036797
+[C0152227]	Excessive tearing	1.88568457509
+[C0750940]	Tremor, Rubral	1.87184149855
+[C0023524]	Leukoencephalopathy, Progressive Multifocal	1.84801722104
+[C0041582]	Ulcer	1.70978578026
+[C0338489]	Status Migrainosus	1.64277941755
+[C0221057]	Dejerine-Roussy Syndrome	1.56838406115
+[C0275586]	Infectious bovine keratoconjunctivitis	1.51301974915
+[C0039082]	Syndrome	1.48893117509
+[C0237967]	pediatric AIDS	1.47949132351
+[C0020655]	Hypothalamic Diseases	1.46006170939
+[C0393819]	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	1.45520708386
+[C0338474]	Central nervous system demyelination	1.43508202147
+[C0570661]	Levamisole allergy	1.42068924894
+[C0270612]	Leukoencephalopathies	1.41707840043
+[C0027726]	Nephrotic Syndrome	1.31834328176
+[C0347630]	Liver hematoma	1.28514582969
+[C0014038]	Encephalitis	1.26780284536
+[C0026393]	Molluscum Contagiosum	1.2583528792
+[C0024286]	Lymphogranuloma Venereum	1.22056414999
+[C0029132]	Disorder of the optic nerve	1.21074402769
+[C0570693]	Methotrexate allergy	1.18232901417
+[C0001126]	Renal tubular acidosis	1.16862683894
+[C0085570]	Hypokalemic alkalosis	1.14304670806
+[C0018378]	Guillain-Barre Syndrome	1.12891177364
+[C0021167]	Incontinence	1.11546671611
+[C0010678]	Cysticercosis	1.11440991212
+[C0264622]	Psychogenic voice disorder	1.11250819696
+[C1253936]	Hydrarthrosis	1.08323249297
+[C0338437]	Neurocysticercosis	1.08128622697
+[C0024198]	Lyme Disease	1.06214088289
+[C0156847]	Anemia of mother, postpartum condition or complication	1.03662363854
+[C0009450]	Communicable Diseases	1.02937748714
+[C0742115]	Cerebritis	1.02127472695
+[C0270932]	Paraneoplastic Polyneuropathy	1.01833567367
+[C0035439]	Rheumatic Heart Disease	1.01055788271
+[C0442874]	Neuropathy	1.01054215512
+[C0270793]	Facial hemiplegia	1.00465970623
+[C0000814]	Missed abortion	0.995985104076
+[C0035021]	Relapsing Fever	0.99189323168
+[C0521542]	Brain Stem Infarctions	0.980042369022
+[C1291623]	Deficiency of racemase	0.978389140442
+[C0019340]	herpes	0.964634182729
+[C0028738]	Nystagmus	0.955680157258
+[C0019342]	Genital Herpes	0.940026683414
+[C0030554]	Paresthesia	0.92707698167
+[C1335437]	Plexopathy	0.924077425367
+[C0023522]	Leukodystrophy, Metachromatic	0.919415329504
+[C0571525]	Ethambutolol allergy	0.91782783839
+[C0034362]	Q Fever	0.898547619529
+[C0234549]	Stress seizure	0.87196594734
+[C0023944]	Locked-In Syndrome	0.864117723397
+[C0405583]	Calcium deposits in tendon	0.851105329933
+[C0263009]	Sclerosis of the skin	0.848940334121
+[C0033300]	Progeria	0.815063207448
+[C0007863]	Cervico-occipital neuralgia	0.813520284477
+[C0011401]	Dental Pulp Calcification	0.759276309896
+[C0041834]	Erythema	0.65437653197
+[C0333302]	Stercoraceous ulcer	0.639027611988
+[C1630648]	Propensity to adverse reactions to food	0.621831357639
+[C0040592]	Trachoma	0.604774623301
+[C0856619]	sexual problem	0.597942328831
+[C0023290]	Leishmaniasis, Visceral	0.594819187999
+[C0276640]	Transmissible mink encephalopathy	0.580172847587
+[C0010823]	Cytomegalovirus Infections	0.549409015566
+[C0007947]	Chancroids	0.535141459603
+[C0851162]	Infections of musculoskeletal system	0.504853996347
+[C0042384]	Vasculitis	0.48653747372
+[C0023281]	Leishmaniasis	0.450895723937
+[C3887650]	Adult Rickets	0.446465680329

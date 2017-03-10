@@ -1,0 +1,16 @@
+[C0871535]	toxicomania	10.0247421033
+[C0236026]	Fetal valproate syndrome	6.19690244077
+[C0027849]	Neuroleptic Malignant Syndrome	4.9943780089
+[C0570837]	Risperidone allergy	3.93586375759
+[C0242422]	Parkinsonian Disorders	2.79493028879
+[C0033117]	Priapism	2.52837444643
+[C0030305]	Pancreatitis	2.51121821077
+[C0750992]	Catatonia, Malignant	2.47662481412
+[C0570779]	Lamotrigine allergy	2.39753927236
+[C0152246]	Iridodialysis	2.3361360055
+[C0020488]	Hypernatremia	1.91330646722
+[C0236663]	Alcohol withdrawal syndrome	1.74881938974
+[C0040128]	Thyroid Diseases	1.73594383319
+[C0570632]	Propofol allergy	1.70272313495
+[C0405583]	Calcium deposits in tendon	1.6886576199
+[C0151559]	Central nervous system depression (disorder)	1.48080012432

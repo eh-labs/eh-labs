@@ -1,0 +1,53 @@
+[C0007570]	Celiac Disease	16.9369834367
+[C0024198]	Lyme Disease	4.64222524358
+[C0018013]	Gnathostomiasis	4.34993199003
+[C0004096]	Asthma	3.05497817243
+[C0011849]	Diabetes Mellitus	2.72913069322
+[C0040896]	Trichinellosis	2.62878376374
+[C0571687]	Estrogen allergy	2.59111155978
+[C0024312]	Lymphopenia	2.50396211279
+[C0023364]	Leptospirosis	2.50379545273
+[C0024141]	Lupus Erythematosus, Systemic	2.26051184179
+[C0847780]	meatitis	2.25042509033
+[C0023895]	Liver diseases	2.19831792769
+[C0041296]	Tuberculosis	2.09108671925
+[C0025007]	Measles	2.06530035414
+[C0043121]	Wernicke Encephalopathy	2.04401873701
+[C0857236]	rash both legs	2.01767834191
+[C0751101]	Post-Vaccinal Encephalitis	1.96096792068
+[C0850803]	Anaphylaxis (non medication)	1.9578158833
+[C0162451]	Poison Ivy Dermatitis	1.94428795792
+[C0014053]	Encephalitis, California	1.93799306173
+[C0042749]	Viremia	1.91929181112
+[C0012634]	Disease	1.91239526945
+[C0264467]	Animal handlers' lung	1.88320480268
+[C1313977]	Dental cyst	1.87655087053
+[C0570532]	Fentanyl allergy	1.84123962274
+[C0570587]	Sulfasalazine allergy	1.82764004917
+[C0571371]	Albendazole allergy	1.81348361874
+[C2936258]	Peri-Implantitis	1.80871242774
+[C0521173]	Granulomatosis	1.76012410459
+[C0241950]	bowel infarction	1.75231347734
+[C3539909]	Allergic disposition	1.13142787928
+[C0040128]	Thyroid Diseases	1.06656886276
+[C0020625]	Hyponatremia	0.969899543579
+[C0344183]	Exercise anaphylaxis	0.860022275589
+[C0018022]	Endemic goiter	0.710048109914
+[C0153062]	Viral exanthem	0.680146092425
+[C0683065]	personal AODE	0.625234105179
+[C0342039]	Postpartum deep phlebothrombosis	0.584473907529
+[C1412000]	Mesenteric vascular insufficiency	0.566321854715
+[C0009324]	Ulcerative Colitis	0.563270901464
+[C0020615]	Hypoglycemia	0.554895959959
+[C0162635]	Angelman Syndrome	0.547970588101
+[C0003123]	Anorexia	0.541665447504
+[C0002895]	Anemia, Sickle Cell	0.532416669694
+[C0333497]	Segmental glomerulosclerosis	0.522238281869
+[C0021390]	Inflammatory Bowel Diseases	0.514015967421
+[C0338480]	Common Migraine	0.508603828306
+[C2930966]	Gas bloat syndrome	0.497112164504
+[C0013289]	Duodenal Diseases	0.49585769732
+[C0042769]	Virus Diseases	0.480176452636
+[C0162429]	Malnutrition	0.46096693494
+[C0520947]	Clumsiness - motor delay	0.428769609733
+[C1561826]	Overweight and obesity	0.421011563085

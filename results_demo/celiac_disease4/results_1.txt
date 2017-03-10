@@ -1,0 +1,29 @@
+[C0007570]	Celiac Disease	14.4131348433
+[C0024198]	Lyme Disease	4.21227229227
+[C0018013]	Gnathostomiasis	3.26036849518
+[C0024312]	Lymphopenia	2.43002172396
+[C0004096]	Asthma	2.2580717634
+[C0040896]	Trichinellosis	2.15293477967
+[C0024141]	Lupus Erythematosus, Systemic	2.12054902887
+[C0023364]	Leptospirosis	2.10865137614
+[C0023895]	Liver diseases	2.0529048987
+[C0571687]	Estrogen allergy	1.99492890251
+[C0857236]	rash both legs	1.77549195066
+[C0847780]	meatitis	1.72366316991
+[C0041296]	Tuberculosis	1.62940819268
+[C0025007]	Measles	1.60015194659
+[C0043121]	Wernicke Encephalopathy	1.50622304688
+[C0751101]	Post-Vaccinal Encephalitis	1.481780267
+[C0014053]	Encephalitis, California	1.46671313006
+[C0850803]	Anaphylaxis (non medication)	1.43133358194
+[C0012634]	Disease	1.32296725235
+[C0042749]	Viremia	1.3184434512
+[C0162451]	Poison Ivy Dermatitis	1.30487729331
+[C0570532]	Fentanyl allergy	1.29907051373
+[C0264467]	Animal handlers' lung	1.28722118757
+[C1313977]	Dental cyst	1.27967188484
+[C2936258]	Peri-Implantitis	1.23925330292
+[C0571371]	Albendazole allergy	1.22005985381
+[C0570587]	Sulfasalazine allergy	1.19326269589
+[C0521173]	Granulomatosis	1.11666162857
+[C0241950]	bowel infarction	1.07606954707

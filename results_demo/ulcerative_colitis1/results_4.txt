@@ -1,0 +1,115 @@
+[C0009324]	Ulcerative Colitis	13.2897505341
+[C0085270]	Orbital Pseudotumor	6.32936140303
+[C0000833]	Abscess	6.10452919699
+[C0029132]	Disorder of the optic nerve	5.21392416995
+[C0021390]	Inflammatory Bowel Diseases	5.10937245161
+[C0019360]	Herpes zoster disease	4.68303150623
+[C0014070]	Encephalomyelitis	4.5518063272
+[C0836924]	Thrombocytosis	4.48736709641
+[C0037886]	Sphenoid Sinusitis	3.72936644539
+[C0857236]	rash both legs	3.45846316031
+[C0876991]	Histiocytosis haematophagic	3.32599135013
+[C0025289]	Meningitis	3.32415946484
+[C0027121]	Myositis	3.17739268073
+[C0030332]	Panophthalmitis	2.74171928048
+[C0032002]	Pituitary Diseases	2.68420824328
+[C0010414]	Infection by Cryptococcus neoformans	2.64157628976
+[C0005716]	Blastomycosis	2.61918892558
+[C0027743]	Nerve compression syndrome	2.60552584316
+[C0024141]	Lupus Erythematosus, Systemic	2.45203811796
+[C0014038]	Encephalitis	2.37905463528
+[C0155307]	Optic chiasm disorder	2.25414751478
+[C0155338]	Total ophthalmoplegia	2.25023489323
+[C0019243]	Angioedemas, Hereditary	2.23966501179
+[C0015397]	Disorder of eye	2.22175653012
+[C0571276]	Miconazole allergy	2.18307082454
+[C0043121]	Wernicke Encephalopathy	2.17174960795
+[C0238349]	Cellulitis of penis	2.16802930475
+[C0029408]	Degenerative polyarthritis	2.15858983672
+[C0393485]	Neurosarcoidosis	2.09799634806
+[C0042344]	Varicose Ulcer	2.05061182863
+[C0085584]	Encephalopathies	2.02319889262
+[C0406511]	Thread veins	2.02097860183
+[C0519002]	gi amyloid	2.01997634421
+[C0156300]	Infected hydrocele	2.01958556391
+[C0570661]	Levamisole allergy	1.99691124542
+[C0086588]	Marasmus	1.99640802717
+[C0270612]	Leukoencephalopathies	1.99164458278
+[C0234549]	Stress seizure	1.97827379403
+[C0010073]	Coronary Artery Vasospasm	1.96364256201
+[C0004030]	Aspergillosis	1.95910725018
+[C0036202]	Sarcoidosis	1.95556828299
+[C0019364]	Herpes Zoster Ophthalmicus	1.95330051922
+[C0343190]	Cutaneous polyarteritis nodosa	1.94081366388
+[C2349230]	Specific infection due to acanthamoeba	1.93052814698
+[C0007766]	Intracranial Aneurysm	1.8961856084
+[C0039841]	Thiamine Deficiency	1.86970625333
+[C0343831]	Micropapular yaws	1.85615268283
+[C0037199]	Sinusitis	1.83658221418
+[C0393911]	Pure Autonomic Failure	1.82814599036
+[C0393593]	Dystonia Disorders	1.82202862503
+[C0025309]	Meningoencephalitis	1.81830360435
+[C0035309]	Retinal Diseases	1.81442986659
+[C0010246]	Coxsackievirus Infections	1.78817972149
+[C0023529]	Leukomalacia, Periventricular	1.77285678748
+[C0748159]	pulmonary involvement	1.76534591133
+[C0745091]	Hypereosinophilia	1.54879919969
+[C0238067]	Colitis, Collagenous	1.54051273904
+[C0024282]	Lymphocytosis	1.46998240846
+[C0038826]	Superinfection	1.37862553763
+[C0006309]	Brucellosis	1.37063300007
+[C0033680]	Protein-Losing Enteropathies	1.36708686738
+[C0041321]	Tuberculosis, Miliary	1.33318445356
+[C0400822]	Colitis, Lymphocytic	1.31886523201
+[C0008312]	Primary biliary cirrhosis	1.31525723887
+[C0333302]	Stercoraceous ulcer	1.26961819285
+[C0271737]	Addison's disease due to autoimmunity	1.26463462165
+[C0024205]	Lymphadenitis	1.25817374421
+[C0848648]	fungal rash	1.23530348845
+[C0017152]	Gastritis	1.23471455947
+[C0553548]	Necrotizing Arteritis	1.2254412797
+[C0042109]	Urticaria	1.21043475982
+[C0571371]	Albendazole allergy	1.20922273774
+[C2931758]	Acquired angioedema	1.2049235031
+[C0025060]	Mediastinal Cyst	1.2020543468
+[C0026975]	Myelitis	1.190682689
+[C0570585]	Mesalazine allergy	1.18425657096
+[C0034152]	Henoch-Schoenlein Purpura	1.18350476432
+[C0005398]	Cholestasis, Extrahepatic	1.17220649669
+[C0041295]	Tuberculoma	1.16487382074
+[C0021400]	Influenza	1.16115112808
+[C0014457]	Eosinophilia	1.15941149151
+[C0020255]	Hydrocephalus	1.12342934877
+[C0039128]	Syphilis	1.11199956275
+[C0003615]	Appendicitis	1.09813648579
+[C0232881]	True proteinuria	1.08837213645
+[C0085278]	Antiphospholipid Syndrome	1.07543269935
+[C0010823]	Cytomegalovirus Infections	1.02497607939
+[C0002895]	Anemia, Sickle Cell	1.01716586611
+[C0238045]	Carotid-Cavernous Sinus Fistula	0.998164105222
+[C0008370]	Cholestasis	0.981036326314
+[C0339991]	Post-lung transplantation bronchiectasis	0.960762016336
+[C0034067]	Pulmonary Emphysema	0.948265522211
+[C0400839]	Ulcer of rectum	0.935371085106
+[C0151664]	Gastrointestinal perforation	0.926878056646
+[C0040586]	Tracheobronchitis	0.901434778129
+[C0021845]	Intestinal Perforation	0.875584478677
+[C0012634]	Disease	0.875044118431
+[C1960764]	Crohn's disease in remission	0.873932454508
+[C0238902]	Carotidynia	0.86578309824
+[C0571388]	Vancomycin allergy	0.849563485583
+[C0149931]	Migraine Disorders	0.828184961969
+[C1631074]	Vitreocorneal adherence	0.785536378967
+[C0237967]	pediatric AIDS	0.754966691052
+[C0162635]	Angelman Syndrome	0.668880645923
+[C0751079]	Diplopia, Vertical	0.586279844637
+[C0018802]	Congestive heart failure	0.567182871801
+[C0019342]	Genital Herpes	0.443467521218
+[C0041328]	Tuberculosis, Renal	0.410506673378
+[C0870074]	inferior infarction	0.367141469787
+[C0271270]	Oculovestibuloauditory syndrome	0.36663590142
+[C0002940]	Aneurysm	0.35866150046
+[C0393735]	Headache Disorders	0.358261608157
+[C0031350]	Pharyngitis	0.343952106106
+[C0042345]	Varicosity	0.335515351181
+[C0026691]	Mucocutaneous Lymph Node Syndrome	0.315848710845

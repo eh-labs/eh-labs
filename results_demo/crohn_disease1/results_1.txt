@@ -1,0 +1,9 @@
+[C0032568]	Inflammatory polyp	2.83054992205
+[C0012634]	Disease	2.52916798165
+[C0235328]	Obstruction of colon	2.50026748361
+[C0021933]	Intussusception	2.40701462351
+[C0003615]	Appendicitis	1.82535607852
+[C0221541]	ruptured disk	1.49268231141
+[C0272407]	Splenic cyst	1.38856125602
+[C0149937]	Acute interstitial nephritis	1.1403675386
+[C1096307]	Lesion of spleen	0.75632639989

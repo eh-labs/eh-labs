@@ -1,0 +1,54 @@
+[C0871535]	toxicomania	11.3897310591
+[C0236026]	Fetal valproate syndrome	7.16859976472
+[C0027849]	Neuroleptic Malignant Syndrome	4.89492616089
+[C0570837]	Risperidone allergy	4.46719086892
+[C0750992]	Catatonia, Malignant	4.22732307979
+[C0037921]	Spinal ataxia	3.59038228814
+[C0242422]	Parkinsonian Disorders	2.68797423301
+[C0033117]	Priapism	2.66156629243
+[C0570779]	Lamotrigine allergy	2.62695755637
+[C0030305]	Pancreatitis	2.45799227492
+[C0152246]	Iridodialysis	2.28291006965
+[C0236663]	Alcohol withdrawal syndrome	2.14768435087
+[C0570632]	Propofol allergy	2.14236365177
+[C0028271]	Noma	2.04709289227
+[C0020488]	Hypernatremia	2.04649831322
+[C0040128]	Thyroid Diseases	1.97649694093
+[C0405583]	Calcium deposits in tendon	1.96225185061
+[C0031315]	Phantom Limb Syndrome	1.90913846605
+[C0151559]	Central nervous system depression (disorder)	1.84576615214
+[C0570781]	Gabapentin allergy	1.78778491474
+[C0442874]	Neuropathy	1.72175296562
+[C0011119]	Decompression Sickness	1.69200482839
+[C0011303]	Demyelinating Diseases	1.44472690869
+[C0029132]	Disorder of the optic nerve	1.43793065404
+[C0037284]	Skin lesion	1.24206273601
+[C0030353]	Papilledema	1.23702483929
+[C0018190]	Granuloma Inguinale	1.22261381906
+[C0027927]	Neurosyphilis	1.21426028119
+[C0005686]	Urinary Bladder Diseases	1.16870241855
+[C0221406]	Pituitary-dependent Cushing's disease	1.08177419827
+[C0015402]	Eye Hemorrhage	1.07859212623
+[C0240820]	pseudofracture	1.06044708361
+[C0748470]	sacral ulcer	1.05067897903
+[C0022681]	Medullary sponge kidney	1.04432736317
+[C0024591]	Malignant hyperpyrexia due to anesthesia	1.03571988055
+[C0033575]	Prostatic Diseases	1.02819349421
+[C0347630]	Liver hematoma	1.02760488087
+[C0035309]	Retinal Diseases	1.01364768575
+[C0026975]	Myelitis	0.960538831188
+[C4023792]	Paraplegia/paraparesis	0.912346183894
+[C0152089]	Post-laminectomy syndrome	0.907535528649
+[C1512709]	Chronic Lymphoproliferative Disorder of NK-Cells	0.901654974689
+[C0002959]	Angiectasis	0.887595885115
+[C0338467]	Facial tic disorder	0.882832994071
+[C0275586]	Infectious bovine keratoconjunctivitis	0.854984975502
+[C0040579]	Tracheal Cyst	0.848721566068
+[C0270870]	Alajouanine's syndrome	0.848194710947
+[C1171328]	catecholamine hypertension	0.839425261985
+[C0008728]	Churg-Strauss Syndrome	0.832762493107
+[C3711850]	Opticospinal Multiple Sclerosis	0.831063882941
+[C0405580]	Adrenal cortical hypofunction	0.809013421326
+[C0042109]	Urticaria	0.796655967817
+[C0002136]	allogeneic disease	0.778038547436
+[C0013295]	Duodenal Ulcer	0.761501433826

@@ -1,0 +1,30 @@
+[C0014457]	Eosinophilia	11.0738208785
+[C0949135]	Other constipation	4.44626144717
+[C0042345]	Varicosity	3.10392870087
+[C0267491]	Ulceration of colon	2.84243358752
+[C0302486]	Erythrophagocytosis	2.12665627986
+[C0162316]	Iron deficiency anemia	2.08854598627
+[C0857828]	infection in the elderly	1.99779504879
+[C0570616]	Mebeverine allergy	1.92740434881
+[C0013371]	Shigella Infections	1.92097973639
+[C0302359]	Disease caused by Shigella flexneri	1.87322642094
+[C0021933]	Intussusception	1.85985516034
+[C0857305]	Thrombocytopenic purpura	1.8396314292
+[C0014858]	Esophageal motility disorders	1.79275092083
+[C0009319]	Colitis	1.70205884091
+[C0007570]	Celiac Disease	1.68162618798
+[C0020538]	Hypertensive disease	1.65959378217
+[C0340563]	Upper limb ischemia	1.64684821987
+[C0269017]	Pearly penile papules	1.59360110433
+[C0034152]	Henoch-Schoenlein Purpura	1.58861522735
+[C0152093]	Hypermobility syndrome	1.53828538585
+[C0003504]	Aortic Valve Insufficiency	1.53358044914
+[C0024214]	Lymphangiectasis	1.40982958418
+[C0012813]	Diverticulitis	1.39706170281
+[C0745492]	septic joint	1.38897040996
+[C0019112]	Hemorrhoids	1.38416968232
+[C0020488]	Hypernatremia	1.38143816775
+[C0277525]	Infectious gastroenteritis	1.38018694583
+[C0000833]	Abscess	1.35818093066
+[C0271650]	Impaired glucose tolerance	1.35481497224
+[C0748159]	pulmonary involvement	1.33698587303

@@ -1,0 +1,92 @@
+[C0007570]	Celiac Disease	32.0772465757
+[C0030305]	Pancreatitis	18.3932853627
+[C0024141]	Lupus Erythematosus, Systemic	9.86901922097
+[C0023895]	Liver diseases	5.13023837281
+[C0009421]	Comatose	4.42256189572
+[C0857305]	Thrombocytopenic purpura	4.33544650496
+[C0041328]	Tuberculosis, Renal	4.07981387999
+[C0747918]	pregnancy preterm	4.01411015147
+[C0162635]	Angelman Syndrome	3.91858502156
+[C0034063]	Pulmonary Edema	3.69245648869
+[C0042384]	Vasculitis	3.68123475184
+[C0162316]	Iron deficiency anemia	3.53893567377
+[C0234549]	Stress seizure	3.48294555548
+[C0014457]	Eosinophilia	3.20386218811
+[C0020452]	Hyperemia	3.16342473265
+[C0011311]	Dengue Fever	2.40652864236
+[C0000814]	Missed abortion	2.37314861909
+[C0149937]	Acute interstitial nephritis	2.35621604237
+[C0018995]	Hemochromatosis	2.34499682268
+[C0024530]	Malaria	2.29174568393
+[C0221773]	Hyperamylasemia	2.28020985644
+[C0032231]	Pleurisy	2.244269889
+[C0020437]	Hypercalcemia	2.23582069932
+[C0343398]	Cyclosporiasis	2.22981525924
+[C0034155]	Purpura, Thrombotic Thrombocytopenic	2.21217184214
+[C0020557]	Hypertriglyceridemia	2.17671824652
+[C0745261]	infant apnea	2.17194411732
+[C0263991]	Equine rhabdomyolysis	2.1662774959
+[C0011880]	Diabetic Ketoacidosis	2.15360526956
+[C0750992]	Catatonia, Malignant	2.14082860842
+[C1300115]	Renal hematuria	2.12432208492
+[C0262655]	Recurrent urinary tract infection	2.12191827025
+[C0272407]	Splenic cyst	2.11109859315
+[C0008370]	Cholestasis	2.10927198837
+[C0014130]	Endocrine System Diseases	2.09333862128
+[C0036474]	Scurvy	2.09106483205
+[C0836924]	Thrombocytosis	2.06563287904
+[C0270774]	Myelomalacia	2.05735529657
+[C0268532]	Deficiency of prolidase	2.05373903952
+[C0347630]	Liver hematoma	2.02983504322
+[C0023890]	Liver Cirrhosis	2.02477779206
+[C0001339]	Acute pancreatitis	2.00221441973
+[C0571585]	Propylthiouracil allergy	1.98329945829
+[C0020550]	Hyperthyroidism	1.96742597394
+[C0020459]	Hyperinsulinism	1.9670515096
+[C0085584]	Encephalopathies	1.96532807846
+[C0022353]	Neonatal Jaundice	1.96506501341
+[C0870074]	inferior infarction	1.9626286774
+[C0020626]	Hypoparathyroidism	1.96237637329
+[C0022354]	Jaundice, Obstructive	1.95597438062
+[C0002880]	Autoimmune hemolytic anemia	1.94124089002
+[C0041296]	Tuberculosis	1.93819851285
+[C0748694]	sick sinus	1.92299323553
+[C0024131]	Lupus Vulgaris	1.91908327256
+[C0849663]	abdominal cyst	1.90531395705
+[C0027059]	Myocarditis	1.90328611277
+[C0041582]	Ulcer	1.89105748772
+[C0155765]	Disease of capillaries	1.8820813154
+[C0339991]	Post-lung transplantation bronchiectasis	1.8786254769
+[C0027709]	Nephrocalcinosis	1.87328073476
+[C0151950]	Deep thrombophlebitis	1.85762494609
+[C0857297]	vitamin depletion	1.8460532288
+[C0233093]	abortion in first trimester	1.8408551867
+[C0149725]	Lower respiratory tract infection	1.8279469126
+[C1540745]	Disorder of testosterone	1.82187639102
+[C0570823]	Lorazepam allergy	1.8082860823
+[C0038454]	Cerebrovascular accident	1.8046982101
+[C0400875]	Hollow visceral neuropathy	1.79844871011
+[C0002170]	Alopecia	1.77892699348
+[C0027765]	nervous system disorder	1.77363803813
+[C0677607]	Hashimoto Disease	1.76923948031
+[C0271737]	Addison's disease due to autoimmunity	1.7630336432
+[C0020619]	Hypogonadism	1.75897632379
+[C0340030]	Pleural plaque	1.75271090123
+[C0015645]	Fasciitis	1.74318591823
+[C0263519]	Anagen effluvium	1.73904902456
+[C0020488]	Hypernatremia	1.72737641344
+[C0001126]	Renal tubular acidosis	1.72421325837
+[C0019034]	Hemoglobin SC Disease	1.70649597303
+[C0085409]	Polyendocrinopathies, Autoimmune	1.70234206053
+[C3825536]	Veterinary endocrinology	1.67368081634
+[C0011849]	Diabetes Mellitus	1.66900070977
+[C0238644]	Anemia, severe	1.65542447112
+[C0004610]	Bacteremia	1.65223621045
+[C0340869]	Transfusion reaction due to excess volume	1.64431614827
+[C0018801]	Heart failure	1.62271441039
+[C0040034]	Thrombocytopenia	1.59838417202
+[C0021831]	Intestinal Diseases	1.19620482276
+[C0020676]	Hypothyroidism	1.03137104676
+[C2937365]	Recurrent aphthous ulcer	0.977205742852
+[C1394210]	Pel crisis	0.956559028501
+[C0038054]	Sprue, Tropical	0.908397851696

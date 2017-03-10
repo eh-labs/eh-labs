@@ -1,0 +1,61 @@
+[C0041324]	Tuberculosis, Osteoarticular	8.51351025665
+[C0029434]	Osteogenesis Imperfecta	7.4841962066
+[C0085682]	Hypophosphatemia	6.40295006643
+[C0029442]	Osteomalacia	4.58043051872
+[C3536983]	Familial Hypophosphatemic Rickets	4.48731595512
+[C0007570]	Celiac Disease	4.22505198911
+[C0020757]	Ichthyoses	3.68548058152
+[C0020630]	Hypophosphatasia	2.91390807671
+[C0432219]	Opsismodysplasia	2.87524931718
+[C1306220]	Fort Bragg Fever	2.81398058996
+[C0158322]	Heel Spur	2.78863703612
+[C0571740]	Disodium pamidronate allergy	2.74578276774
+[C0011434]	Dentin, Secondary	2.68989283492
+[C1861821]	CATARACT, MARNER TYPE	2.66648660041
+[C0030517]	Parathyroid Diseases	2.66231152603
+[C0015302]	External exotoses	2.66229812029
+[C2931642]	Benign symmetrical lipomatosis	2.5276154772
+[C0263661]	Disorder of skeletal system	2.46500576082
+[C0040250]	Tinea Capitis	2.43047253835
+[C0266039]	Taurodontism	2.4212065567
+[C0994344]	Rheumatoid lung disease	2.36137929191
+[C0013720]	Ehlers-Danlos Syndrome	2.01999455928
+[C0410824]	Infected intramedullary nail	2.00920444356
+[C0013537]	Eclampsia	2.00124087799
+[C0235950]	Zinc deficiency	1.97615047083
+[C0029652]	Other kyphoscoliosis and scoliosis	1.92943311704
+[C0031099]	Periodontitis	1.88659516282
+[C1262008]	hyperphosphatasemia	1.87968453587
+[C0027030]	Myiasis	1.87547231258
+[C0029405]	Osteitis Fibrosa Cystica	1.87365356301
+[C0546878]	Nodding spasm	1.85609279239
+[C0038644]	Sudden infant death syndrome	1.83762520247
+[C0085409]	Polyendocrinopathies, Autoimmune	1.8131284401
+[C0747918]	pregnancy preterm	1.79928936158
+[C0010674]	Cystic Fibrosis	1.76945331196
+[C0238316]	Abscess of omentum	1.7659726682
+[C0341850]	Vulval warts	1.72693813637
+[C0876991]	Histiocytosis haematophagic	1.70303578697
+[C0021831]	Intestinal Diseases	1.68007046584
+[C0036474]	Scurvy	1.61930042737
+[C0860168]	Distal colitis	1.5239393852
+[C0014084]	Enchondromatosis	1.34516408262
+[C0001126]	Renal tubular acidosis	1.30313065083
+[C0263630]	Hypertrophic disorder of skin, unspecified	0.733056980496
+[C0497388]	nevus/mole	0.709063299743
+[C1838608]	Radial aplasia	0.686579632624
+[C0020497]	Cortical Congenital Hyperostosis	0.682684272419
+[C0400807]	Stress ulcer of stomach	0.673193936838
+[C0271871]	Calcipenic type rickets	0.659033356951
+[C0029464]	Osteosclerosis	0.636796285247
+[C0001678]	Adult maltreatment syndrome	0.625096539746
+[C0041328]	Tuberculosis, Renal	0.591474634982
+[C0001125]	Acidosis, Lactic	0.583479926647
+[C0264009]	Osteodystrophy	0.575216068742
+[C0700136]	Epiphysis disorders	0.567075354185
+[C2921012]	Other neurofibromatosis	0.562171840055
+[C0020502]	Hyperparathyroidism	0.560184849667
+[C1408889]	Subperiosteal ossification	0.536048510028
+[C0019202]	Hepatolenticular Degeneration	0.494164799614
+[C0220697]	POLYDACTYLY, POSTAXIAL	0.475636449854
+[C0520998]	Accommodation phosphene disorder	0.47528991744

@@ -1,0 +1,48 @@
+[C0747918]	pregnancy preterm	4.83754066456
+[C0871535]	toxicomania	4.56678822287
+[C0027849]	Neuroleptic Malignant Syndrome	4.22594995478
+[C0236026]	Fetal valproate syndrome	3.98710152944
+[C0570837]	Risperidone allergy	2.25194654665
+[C0036310]	Scheuermann's Disease	2.16657301255
+[C0679416]	lipidose	2.06101060993
+[C0677607]	Hashimoto Disease	1.99162057346
+[C0011311]	Dengue Fever	1.95884077817
+[C0040147]	Thyroiditis	1.94467482578
+[C0151559]	Central nervous system depression (disorder)	1.85014192529
+[C0750940]	Tremor, Rubral	1.61786641513
+[C0037921]	Spinal ataxia	1.24035595631
+[C0393819]	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	1.22533080499
+[C0347630]	Liver hematoma	1.08724903426
+[C0570693]	Methotrexate allergy	0.975792455048
+[C0001126]	Renal tubular acidosis	0.923484138218
+[C0085570]	Hypokalemic alkalosis	0.897819841771
+[C0018378]	Guillain-Barre Syndrome	0.883332074539
+[C0021167]	Incontinence	0.880345176151
+[C1253936]	Hydrarthrosis	0.876369879417
+[C0010678]	Cysticercosis	0.859820905471
+[C0264622]	Psychogenic voice disorder	0.856034701073
+[C0338437]	Neurocysticercosis	0.826588234414
+[C0156847]	Anemia of mother, postpartum condition or complication	0.790740286447
+[C0338480]	Common Migraine	0.783659406337
+[C0270932]	Paraneoplastic Polyneuropathy	0.770541360521
+[C0270793]	Facial hemiplegia	0.769173581161
+[C0152227]	Excessive tearing	0.766445997148
+[C0442874]	Neuropathy	0.765318974988
+[C0035021]	Relapsing Fever	0.760492524587
+[C0742115]	Cerebritis	0.757822935224
+[C0521542]	Brain Stem Infarctions	0.733102168156
+[C1291623]	Deficiency of racemase	0.711546693491
+[C0028738]	Nystagmus	0.708659798109
+[C0019340]	herpes	0.703116172273
+[C0019342]	Genital Herpes	0.678427707612
+[C1335437]	Plexopathy	0.675972977021
+[C0030554]	Paresthesia	0.665435397838
+[C0023522]	Leukodystrophy, Metachromatic	0.6642941013
+[C0571525]	Ethambutolol allergy	0.650954700159
+[C0034362]	Q Fever	0.626848385337
+[C0234549]	Stress seizure	0.610793157763
+[C0023944]	Locked-In Syndrome	0.601606402096
+[C0405583]	Calcium deposits in tendon	0.584102273427
+[C0263009]	Sclerosis of the skin	0.568272397914
+[C0033300]	Progeria	0.534283806307
+[C0007863]	Cervico-occipital neuralgia	0.532913967943

@@ -1,0 +1,69 @@
+[C0400875]	Hollow visceral neuropathy	9.73716669081
+[C0009319]	Colitis	5.88644456886
+[C0000833]	Abscess	5.87245076508
+[C0009324]	Ulcerative Colitis	5.62595698105
+[C0010346]	Crohn Disease	4.70184162164
+[C0033680]	Protein-Losing Enteropathies	4.51302220907
+[C0017160]	Gastroenteritis	3.78647078822
+[C0341266]	Diverticulosis of the duodenum	2.72040437134
+[C0268021]	Potassium intoxication	2.70657239732
+[C0010823]	Cytomegalovirus Infections	2.58191014498
+[C0949135]	Other constipation	2.56491124116
+[C0333291]	Bleeding ulcer	2.55512318612
+[C0267475]	Impaction of colon	2.53794943965
+[C0339991]	Post-lung transplantation bronchiectasis	2.50982532536
+[C0267533]	Ulcer of cecum	2.37365666381
+[C0162429]	Malnutrition	2.32625155958
+[C0241950]	bowel infarction	2.28093966617
+[C0570942]	Pseudoephedrine allergy	2.27837995567
+[C0023092]	Lassa Fever	2.20524396258
+[C0021933]	Intussusception	2.18903182756
+[C0036992]	Short Bowel Syndrome	2.1809504582
+[C0238316]	Abscess of omentum	2.15438332394
+[C0152517]	Enteritis due to specified virus	2.14016230335
+[C0022104]	Irritable Bowel Syndrome	2.11602250624
+[C0007570]	Celiac Disease	2.03181219294
+[C0341325]	Leukoplakia of anus	1.94993499611
+[C0034362]	Q Fever	1.92040075324
+[C0040147]	Thyroiditis	1.90520821279
+[C0677607]	Hashimoto Disease	1.89149526028
+[C0041328]	Tuberculosis, Renal	1.86441366149
+[C0002726]	Amyloidosis	1.86164712629
+[C0342114]	Diffuse goiter	1.85375031269
+[C1955552]	Non-foodborne botulism NOS	1.83575405467
+[C0036474]	Scurvy	1.81321870495
+[C0221505]	Lesion of brain	1.8098478101
+[C0034150]	Purpura	1.78906344399
+[C0041582]	Ulcer	1.77946421144
+[C0849663]	abdominal cyst	1.74731202012
+[C0374994]	Clostridium perfringens infection in conditions classified elsewhere and of unspecified site	1.74211727926
+[C0040128]	Thyroid Diseases	1.73677339771
+[C0519002]	gi amyloid	1.71833797055
+[C0009450]	Communicable Diseases	1.63417120376
+[C0162635]	Angelman Syndrome	1.61573849462
+[C0042109]	Urticaria	1.58837705221
+[C0035869]	Rotavirus Infections	1.5773811169
+[C1518296]	Neuropathogenesis	1.56816055506
+[C0014378]	Enterovirus Infections	1.54735090441
+[C0162855]	Mucinoses	1.54700100819
+[C0043037]	Common wart	1.54249127812
+[C0679412]	noninfectious hepatitis	1.43750584548
+[C0038463]	Strongyloidiasis	1.12731781222
+[C0033246]	Proctitis	0.862836553265
+[C0151714]	Hypermagnesemia	0.728063595366
+[C0406479]	Steroid acne	0.663594434569
+[C0746550]	mercury allergy	0.644242821129
+[C0038826]	Superinfection	0.616610980012
+[C0403824]	Teratozoospermia	0.611899769443
+[C0856619]	sexual problem	0.594159734608
+[C0012634]	Disease	0.574117765141
+[C0040592]	Trachoma	0.572757091061
+[C0025162]	Megacolon, Toxic	0.565099408252
+[C0571478]	Metronidazole allergy	0.524305040397
+[C0008149]	Chlamydia Infections	0.51428301776
+[C0042384]	Vasculitis	0.511042923406
+[C0338480]	Common Migraine	0.507398669402
+[C0021390]	Inflammatory Bowel Diseases	0.503640283961
+[C0272242]	Complement deficiency disease	0.448288472455
+[C0571934]	Antihypertensive allergy	0.446745588315
+[C0020538]	Hypertensive disease	0.403348264172

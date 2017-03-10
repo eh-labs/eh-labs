@@ -1,0 +1,10 @@
+[C0871535]	toxicomania	4.29299182239
+[C0027849]	Neuroleptic Malignant Syndrome	3.6700356621
+[C0747918]	pregnancy preterm	3.35629254319
+[C0236026]	Fetal valproate syndrome	3.26184965385
+[C0570837]	Risperidone allergy	2.04583744796
+[C0036310]	Scheuermann's Disease	2.04089995931
+[C0679416]	lipidose	1.68247743021
+[C0677607]	Hashimoto Disease	1.68175273767
+[C0040147]	Thyroiditis	1.63431094982
+[C0151559]	Central nervous system depression (disorder)	1.43326035113

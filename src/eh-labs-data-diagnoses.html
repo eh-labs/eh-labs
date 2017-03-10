@@ -26,37 +26,46 @@
         diagnoses: {
           type: Array,
           notify: true,
-          computed:'_queryDiagnoses(query)'
+        },
+
+        predefinedQueries: {
+          type: Array,
+          notify: true,
+          value: []
         }
 
       },
 
-      /*
-        call API in order to get all relevant diagnoses for a query
-        query: long String
-      */
-      _queryDiagnoses(query){
-        const mockIt = function(rd) {
+      observers:['_debounceSetDiagnoses(query, predefinedQueries.*)'],
 
-          terms = this.query.split(/[\s|\.|,|\!|\?]/)
-
-          t = _.chain(terms)
-               .groupBy()
-               .map( (val, key) => {
-                 return {word: key, times: val.length, complexity: key.length}}
-                 )
-               .filter((obj) => obj.complexity > 0)
-               .sortBy( 'complexity')
-               .takeRight(8)
-               .map('word')
-               .value()
-
-          return { diagnosis: rd, terms: t }
-        }
-
-        return this.query ? _.map(mockDataRareDiseases, mockIt.bind(this)) : []
+      attached(){
 
       },
+
+      _debounceSetDiagnoses(query, trigger){
+        const func = function(){
+          this._trySetDisagnose(query)
+        }
+
+        this.debounce('setDiagnoses', func.bind(this), 300)
+      },
+
+      _trySetDisagnose(query){
+        if (query.path) {
+          const pre = this.get('predefinedQueries')
+          const index = pre.findIndex((qry) => qry.path == query.path)
+
+          if (index >= 0) {
+            const path = 'predefinedQueries.' + index + '.results.' + (query.notes.length -1)
+            if (this.get(path)) {
+              this.set('diagnoses', this.get(path))
+            }
+          }
+        } else {
+          return ''
+        }
+      },
+
     });
   </script>
 </dom-module>

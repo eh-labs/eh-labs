@@ -1,0 +1,42 @@
+[C0034212]	Pyoderma	9.86814216815
+[C0276085]	Ecthyma gangrenosum	9.37519020516
+[C0919913]	nasal odor	6.09380744686
+[C0221436]	Melanoderma (disorder)	5.5750783849
+[C0011389]	Dental Plaque	3.70448787113
+[C0362030]	Verrucous epidermal nevus	3.57937501482
+[C0010495]	Cutis Laxa	3.04770252989
+[C3665444]	Neutrophilia (disorder)	2.70526968165
+[C0269017]	Pearly penile papules	2.68922813876
+[C0038034]	Sporotrichosis	2.55106892527
+[C0024131]	Lupus Vulgaris	2.46093912918
+[C0026686]	Mucocele of salivary gland	2.34219110215
+[C0037023]	Sialadenitis	2.26619179687
+[C0017589]	Glanders	2.18126462497
+[C0023343]	Leprosy	2.10112677239
+[C0004030]	Aspergillosis	2.03665013969
+[C0042109]	Urticaria	2.0323607194
+[C0006664]	Calcinosis cutis	2.01034431628
+[C0023646]	Lichen Planus	1.9823829025
+[C0023643]	Lichen disease	1.97996515533
+[C0577658]	Ulcer of palate	1.97552658601
+[C0571279]	Itraconazole allergy	1.82409811187
+[C0003175]	Anthrax disease	1.74495270642
+[C0042029]	Urinary tract infection	1.71487034414
+[C0030846]	Penile Diseases	1.71168791159
+[C0268992]	Prolapse of prepuce	1.69083949459
+[C0036202]	Sarcoidosis	1.68177683809
+[C0018816]	Heart Septal Defects	1.67230611709
+[C0151664]	Gastrointestinal perforation	1.66051768528
+[C0040247]	Tinea	1.65190554173
+[C0343730]	Perianal warts	1.62991644602
+[C0153257]	Primary pulmonary coccidioidomycosis	1.6269953654
+[C0015300]	Exophthalmos	1.62436022792
+[C0009319]	Colitis	1.55442620079
+[C1141927]	wound sepsis	1.42657463078
+[C0400839]	Ulcer of rectum	1.38721478968
+[C0041582]	Ulcer	1.35602176245
+[C0013592]	Ectropion	1.34432287187
+[C1302210]	Toxicity due to radiotherapy	1.33401796373
+[C0035466]	Rhinophyma	1.26243493435
+[C0026718]	Mucormycosis	1.25847380702
+[C0024236]	Lymphedema	1.24392169555

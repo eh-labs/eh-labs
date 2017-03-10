@@ -1,0 +1,49 @@
+[C0009324]	Ulcerative Colitis	24.0866473083
+[C0021390]	Inflammatory Bowel Diseases	9.37488490192
+[C0155285]	Orbital cyst	3.79515934755
+[C0041296]	Tuberculosis	3.03535342897
+[C0033680]	Protein-Losing Enteropathies	2.65932557178
+[C0000833]	Abscess	2.46941943689
+[C0238067]	Colitis, Collagenous	2.28315044783
+[C0003615]	Appendicitis	2.27693916111
+[C0010823]	Cytomegalovirus Infections	2.2037787547
+[C0008312]	Primary biliary cirrhosis	2.17814588148
+[C0002895]	Anemia, Sickle Cell	2.13256837308
+[C0017152]	Gastritis	1.97735226825
+[C0034067]	Pulmonary Emphysema	1.94693713622
+[C0400839]	Ulcer of rectum	1.93973189737
+[C0151664]	Gastrointestinal perforation	1.92554967066
+[C0570585]	Mesalazine allergy	1.9249767068
+[C0040586]	Tracheobronchitis	1.92104553224
+[C0339991]	Post-lung transplantation bronchiectasis	1.90781421516
+[C0012634]	Disease	1.89465487254
+[C0021845]	Intestinal Perforation	1.87425609269
+[C0238454]	Cavernous Sinus Thrombosis	1.75950164821
+[C0008370]	Cholestasis	1.73618589974
+[C1960764]	Crohn's disease in remission	1.67906569827
+[C0010073]	Coronary Artery Vasospasm	1.66266808125
+[C0085270]	Orbital Pseudotumor	1.59101205825
+[C0571388]	Vancomycin allergy	1.56540825557
+[C0237967]	pediatric AIDS	1.51012027913
+[C1631074]	Vitreocorneal adherence	1.50911433687
+[C0162635]	Angelman Syndrome	1.424034234
+[C0238902]	Carotidynia	1.38747957155
+[C0149931]	Migraine Disorders	1.26887169508
+[C0032002]	Pituitary Diseases	1.25177199891
+[C0238045]	Carotid-Cavernous Sinus Fistula	1.20115376665
+[C0027121]	Myositis	1.09062589875
+[C0748694]	sick sinus	0.922648814401
+[C0751079]	Diplopia, Vertical	0.857081144941
+[C0018802]	Congestive heart failure	0.835614550109
+[C0030332]	Panophthalmitis	0.811792864581
+[C0019360]	Herpes zoster disease	0.699430706137
+[C0019342]	Genital Herpes	0.632183334856
+[C0041328]	Tuberculosis, Renal	0.626149158108
+[C0002940]	Aneurysm	0.611926295463
+[C0271270]	Oculovestibuloauditory syndrome	0.588800311018
+[C0870074]	inferior infarction	0.582783954517
+[C0393735]	Headache Disorders	0.576783931675
+[C0042345]	Varicosity	0.551157835912
+[C0031350]	Pharyngitis	0.532667919744
+[C0026691]	Mucocutaneous Lymph Node Syndrome	0.527230497285
+[C0006309]	Brucellosis	0.472105538938

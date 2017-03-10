@@ -1,0 +1,35 @@
+[C0010346]	Crohn Disease	11.2371358712
+[C0235328]	Obstruction of colon	9.20616478059
+[C0012634]	Disease	7.71162545276
+[C0021933]	Intussusception	6.47273093131
+[C0041296]	Tuberculosis	3.96422532047
+[C0020877]	Ileitis	2.98328731519
+[C0585012]	Stenosis of stomach	2.29012323283
+[C0151664]	Gastrointestinal perforation	2.07594430578
+[C1258215]	Ileus	1.9683342897
+[C0004943]	Behcet Syndrome	1.93468352583
+[C0012813]	Diverticulitis	1.92500084962
+[C0009319]	Colitis	1.8777543787
+[C0742597]	colon (non-specific) lesion	1.8023161763
+[C0041635]	Umbilical Cyst	1.71538543225
+[C0041582]	Ulcer	1.66150852944
+[C0025467]	Mesenteric Cyst	1.47183779974
+[C0041327]	Tuberculosis, Pulmonary	1.27355552888
+[C0856169]	endothelial dysfunction	1.20380455527
+[C0031154]	Peritonitis	1.12447634506
+[C0003615]	Appendicitis	1.09074471853
+[C1321580]	Trichobezoar disorder	1.05616304848
+[C0014457]	Eosinophilia	0.987337763087
+[C0267541]	Typhlocolitis	0.94550648599
+[C0023801]	Lipomatosis	0.918870729586
+[C0001727]	Afferent Loop Syndrome	0.883055307552
+[C0085110]	Severe Combined Immunodeficiency	0.879903872073
+[C0272407]	Splenic cyst	0.871075273692
+[C0149937]	Acute interstitial nephritis	0.745225578596
+[C0341266]	Diverticulosis of the duodenum	0.624132959389
+[C1096307]	Lesion of spleen	0.55453555679
+[C0037074]	Sigmoiditis	0.537214704472
+[C1321581]	Bezoar disorder	0.522578014856
+[C0014335]	Enteritis	0.488165093269
+[C0162635]	Angelman Syndrome	0.482783625518
+[C0340791]	Lymph fistula	0.404788415358

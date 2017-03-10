@@ -1,0 +1,33 @@
+[C0042384]	Vasculitis	4.75182669441
+[C0035309]	Retinal Diseases	4.42848105128
+[C0034063]	Pulmonary Edema	3.56243107384
+[C0333205]	Mural thrombus	3.3756086021
+[C0019357]	Keratitis, Herpetic	2.95973388204
+[C0041582]	Ulcer	2.9499198874
+[C0002940]	Aneurysm	2.80924671635
+[C0338480]	Common Migraine	2.34097271422
+[C0029132]	Disorder of the optic nerve	2.31189204388
+[C0748159]	pulmonary involvement	2.14739883043
+[C0019154]	Hepatic Vein Thrombosis	1.98579741305
+[C0030343]	Panuveitis	1.87221088209
+[C0010034]	Corneal Diseases	1.75141579414
+[C0685705]	Multiple intracardiac shunts	1.72243627645
+[C0442874]	Neuropathy	1.62938892397
+[C0151281]	Genital ulcers	1.62303734956
+[C0571283]	Ganciclovir allergy	1.49705433956
+[C0020641]	Hypopyon	1.46418814618
+[C0036202]	Sarcoidosis	1.4579290448
+[C0521478]	Mucocutaneous ulcer	1.44162256845
+[C0039082]	Syndrome	1.38446888191
+[C1850765]	Visual auras	1.31201112325
+[C0027697]	Nephritis	1.31077735172
+[C0026769]	Multiple Sclerosis	1.30482095978
+[C3665438]	Juxtapapillary focal retinitis AND retinochoroiditis	1.29994158665
+[C0746306]	lupus cutaneous	1.24835100896
+[C0015402]	Eye Hemorrhage	1.22223713581
+[C0006111]	Brain Diseases	1.21403977274
+[C0024236]	Lymphedema	1.20950817856
+[C0008055]	Chikungunya Fever	1.18270280734
+[C0034362]	Q Fever	1.13661207226
+[C0268053]	Acute respiratory alkalosis	1.12616232223
+[C0302598]	Avian ventriculitis	1.08004772522

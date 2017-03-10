@@ -1,0 +1,35 @@
+[C0000833]	Abscess	4.05213965593
+[C0010346]	Crohn Disease	3.26177913958
+[C0033680]	Protein-Losing Enteropathies	2.95246867672
+[C0400875]	Hollow visceral neuropathy	2.81314617253
+[C0009319]	Colitis	2.54828719864
+[C0162429]	Malnutrition	2.47902861636
+[C0021933]	Intussusception	2.37616390822
+[C0036992]	Short Bowel Syndrome	2.27804763508
+[C0949135]	Other constipation	1.84376901935
+[C0267475]	Impaction of colon	1.82512219123
+[C0023092]	Lassa Fever	1.73906936332
+[C0007570]	Celiac Disease	1.65621567173
+[C0341266]	Diverticulosis of the duodenum	1.64463197453
+[C0009324]	Ulcerative Colitis	1.63050144186
+[C0339991]	Post-lung transplantation bronchiectasis	1.58520816287
+[C0268021]	Potassium intoxication	1.5414720207
+[C0333291]	Bleeding ulcer	1.52461915914
+[C0342114]	Diffuse goiter	1.48619926867
+[C0041328]	Tuberculosis, Renal	1.44418809679
+[C0221505]	Lesion of brain	1.35990933943
+[C0034362]	Q Fever	1.34507326019
+[C0002726]	Amyloidosis	1.33977684282
+[C0040147]	Thyroiditis	1.33445586402
+[C0677607]	Hashimoto Disease	1.31548806112
+[C0241950]	bowel infarction	1.24710369465
+[C0267533]	Ulcer of cecum	1.22020244318
+[C0036474]	Scurvy	1.21694283597
+[C0041582]	Ulcer	1.20162150173
+[C0570942]	Pseudoephedrine allergy	1.19428464809
+[C0034150]	Purpura	1.18122775741
+[C0238316]	Abscess of omentum	1.15957711155
+[C0152517]	Enteritis due to specified virus	1.14552130522
+[C0519002]	gi amyloid	1.14155112757
+[C0849663]	abdominal cyst	1.12347704485
+[C0040128]	Thyroid Diseases	1.10147625069

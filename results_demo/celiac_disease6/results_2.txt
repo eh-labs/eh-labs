@@ -1,0 +1,72 @@
+[C0014457]	Eosinophilia	13.8964961681
+[C0949135]	Other constipation	4.78678903583
+[C0021933]	Intussusception	4.7494006775
+[C0302486]	Erythrophagocytosis	3.7127432869
+[C0009319]	Colitis	3.13604862154
+[C0042345]	Varicosity	3.01355026192
+[C0857305]	Thrombocytopenic purpura	3.00999143074
+[C0267491]	Ulceration of colon	2.75576691132
+[C0162316]	Iron deficiency anemia	2.445442678
+[C0570616]	Mebeverine allergy	2.33468973023
+[C0014858]	Esophageal motility disorders	2.26971444558
+[C0857828]	infection in the elderly	2.17125734482
+[C0013371]	Shigella Infections	2.16184916498
+[C0302359]	Disease caused by Shigella flexneri	2.11477367856
+[C0269017]	Pearly penile papules	2.10495166957
+[C0007570]	Celiac Disease	2.10389288881
+[C0034152]	Henoch-Schoenlein Purpura	2.10003656405
+[C0152093]	Hypermobility syndrome	2.02285571956
+[C0340563]	Upper limb ischemia	1.9555893652
+[C0277525]	Infectious gastroenteritis	1.95481554041
+[C0271650]	Impaired glucose tolerance	1.92980370643
+[C0024214]	Lymphangiectasis	1.92786971533
+[C0003504]	Aortic Valve Insufficiency	1.92487928347
+[C0001125]	Acidosis, Lactic	1.92376517852
+[C0012813]	Diverticulitis	1.90963076819
+[C0019112]	Hemorrhoids	1.90257404004
+[C0745492]	septic joint	1.87566017816
+[C0000833]	Abscess	1.87130188476
+[C0020488]	Hypernatremia	1.8661740787
+[C0748159]	pulmonary involvement	1.85197893408
+[C0002438]	Amebiasis	1.83432699866
+[C0024141]	Lupus Erythematosus, Systemic	1.596984318
+[C0025467]	Mesenteric Cyst	1.5141209657
+[C2921012]	Other neurofibromatosis	1.39262762346
+[C0571206]	Penicillamine allergy	1.31170004769
+[C0005686]	Urinary Bladder Diseases	1.2242991568
+[C0085655]	Polymyositis	1.2008980283
+[C0221541]	ruptured disk	1.10030569962
+[C0041969]	Urethral Diseases	1.07329421323
+[C0267786]	Parasitic fibroid	1.06382395689
+[C0030305]	Pancreatitis	1.0590903957
+[C0267494]	Chilaiditi Syndrome	0.963011357225
+[C0571585]	Propylthiouracil allergy	0.96092553963
+[C0020550]	Hyperthyroidism	0.945201737205
+[C0023895]	Liver diseases	0.944893291151
+[C0042131]	Uterine Diseases	0.903824175208
+[C0009324]	Ulcerative Colitis	0.871971980708
+[C0004364]	Autoimmune Diseases	0.834220336346
+[C0949272]	IIeocolitis	0.830939961782
+[C0857297]	vitamin depletion	0.81349471151
+[C0268015]	Acute hypokalemia	0.807892631175
+[C0340791]	Lymph fistula	0.804126513319
+[C0012634]	Disease	0.798008377189
+[C0571850]	Potassium allergy	0.794236696226
+[C1527395]	Ogilvie Syndrome	0.770083377393
+[C0521173]	Granulomatosis	0.753048772495
+[C0021167]	Incontinence	0.747888141412
+[C0029405]	Osteitis Fibrosa Cystica	0.740138190797
+[C0149725]	Lower respiratory tract infection	0.736965898531
+[C0271737]	Addison's disease due to autoimmunity	0.723201774032
+[C4054778]	Hepatodiaphragmatic Nodule	0.721372558923
+[C0029408]	Degenerative polyarthritis	0.717969925287
+[C0041330]	Tuberculosis, Spinal	0.713902857734
+[C0030326]	Panniculitis	0.691351914891
+[C0398623]	Thrombophilia	0.664088926331
+[C0019158]	Hepatitis	0.663364222575
+[C0029927]	Ovarian Cysts	0.6629212218
+[C0542147]	Perforation of jejunum	0.640096774866
+[C0023890]	Liver Cirrhosis	0.614840267694
+[C0034362]	Q Fever	0.604222507547
+[C0570587]	Sulfasalazine allergy	0.600286683126
+[C0018801]	Heart failure	0.584205707091

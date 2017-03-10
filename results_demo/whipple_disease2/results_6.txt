@@ -1,0 +1,205 @@
+[C0036202]	Sarcoidosis	18.2053271783
+[C0035309]	Retinal Diseases	12.7816401688
+[C0393808]	Charcot-Marie-Tooth disease, X-linked, 1	8.73821918773
+[C0042384]	Vasculitis	8.31050003845
+[C0003873]	Rheumatoid Arthritis	7.82427668874
+[C0344297]	Choroidal sclerosis	6.32270016412
+[C0023788]	Whipple Disease	5.74014140224
+[C0030343]	Panuveitis	5.46904350952
+[C0036416]	Scleritis	4.92869377517
+[C0008055]	Chikungunya Fever	3.77481600526
+[C0035222]	Respiratory Distress Syndrome, Adult	3.71524876182
+[C3714636]	Pneumonitis	3.69456594094
+[C0014236]	Endophthalmitis	3.6762093592
+[C0027726]	Nephrotic Syndrome	3.05906989719
+[C0024236]	Lymphedema	2.94185826084
+[C0029132]	Disorder of the optic nerve	2.79613120451
+[C0030593]	Pars Planitis	2.72636234909
+[C0027059]	Myocarditis	2.60645827789
+[C0041327]	Tuberculosis, Pulmonary	2.60084620419
+[C0023281]	Leishmaniasis	2.47948577973
+[C0008728]	Churg-Strauss Syndrome	2.4178644824
+[C0032002]	Pituitary Diseases	2.37235479331
+[C0333205]	Mural thrombus	2.37013295952
+[C0035333]	Retinitis	2.35492547908
+[C0751531]	Subclavian Steal	2.35423103268
+[C0276085]	Ecthyma gangrenosum	2.31733956759
+[C0039082]	Syndrome	2.31381049674
+[C0034212]	Pyoderma	2.29681188104
+[C0011848]	Diabetes Insipidus	2.28470267263
+[C0002726]	Amyloidosis	2.28064418306
+[C0041295]	Tuberculoma	2.23579865376
+[C0022073]	Iridocyclitis	2.23078003702
+[C0263500]	Heterochromia of hair	2.22454934716
+[C0206062]	Lung Diseases, Interstitial	2.21288829206
+[C0002940]	Aneurysm	2.18644511603
+[C0030326]	Panniculitis	2.14110846872
+[C0152020]	Gastroparesis	2.06076508728
+[C0155365]	Disorder of vitreous body	2.05357160187
+[C0041188]	Tropical pyomyositis	2.05323628779
+[C4048329]	Immunosuppression	2.04075008068
+[C0876991]	Histiocytosis haematophagic	2.02868658662
+[C0023308]	Lens Diseases	2.02487599108
+[C0041296]	Tuberculosis	1.98624157854
+[C0030327]	Panniculitis, Lupus Erythematosus	1.9396643489
+[C0275934]	Scrofuloderma	1.93876210479
+[C0406479]	Steroid acne	1.93376400921
+[C0276275]	Disease due to Parvoviridae	1.91578613192
+[C0271108]	ciliary injection	1.91103063329
+[C0007222]	Cardiovascular Diseases	1.90946479372
+[C1275589]	Lobular pneumonia	1.90413234915
+[C0009447]	Common Variable Immunodeficiency	1.89146213598
+[C0574960]	Sacroiliitis	1.89021132123
+[C0155080]	Phlyctenular keratoconjunctivitis	1.87507286115
+[C0027947]	Neutropenia	1.86071960508
+[C0857236]	rash both legs	1.84879167398
+[C0748159]	pulmonary involvement	1.74954988672
+[C0026269]	Mitral Valve Stenosis	1.74381882008
+[C0014356]	Enterocolitis	1.74036932592
+[C0010414]	Infection by Cryptococcus neoformans	1.73494820192
+[C0037199]	Sinusitis	1.70713847499
+[C0007766]	Intracranial Aneurysm	1.69866423764
+[C0679412]	noninfectious hepatitis	1.69573129307
+[C0008439]	Chondritis	1.69313873114
+[C0003848]	Arteriolitis	1.69088932637
+[C0582415]	Acute asthma	1.68540947392
+[C0400875]	Hollow visceral neuropathy	1.67734767762
+[C0023290]	Leishmaniasis, Visceral	1.6647996728
+[C0011311]	Dengue Fever	1.65397749059
+[C0238349]	Cellulitis of penis	1.64139344859
+[C0086438]	Hypogammaglobulinemia	1.62665409364
+[C0008489]	Chorea	1.61757132925
+[C0570789]	Phenytoin allergy	1.61312839655
+[C0035319]	Retinal Necrosis Syndrome, Acute	1.40642893892
+[C0571131]	Colchicine allergy	1.31751272972
+[C0442874]	Neuropathy	1.31650849568
+[C0151281]	Genital ulcers	1.3012352202
+[C0338480]	Common Migraine	1.29079109848
+[C0234549]	Stress seizure	1.26744068935
+[C0571283]	Ganciclovir allergy	1.24876502793
+[C0020641]	Hypopyon	1.22640886047
+[C0019154]	Hepatic Vein Thrombosis	1.22334254492
+[C0020488]	Hypernatremia	1.19651931342
+[C0041582]	Ulcer	1.18133556668
+[C0685705]	Multiple intracardiac shunts	1.14982760738
+[C0521478]	Mucocutaneous ulcer	1.12834350654
+[C0021933]	Intussusception	1.11710721633
+[C0027697]	Nephritis	1.11301355302
+[C0403597]	Failed renal transplant	1.10872919225
+[C3665438]	Juxtapapillary focal retinitis AND retinochoroiditis	1.09139693243
+[C0746306]	lupus cutaneous	1.08964776855
+[C0026769]	Multiple Sclerosis	1.05840151429
+[C0268053]	Acute respiratory alkalosis	1.03737799366
+[C0877445]	Candidemia	1.02343963343
+[C0302598]	Avian ventriculitis	1.00601002716
+[C0010418]	Cryptosporidiosis	1.00322860277
+[C0030353]	Papilledema	0.980176806215
+[C0392475]	Roberts-SC phocomelia syndrome	0.975703313223
+[C0015402]	Eye Hemorrhage	0.970173994284
+[C0003864]	Arthritis	0.967460679271
+[C0033860]	Psoriasis	0.961685773906
+[C0006840]	Candidiasis	0.933643077249
+[C0571400]	Ciprofloxacin allergy	0.908858919322
+[C0023364]	Leptospirosis	0.907293023834
+[C0030305]	Pancreatitis	0.891459284221
+[C0024141]	Lupus Erythematosus, Systemic	0.8533397328
+[C0282687]	Hemorrhagic Fever, Ebola	0.839401588909
+[C0032533]	Polymyalgia Rheumatica	0.778411216958
+[C0795939]	AMINOPTERIN SYNDROME SINE AMINOPTERIN	0.770097371541
+[C0432370]	Fetal carbamazepine syndrome	0.754584253589
+[C0024790]	Paroxysmal nocturnal hemoglobinuria	0.751153544673
+[C0014457]	Eosinophilia	0.745553252483
+[C0151950]	Deep thrombophlebitis	0.728888149559
+[C0570901]	Propranolol allergy	0.728660408139
+[C0040558]	Toxoplasmosis	0.708011887771
+[C0153042]	Herpetic whitlow	0.693905093428
+[C0269017]	Pearly penile papules	0.685539318785
+[C0034152]	Henoch-Schoenlein Purpura	0.682134997921
+[C0041471]	TYPHUS	0.674929376808
+[C0155448]	Petrositis	0.660457332801
+[C0238814]	brain hemangioma	0.657904270453
+[C0036472]	Scrub Typhus	0.645463245618
+[C0347630]	Liver hematoma	0.632803091088
+[C1257843]	pseudomembranous colitis	0.632717639119
+[C0002950]	Aneurysm, Infected	0.619011174279
+[C0020437]	Hypercalcemia	0.614013080959
+[C0271355]	Abducens Nerve Diseases	0.592465671374
+[C0022568]	Keratitis	0.590904675679
+[C0014118]	Endocarditis	0.589936164193
+[C1400903]	Eyelid infiltrates	0.585506574789
+[C0031069]	Familial Mediterranean Fever	0.580958892235
+[C0041324]	Tuberculosis, Osteoarticular	0.574808546207
+[C0027813]	Neuritis	0.569612829714
+[C0235574]	Intravascular hemolysis	0.569045214605
+[C0025637]	Methemoglobinemia	0.568103385045
+[C0730362]	Disorder of macula of retina	0.566789844936
+[C0746882]	neutropenia chronic	0.561349030154
+[C0010823]	Cytomegalovirus Infections	0.556811637811
+[C0751079]	Diplopia, Vertical	0.552450165335
+[C0405580]	Adrenal cortical hypofunction	0.540941844367
+[C0000833]	Abscess	0.540612966061
+[C0852949]	Arteriopathic disease	0.533602510779
+[C0009421]	Comatose	0.532522663614
+[C0393593]	Dystonia Disorders	0.526213327504
+[C0238002]	Abscess of appendix (disorder)	0.515897016438
+[C0024530]	Malaria	0.512822474135
+[C0494491]	Mononeuropathies	0.509601096798
+[C0263541]	founder	0.50046482061
+[C0041322]	Tuberculosis, Ocular	0.492865959201
+[C0393485]	Neurosarcoidosis	0.49034383561
+[C0029443]	Osteomyelitis	0.487434966962
+[C0571276]	Miconazole allergy	0.486085715359
+[C3805188]	Suprapubic abscess	0.485187017277
+[C0085605]	Liver Failure	0.482094742039
+[C0011606]	Exfoliative dermatitis	0.481681582738
+[C0857297]	vitamin depletion	0.478182957719
+[C0009319]	Colitis	0.476208970469
+[C0241266]	Subcutaneous Abscess	0.475160012032
+[C0009450]	Communicable Diseases	0.474151947273
+[C1275460]	Hemodialysis-associated pruritus	0.473881830236
+[C0085656]	Nummular eczema	0.471640251578
+[C0002878]	Anemia, Hemolytic	0.470284248359
+[C3714757]	Juvenile rheumatoid arthritis	0.46734665754
+[C0011636]	Dermatophytosis	0.467294530077
+[C0010674]	Cystic Fibrosis	0.460004893691
+[C0026946]	Mycoses	0.457590693954
+[C0030446]	Paralytic Ileus	0.456849461611
+[C0014868]	Esophagitis	0.454995829526
+[C0002880]	Autoimmune hemolytic anemia	0.454963705707
+[C0012624]	Discitis	0.452444097273
+[C0013182]	Drug Allergy	0.451818489339
+[C0271737]	Addison's disease due to autoimmunity	0.446720810231
+[C0268021]	Potassium intoxication	0.44641672991
+[C0002871]	Anemia	0.442390219835
+[C0340161]	Hematomediastinum	0.442090599167
+[C0240820]	pseudofracture	0.437043839443
+[C0003509]	Aortitis	0.431475960873
+[C0037274]	Dermatologic disorders	0.42813827243
+[C0033581]	prostatitis	0.424842573397
+[C0010346]	Crohn Disease	0.421733226561
+[C0570721]	Azathioprine allergy	0.418150693484
+[C3887524]	Skin Erosion	0.410189017001
+[C0038463]	Strongyloidiasis	0.410000858901
+[C0264946]	Erythrocyanosis	0.402958658537
+[C0519030]	Pneumonia due to Klebsiella pneumoniae	0.399770901407
+[C0521173]	Granulomatosis	0.39638997329
+[C0035321]	Retinal Perforations	0.396302181222
+[C0571256]	Flucytosine allergy	0.390588794634
+[C0024131]	Lupus Vulgaris	0.389481315829
+[C0867390]	postoperative stroke	0.382451907241
+[C0162635]	Angelman Syndrome	0.382341121569
+[C0270774]	Myelomalacia	0.372560576207
+[C0221505]	Lesion of brain	0.368771435258
+[C0024586]	Malignant Carcinoid Syndrome	0.356121351276
+[C0020538]	Hypertensive disease	0.345468558544
+[C0570921]	Amlodipine allergy	0.342584084527
+[C0040579]	Tracheal Cyst	0.339781694654
+[C0001126]	Renal tubular acidosis	0.337618076214
+[C0339991]	Post-lung transplantation bronchiectasis	0.336500189505
+[C0571217]	Hemofiltration solution allergy	0.326302372625
+[C0037921]	Spinal ataxia	0.324796830728
+[C0002636]	Amniotic Band Syndrome	0.312654712906
+[C0026691]	Mucocutaneous Lymph Node Syndrome	0.311381894601
+[C0014335]	Enteritis	0.301802780986
+[C1396318]	eye embolism	0.298011618727
+[C0028754]	Obesity	0.278050688336

@@ -1,0 +1,92 @@
+[C0011303]	Demyelinating Diseases	10.6749175182
+[C0024141]	Lupus Erythematosus, Systemic	9.38107161081
+[C0026769]	Multiple Sclerosis	7.22310787039
+[C0871535]	toxicomania	5.86415338348
+[C0035309]	Retinal Diseases	5.5551122487
+[C0014038]	Encephalitis	5.38415043517
+[C0149931]	Migraine Disorders	4.71883644795
+[C0026975]	Myelitis	4.13466819733
+[C1304674]	Anti-D antibodies	4.13373890263
+[C0236026]	Fetal valproate syndrome	3.80010671874
+[C0007570]	Celiac Disease	3.72480296596
+[C0040553]	Toxocariasis	3.44964527019
+[C0029132]	Disorder of the optic nerve	3.1239867572
+[C0338480]	Common Migraine	3.10216840487
+[C0011311]	Dengue Fever	2.58424682846
+[C0027849]	Neuroleptic Malignant Syndrome	2.4085174472
+[C0030353]	Papilledema	2.38453425383
+[C0338489]	Status Migrainosus	2.33946851281
+[C0750992]	Catatonia, Malignant	2.33515033762
+[C0570837]	Risperidone allergy	2.27821015522
+[C0338474]	Central nervous system demyelination	2.2560401809
+[C0039082]	Syndrome	2.25475833067
+[C0014070]	Encephalomyelitis	2.20816883872
+[C0002136]	allogeneic disease	2.18209452408
+[C0036413]	Scleredema Adultorum	2.06916908266
+[C0007194]	Hypertrophic Cardiomyopathy	2.01679897759
+[C0570661]	Levamisole allergy	1.97187162893
+[C0270612]	Leukoencephalopathies	1.96851632456
+[C0027743]	Nerve compression syndrome	1.88365443892
+[C1396318]	eye embolism	1.84571012526
+[C0085270]	Orbital Pseudotumor	1.83957024483
+[C0038522]	Subacute Sclerosing Panencephalitis	1.78002132989
+[C0393667]	Extrapontine Myelinolysis	1.7634745693
+[C0032285]	Pneumonia	1.75374203046
+[C0272410]	Splenitis	1.75319196181
+[C0085584]	Encephalopathies	1.66494383503
+[C0155307]	Optic chiasm disorder	1.65979707015
+[C0014457]	Eosinophilia	1.65670130908
+[C0035281]	Retention cyst	1.6479262904
+[C0030283]	Pancreatic Cyst	1.64582688198
+[C0022118]	Transient ischemia	1.63625107415
+[C0241062]	Skin deposits	1.62036212517
+[C0025007]	Measles	1.60643485501
+[C0232190]	Vagal autonomic bradycardia	1.60335649979
+[C0302809]	Fulminant hepatitis	1.59794106122
+[C0152227]	Excessive tearing	1.56332191052
+[C0570779]	Lamotrigine allergy	1.41007834063
+[C0033117]	Priapism	1.40806337052
+[C0242422]	Parkinsonian Disorders	1.36019249192
+[C0012634]	Disease	1.21822467479
+[C0030305]	Pancreatitis	1.2108088585
+[C0004364]	Autoimmune Diseases	1.20538579443
+[C0570632]	Propofol allergy	1.12227184687
+[C0236663]	Alcohol withdrawal syndrome	1.11474155357
+[C0152246]	Iridodialysis	1.08571760154
+[C0570781]	Gabapentin allergy	1.08003605778
+[C0034063]	Pulmonary Edema	1.05710107681
+[C0031315]	Phantom Limb Syndrome	1.04907385963
+[C0028271]	Noma	1.04720997846
+[C0023524]	Leukoencephalopathy, Progressive Multifocal	1.03908913703
+[C0030105]	Ozena (disorder)	0.995130551363
+[C0026272]	Mixed Connective Tissue Disease	0.97843687152
+[C0020488]	Hypernatremia	0.968614789684
+[C0040128]	Thyroid Diseases	0.948437164685
+[C0405583]	Calcium deposits in tendon	0.947441787089
+[C0151559]	Central nervous system depression (disorder)	0.889608860838
+[C0442874]	Neuropathy	0.853578038009
+[C0011119]	Decompression Sickness	0.844582333055
+[C0018190]	Granuloma Inguinale	0.721096596821
+[C0005686]	Urinary Bladder Diseases	0.662079560124
+[C0027927]	Neurosyphilis	0.622618353314
+[C0015402]	Eye Hemorrhage	0.619520547732
+[C0221406]	Pituitary-dependent Cushing's disease	0.606926055938
+[C0240820]	pseudofracture	0.594566871523
+[C0024591]	Malignant hyperpyrexia due to anesthesia	0.584257179732
+[C0033575]	Prostatic Diseases	0.547321045974
+[C0347630]	Liver hematoma	0.522126307234
+[C0022681]	Medullary sponge kidney	0.514353335159
+[C0748470]	sacral ulcer	0.513556287415
+[C4023792]	Paraplegia/paraparesis	0.488531805814
+[C0152089]	Post-laminectomy syndrome	0.485094729439
+[C0002959]	Angiectasis	0.473360098536
+[C0338467]	Facial tic disorder	0.459028321185
+[C0040579]	Tracheal Cyst	0.44967434663
+[C1171328]	catecholamine hypertension	0.444010256678
+[C1512709]	Chronic Lymphoproliferative Disorder of NK-Cells	0.440103399996
+[C0275586]	Infectious bovine keratoconjunctivitis	0.43093115394
+[C0270870]	Alajouanine's syndrome	0.429303278338
+[C0008728]	Churg-Strauss Syndrome	0.415705050738
+[C3711850]	Opticospinal Multiple Sclerosis	0.413840213535
+[C0405580]	Adrenal cortical hypofunction	0.393656145634
+[C0013295]	Duodenal Ulcer	0.378100273147

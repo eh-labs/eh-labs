@@ -1,0 +1,25 @@
+[C0021933]	Intussusception	9.93982046559
+[C0032568]	Inflammatory polyp	4.72148255838
+[C0012634]	Disease	4.13225654706
+[C0235328]	Obstruction of colon	4.07575374146
+[C0030446]	Paralytic Ileus	3.13539640773
+[C1321580]	Trichobezoar disorder	2.05067242643
+[C0003615]	Appendicitis	2.00613325906
+[C0014457]	Eosinophilia	1.91519509904
+[C0267541]	Typhlocolitis	1.82020921864
+[C0221541]	ruptured disk	1.67834502824
+[C0272407]	Splenic cyst	1.57656249595
+[C0149937]	Acute interstitial nephritis	1.32975611895
+[C0341266]	Diverticulosis of the duodenum	1.2085505692
+[C0542147]	Perforation of jejunum	1.15291871314
+[C0025467]	Mesenteric Cyst	1.06418839252
+[C0012813]	Diverticulitis	1.0511602446
+[C0037074]	Sigmoiditis	1.0343358242
+[C1321581]	Bezoar disorder	1.00886234498
+[C1258215]	Ileus	0.983490685842
+[C1096307]	Lesion of spleen	0.958527417248
+[C0014335]	Enteritis	0.940574210087
+[C0162635]	Angelman Syndrome	0.929456610629
+[C0340791]	Lymph fistula	0.775777142167
+[C0742597]	colon (non-specific) lesion	0.724042255541
+[C0041296]	Tuberculosis	0.71538766006

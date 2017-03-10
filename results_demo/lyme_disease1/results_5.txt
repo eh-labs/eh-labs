@@ -1,0 +1,82 @@
+[C0014236]	Endophthalmitis	21.274323492
+[C0035309]	Retinal Diseases	9.25839292548
+[C0036416]	Scleritis	6.84126576215
+[C0010709]	Cyst	6.17344956172
+[C0017601]	Glaucoma	6.03543495669
+[C0004771]	Bartonella Infections	5.72620519481
+[C0085702]	Monocytosis	4.95259429659
+[C0039082]	Syndrome	4.68778858957
+[C1562230]	Retinochoroidopathy	4.65937444177
+[C0024198]	Lyme Disease	4.63469082671
+[C0024141]	Lupus Erythematosus, Systemic	4.39338280503
+[C0010034]	Corneal Diseases	4.36824701623
+[C0022568]	Keratitis	4.222622503
+[C0857236]	rash both legs	3.92086115514
+[C0277334]	Infection by Moniliformis	3.8539822817
+[C0037274]	Dermatologic disorders	3.73250247356
+[C0344297]	Choroidal sclerosis	3.55772113303
+[C0085661]	Onycholysis	3.46236239366
+[C0036412]	Scleral Diseases	3.41152948496
+[C0343398]	Cyclosporiasis	3.32469712009
+[C0022575]	Keratoconjunctivitis Sicca	3.2924272239
+[C0238902]	Carotidynia	3.00805214813
+[C0023860]	Listeriosis	2.84133248263
+[C0152964]	streptococcal bacteremia	2.79153280877
+[C0028879]	Odontogenic Cysts	2.72348522797
+[C0036202]	Sarcoidosis	2.32244051845
+[C0152063]	Streptobacillary fever	2.11521474527
+[C0858958]	shock symptoms	2.09328731943
+[C0005716]	Blastomycosis	1.99883058165
+[C0152965]	staph bacteremia	1.99477262385
+[C0263009]	Sclerosis of the skin	1.98614901942
+[C0264551]	Pleurisy with effusion	1.96007105098
+[C0235394]	Wasting	1.9388871565
+[C0694566]	Atypical Mycobacterial Infection, Disseminated	1.90636917974
+[C0032285]	Pneumonia	1.89732802422
+[C0877445]	Candidemia	1.8925494866
+[C0035321]	Retinal Perforations	1.86799424015
+[C0041296]	Tuberculosis	1.8650896688
+[C0000833]	Abscess	1.83893207237
+[C0030326]	Panniculitis	1.82542628226
+[C0085635]	Photopsia	1.81578477402
+[C0041582]	Ulcer	1.78754842237
+[C0023092]	Lassa Fever	1.76962374072
+[C0014457]	Eosinophilia	1.76853588653
+[C0342114]	Diffuse goiter	1.75780667667
+[C0003864]	Arthritis	1.75728565584
+[C0339321]	Phacotoxic uveitis	1.75679235542
+[C0571418]	Ampicillin allergy	1.75331916924
+[C0042384]	Vasculitis	1.71396665924
+[C3875267]	Renal anasarca	1.62867967392
+[C0571522]	Rifabutin allergy	1.60079349668
+[C0578682]	Madarosis of eyebrow	1.57957496651
+[C0571276]	Miconazole allergy	1.38174727914
+[C0153042]	Herpetic whitlow	1.272968481
+[C0276758]	Fusariosis	1.25888885469
+[C1291490]	Hyaluronidase Deficiency	1.25077793035
+[C0033999]	Pterygium	1.21359888423
+[C0276097]	Coligranuloma	1.18703622721
+[C0238045]	Carotid-Cavernous Sinus Fistula	1.17667714491
+[C0037116]	Silicosis	1.14482758726
+[C0155338]	Total ophthalmoplegia	1.07814809385
+[C0029877]	Ear Inflammation	1.06357821957
+[C0019114]	Hemosiderosis	1.06283817974
+[C0024440]	Macular Edema, Cystoid	1.02795948955
+[C0013182]	Drug Allergy	1.02684045835
+[C0030636]	Pasteurella Infections	1.02215636729
+[C0018802]	Congestive heart failure	0.965115812493
+[C0238454]	Cavernous Sinus Thrombosis	0.960544627581
+[C0521173]	Granulomatosis	0.959234139599
+[C0347630]	Liver hematoma	0.874598136551
+[C1408889]	Subperiosteal ossification	0.864704795667
+[C0009763]	Conjunctivitis	0.8336023735
+[C0038757]	Allergy to sulfonamides	0.813158659192
+[C0741020]	Anesthetic allergy	0.802900709012
+[C0022904]	Lacrimal Apparatus Diseases	0.784487150856
+[C1290051]	Sweat gland pore closure	0.783571254297
+[C0152972]	pseudomonas sepsis	0.759747286316
+[C0155177]	Eczematous dermatitis of eyelid	0.745226640794
+[C0232881]	True proteinuria	0.627316787663
+[C3249881]	Infection - suppurative	0.602531283103
+[C0027726]	Nephrotic Syndrome	0.578599427697
+[C0019158]	Hepatitis	0.507369724734

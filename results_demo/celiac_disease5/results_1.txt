@@ -1,0 +1,54 @@
+[C0024141]	Lupus Erythematosus, Systemic	4.78874616116
+[C0747918]	pregnancy preterm	3.87043236888
+[C0023895]	Liver diseases	3.80462418156
+[C0162635]	Angelman Syndrome	3.52761889744
+[C0034063]	Pulmonary Edema	3.23751648808
+[C0042384]	Vasculitis	3.01425743243
+[C0234549]	Stress seizure	2.79659493336
+[C0000814]	Missed abortion	2.47619830623
+[C0014130]	Endocrine System Diseases	2.38922237996
+[C0024530]	Malaria	2.22828688265
+[C0030305]	Pancreatitis	2.21509807955
+[C0745261]	infant apnea	2.13023395011
+[C3854388]	Hyperferritinaemia	2.11145712637
+[C0262655]	Recurrent urinary tract infection	2.09324847558
+[C0014457]	Eosinophilia	2.06132362835
+[C0836924]	Thrombocytosis	2.01920707007
+[C0750992]	Catatonia, Malignant	1.97526236718
+[C0268532]	Deficiency of prolidase	1.9617784446
+[C0085584]	Encephalopathies	1.85759744304
+[C0041296]	Tuberculosis	1.80491562379
+[C0571585]	Propylthiouracil allergy	1.80487883051
+[C0748694]	sick sinus	1.8017817965
+[C0020550]	Hyperthyroidism	1.7806829156
+[C0339991]	Post-lung transplantation bronchiectasis	1.75650465505
+[C0151950]	Deep thrombophlebitis	1.68209752522
+[C0233093]	abortion in first trimester	1.61689484899
+[C0027765]	nervous system disorder	1.59725513735
+[C0020459]	Hyperinsulinism	1.59716819579
+[C0024131]	Lupus Vulgaris	1.58384599484
+[C0677607]	Hashimoto Disease	1.55870005345
+[C0149725]	Lower respiratory tract infection	1.5449247375
+[C0027709]	Nephrocalcinosis	1.53935762658
+[C0162316]	Iron deficiency anemia	1.5391993428
+[C1540745]	Disorder of testosterone	1.51393488172
+[C0570823]	Lorazepam allergy	1.46836857572
+[C0340030]	Pleural plaque	1.43024266208
+[C0020619]	Hypogonadism	1.41805645697
+[C0020488]	Hypernatremia	1.40006664069
+[C0002170]	Alopecia	1.33541168476
+[C0038454]	Cerebrovascular accident	1.33085680204
+[C0271737]	Addison's disease due to autoimmunity	1.32804331783
+[C0001126]	Renal tubular acidosis	1.31213442245
+[C0263519]	Anagen effluvium	1.2746257904
+[C0238644]	Anemia, severe	1.25834395257
+[C0015645]	Fasciitis	1.24597621088
+[C0019034]	Hemoglobin SC Disease	1.23952683522
+[C0034494]	Rabies (disorder)	1.22971564822
+[C0085409]	Polyendocrinopathies, Autoimmune	1.22411138837
+[C3825536]	Veterinary endocrinology	1.20778337405
+[C0011849]	Diabetes Mellitus	1.20451972942
+[C0340869]	Transfusion reaction due to excess volume	1.14474627439
+[C0004610]	Bacteremia	1.12830897741
+[C0018801]	Heart failure	1.11415504083
+[C0040034]	Thrombocytopenia	1.0656486231

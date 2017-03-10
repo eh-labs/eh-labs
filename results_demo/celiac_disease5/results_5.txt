@@ -1,0 +1,124 @@
+[C0007570]	Celiac Disease	32.2408954941
+[C0030305]	Pancreatitis	17.6928148905
+[C0024141]	Lupus Erythematosus, Systemic	10.533651195
+[C0041328]	Tuberculosis, Renal	10.406336192
+[C0017658]	Glomerulonephritis	7.06781553232
+[C0023895]	Liver diseases	5.12738738143
+[C0747918]	pregnancy preterm	4.72276377186
+[C0009421]	Comatose	4.32470819031
+[C0857305]	Thrombocytopenic purpura	4.21916680469
+[C0162635]	Angelman Syndrome	3.90444980783
+[C0034063]	Pulmonary Edema	3.7306239269
+[C0042384]	Vasculitis	3.71117736964
+[C0234549]	Stress seizure	3.56065425276
+[C0162316]	Iron deficiency anemia	3.47036412611
+[C0085278]	Antiphospholipid Syndrome	3.38723698123
+[C0014457]	Eosinophilia	3.32657881737
+[C0000814]	Missed abortion	3.10662506292
+[C0023890]	Liver Cirrhosis	3.10563463519
+[C0027697]	Nephritis	2.90061298819
+[C0020452]	Hyperemia	2.89962408751
+[C0085409]	Polyendocrinopathies, Autoimmune	2.81481541302
+[C0008370]	Cholestasis	2.63536102392
+[C0272407]	Splenic cyst	2.6347182946
+[C0022353]	Neonatal Jaundice	2.41004937038
+[C0870074]	inferior infarction	2.40274614327
+[C0022354]	Jaundice, Obstructive	2.39584599702
+[C0002880]	Autoimmune hemolytic anemia	2.3693294674
+[C0011311]	Dengue Fever	2.29935984382
+[C0149937]	Acute interstitial nephritis	2.27683378941
+[C0018995]	Hemochromatosis	2.24628548211
+[C0221773]	Hyperamylasemia	2.21541401012
+[C0024530]	Malaria	2.20975003545
+[C0020676]	Hypothyroidism	2.20869552682
+[C0032231]	Pleurisy	2.19042880993
+[C0343398]	Cyclosporiasis	2.17452982327
+[C0020437]	Hypercalcemia	2.1589860129
+[C0677607]	Hashimoto Disease	2.15285475657
+[C0034155]	Purpura, Thrombotic Thrombocytopenic	2.14193196717
+[C0745261]	infant apnea	2.12054068369
+[C0020557]	Hypertriglyceridemia	2.11852370866
+[C0263991]	Equine rhabdomyolysis	2.11167341919
+[C0011880]	Diabetic Ketoacidosis	2.10046763662
+[C0750992]	Catatonia, Malignant	2.09066160859
+[C0262655]	Recurrent urinary tract infection	2.08349439317
+[C0014130]	Endocrine System Diseases	2.0787578493
+[C0036474]	Scurvy	2.04476132305
+[C0836924]	Thrombocytosis	2.04013266746
+[C0268532]	Deficiency of prolidase	2.02880516666
+[C0270774]	Myelomalacia	2.01956718448
+[C0347630]	Liver hematoma	2.00065290973
+[C0362046]	Prediabetes syndrome	2.00044011767
+[C0001339]	Acute pancreatitis	1.981518958
+[C0571585]	Propylthiouracil allergy	1.9712112201
+[C0085584]	Encephalopathies	1.96132212289
+[C0020550]	Hyperthyroidism	1.95881070685
+[C0400875]	Hollow visceral neuropathy	1.95574317478
+[C0020459]	Hyperinsulinism	1.94904055302
+[C0020626]	Hypoparathyroidism	1.94737883714
+[C0041296]	Tuberculosis	1.93954137974
+[C0042109]	Urticaria	1.93034661855
+[C0748694]	sick sinus	1.92870125455
+[C0024131]	Lupus Vulgaris	1.91466510413
+[C0849663]	abdominal cyst	1.90438658647
+[C0027059]	Myocarditis	1.90013079173
+[C0339991]	Post-lung transplantation bronchiectasis	1.89519874814
+[C0041582]	Ulcer	1.88735184486
+[C0155765]	Disease of capillaries	1.88406218514
+[C0027709]	Nephrocalcinosis	1.88019589983
+[C0151950]	Deep thrombophlebitis	1.87659656183
+[C0233093]	abortion in first trimester	1.86144224517
+[C0857297]	vitamin depletion	1.8533559854
+[C0149725]	Lower respiratory tract infection	1.84864902823
+[C1540745]	Disorder of testosterone	1.84278059243
+[C0570823]	Lorazepam allergy	1.8308763019
+[C0553573]	Primary infertility	1.82325954745
+[C0038454]	Cerebrovascular accident	1.82123279549
+[C0027765]	nervous system disorder	1.81322212981
+[C0002170]	Alopecia	1.80337115377
+[C0020619]	Hypogonadism	1.79364247633
+[C0271737]	Addison's disease due to autoimmunity	1.79182846017
+[C0340030]	Pleural plaque	1.78987395812
+[C0015645]	Fasciitis	1.77363898787
+[C0263519]	Anagen effluvium	1.77221811446
+[C0020488]	Hypernatremia	1.77051973129
+[C0001126]	Renal tubular acidosis	1.76374300424
+[C0019034]	Hemoglobin SC Disease	1.74753967586
+[C3825536]	Veterinary endocrinology	1.72285101138
+[C0011849]	Diabetes Mellitus	1.71939537043
+[C0238644]	Anemia, severe	1.71265000029
+[C0004610]	Bacteremia	1.70367446167
+[C0340869]	Transfusion reaction due to excess volume	1.69896421986
+[C0018801]	Heart failure	1.68220977363
+[C0040034]	Thrombocytopenia	1.66261114512
+[C0022680]	Polycystic Kidney Diseases	1.39822556753
+[C0027721]	Lipoid nephrosis	1.22893620076
+[C0021831]	Intestinal Diseases	1.20863072987
+[C0403416]	Idiopathic crescentic glomerulonephritis	1.17526195958
+[C0162275]	Ketonuria	1.16343761325
+[C0010346]	Crohn Disease	1.12484679864
+[C0033845]	Pseudotumor Cerebri	1.12278035697
+[C0268747]	Diffuse mesangial sclerosis (disorder)	1.06039079342
+[C2937365]	Recurrent aphthous ulcer	1.03707847373
+[C1394210]	Pel crisis	1.02484564153
+[C0017662]	Glomerulonephritis, Membranoproliferative	1.01222898271
+[C0272242]	Complement deficiency disease	0.991780810821
+[C0038054]	Sprue, Tropical	0.982854332779
+[C0018824]	Heart valve disease	0.955662810466
+[C0570660]	Filgrastim allergy	0.944095051834
+[C0018939]	Hematological Disease	0.924379227247
+[C0022667]	Kidney Papillary Necrosis	0.923690184292
+[C0742006]	Catheter infection	0.901529985497
+[C0858318]	Plasmodium falciparum infection	0.895501329561
+[C0268731]	Renal glomerular disease	0.890958183977
+[C0178664]	Glomerulosclerosis (disorder)	0.887927440717
+[C0042900]	Vitiligo	0.840359043458
+[C0014544]	Epilepsy	0.821870300829
+[C0020551]	Hyperthyroxinemia	0.799227391009
+[C1865883]	Polydactyly, Postaxial, Type A2	0.592020551903
+[C0747845]	early pregnancy	0.515059315407
+[C1960764]	Crohn's disease in remission	0.498368823796
+[C0037859]	Spermatocele	0.495469888793
+[C0040147]	Thyroiditis	0.434783802688
+[C3683791]	Ataxia Neuropathy Spectrum	0.394874488656
+[C0030312]	Pancytopenia	0.375663353589

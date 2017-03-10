@@ -1,0 +1,63 @@
+[C0026769]	Multiple Sclerosis	7.72766399478
+[C0747918]	pregnancy preterm	4.69769098593
+[C0149931]	Migraine Disorders	4.52792924256
+[C0871535]	toxicomania	4.52728936453
+[C0027849]	Neuroleptic Malignant Syndrome	4.18681179393
+[C0236026]	Fetal valproate syndrome	3.94829322712
+[C0014070]	Encephalomyelitis	3.66491434803
+[C0011303]	Demyelinating Diseases	3.11024364266
+[C0570837]	Risperidone allergy	2.23211302047
+[C0036310]	Scheuermann's Disease	2.14724056387
+[C0679416]	lipidose	2.04134004823
+[C0677607]	Hashimoto Disease	1.97236621701
+[C0338480]	Common Migraine	1.96340830551
+[C0040147]	Thyroiditis	1.92557442701
+[C0151559]	Central nervous system depression (disorder)	1.83106471969
+[C0023524]	Leukoencephalopathy, Progressive Multifocal	1.79154368492
+[C0011311]	Dengue Fever	1.75529372056
+[C0338489]	Status Migrainosus	1.53926467054
+[C0750940]	Tremor, Rubral	1.51415196568
+[C0221057]	Dejerine-Roussy Syndrome	1.40119317224
+[C0275586]	Infectious bovine keratoconjunctivitis	1.3457252635
+[C0039082]	Syndrome	1.33603472198
+[C0237967]	pediatric AIDS	1.33397913601
+[C0020655]	Hypothalamic Diseases	1.29287082047
+[C0338474]	Central nervous system demyelination	1.27480851115
+[C0570661]	Levamisole allergy	1.24752827917
+[C0270612]	Leukoencephalopathies	1.24391743066
+[C0393819]	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	1.1232709404
+[C0014038]	Encephalitis	1.08982437221
+[C0029132]	Disorder of the optic nerve	1.03276555454
+[C0347630]	Liver hematoma	0.986111218502
+[C0570693]	Methotrexate allergy	0.874900451956
+[C0001126]	Renal tubular acidosis	0.822207629413
+[C0085570]	Hypokalemic alkalosis	0.796627498534
+[C0018378]	Guillain-Barre Syndrome	0.782182826454
+[C0021167]	Incontinence	0.779357167938
+[C1253936]	Hydrarthrosis	0.775803930753
+[C0010678]	Cysticercosis	0.758619535793
+[C0264622]	Psychogenic voice disorder	0.754818664103
+[C0338437]	Neurocysticercosis	0.725495850643
+[C0156847]	Anemia of mother, postpartum condition or complication	0.689894691353
+[C0270932]	Paraneoplastic Polyneuropathy	0.669735319073
+[C0270793]	Facial hemiplegia	0.66855015806
+[C0152227]	Excessive tearing	0.665732705871
+[C0442874]	Neuropathy	0.664567505719
+[C0035021]	Relapsing Fever	0.65995708822
+[C0742115]	Cerebritis	0.656832683573
+[C0521542]	Brain Stem Infarctions	0.632433040958
+[C1291623]	Deficiency of racemase	0.610661345427
+[C0028738]	Nystagmus	0.608070829194
+[C0019340]	herpes	0.602335902843
+[C0019342]	Genital Herpes	0.577728403528
+[C1335437]	Plexopathy	0.575477070771
+[C0030554]	Paresthesia	0.564778701784
+[C0023522]	Leukodystrophy, Metachromatic	0.563735535043
+[C0571525]	Ethambutolol allergy	0.550270493177
+[C0034362]	Q Fever	0.526174557088
+[C0234549]	Stress seizure	0.510325034672
+[C0023944]	Locked-In Syndrome	0.501149477552
+[C0405583]	Calcium deposits in tendon	0.483638599969
+[C0263009]	Sclerosis of the skin	0.467663693602
+[C0033300]	Progeria	0.433786566929
+[C0007863]	Cervico-occipital neuralgia	0.432423790005
