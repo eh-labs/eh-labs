@@ -1,0 +1,46 @@
+4531575	A Case of Severe Protein-losing Enteropathy as a Late Complication of Pelvic Irradiation	enteropathy,losing,radiation
+3970271	Hypoparathyroidism and Subclinical Hypothyroidism with Secondary Hemochromatosis	hemochromatosis,iron,hypoparathyroidism
+3433566	A case of cytomegalovirus-negative Mntrier's disease with eosinophilia in a child	trier,gastric,disease
+3424804	Cryptoccocal menigitis as a primary manifestation in a patient with intestinal lymphangictasia	cryptoccocal,lymphangiectasia,meningitis
+3493737	A Case of Nonalcoholic Steatohepatitis and Small Intestinal Bacterial Overgrowth with Peripheral Edema Caused by Intestinal Bypass Surgery and Relieved by Repair	sibo,nash,bypass
+4694706	Urinary Kidney Injury Molecules in Children with Iron-Deficiency Anemia	ida,iron,ngal
+4137636	Recurrent ascites with severe hypoproteinemia in 4-year-old child: A diagnostic dilemma - An atypical presentation of hypothyroidism	ascites,hypothyroidism,ascitic
+2782175	Cerebral Infarction in IgG Multiple Myeloma with Hyperviscosity	hyperviscosity,myeloma,cerebral
+3420435	Osteopetrosis, Hypophosphatemia, and Phosphaturia in a Young Man: A Case Presentation and Differential Diagnosis	ado,osteopetrosis,phex
+4366991	Vitamin B12 and Vitamin D Deficiencies: An Unusual Cause of Fever, Severe Hemolytic Anemia and Thrombocytopenia	b12,vitamin,anemia
+3384651	Swimming Exercise Prevents Fibrogenesis in Chronic Kidney Disease by Inhibiting the Myofibroblast TransdifferentiationSwimming Exercise Recovered Chronic Kidney Disease	drckd,swimming,exercise
+3927187	Posterior reversible encephalopathy syndrome in children with kidney disease	pres,renal,patients
+3274658	Early congenital syphilis presenting with skin eruption alone: a case report	syphilis,congenital,vdrl
+3109786	An unusual case of bilateral renal enlargement due to primary renal lymphoma	renal,prl,bilateral
+4831372	Rasburicaseinduced methemoglobinemia: case report, literature review, and proposed treatment algorithmG. B. Sherwood et al.	rasburicase,methemoglobinemia,tls
+4393027	Significance of Technetium-99m Human Serum Albumin Diethylenetriamine Pentaacetic Acid Scintigraphy in Patients with Nephrotic Syndrome99mTc-HSAD Scintigraphy in Nephrotic Syndrome	hsad,ns,99m
+3289276	Uncommon Sources and Some Unsual Manifestations of Lead Poisoning in a Tropical Developing Country	lead,poisoning,caedta
+4828421	A Case of Microangiopathic Hemolytic Anemia after Myxoma Excision and Mitral Valve Repair Presenting as Hemolytic Uremic Syndrome	mitral,valve,hemolytic
+2803990	Celiac disease with a mixed pattern: a case report	gluten,sprue,celiac
+4608877	Antineutrophil cytoplasmic antibodynegative pauci-immune glomerulonephritis with massive intestinal bleeding	pauci,crescentic,anca
+3249707	Unusual Cause of Childhood Anemia: Imerslund Grasbeck Syndrome	vit,b12,proteinuria
+3642942	Clinical, Toxicological, Biochemical, and Hematologic Parameters in Lead Exposed Workers of a Car Battery Industry	blc,poisoning,lead
+2994119	A case of anemia caused by combined vitamin B12 and iron deficiency manifesting as short stature and delayed puberty	b12,vitamin,anemia
+4085268	Systemic capillary leak syndrome under general anesthesia: a case report	scls,hypotension,hemoconcentration
+4706896	Clinical Applications of Hemolytic Markers in the Differential Diagnosis and Management of Hemolytic Anemia	hemolytic,hemolysis,aiha
+4382577	Evaluation of erythrocyte and reticulocyte parameters as indicative of iron deficiency in patients with anemia of chronic disease	acd,iron,anemia
+2923176	Multiple myeloma presenting as spinal cord compression: a case report	myeloma,plasmacytoma,cord
+4663863	Hemophagocytic lymphohistiocytosis: An unusual complication in disseminated Mycobacterium tuberculosis	hlh,tuberculosis,att
+4492332	Systemic capillary leak syndrome (Clarkson's disease) during elective pylorus-preserving pancreaticoduodenectomy: case report	scls,capillary,leak
+4322808	Successful treatment of a Caucasian case of multifocal Castlemans disease with TAFRO syndrome with a pathophysiology targeted therapy - a case report	tafro,castleman,mcd
+3545243	A clinical study on Pandu Roga, iron deficiency anemia, with Trikatrayadi Lauha suspension in children	trikatrayadi,lauha,iron
+3255499	Effect of Iron Deficiency Anemia on Hemoglobin A1c Levels	hba1c,anemia,iron
+4384674	Multiple Myeloma in a Patient with Acromegaly	acromegaly,gh,igf
+3996635	Severe Adenovirus Infection Associated with Hemophagocytic LymphohistiocytosisAr Adenovirs Enfeksiyonu ile likili Hemofagositik Lenfohistiyositoz	hlh,ivig,adenovirus
+3161474	Anesthetic considerations in a patient of autosomal dominant polycystic kidney disease on hemodialysis for emergency cesarean section	renal,hemodialysis,bupivacaine
+3259520	Splenic infarction in a patient with autoimmune hemolytic anemia and protein C deficiency	splenic,infarction,aiha
+2788193	Nutritional status and the role of diabetes mellitus in hemodialysis patients	hd,esrd,patients
+4834407	Magnitude of Anemia and Hematological Predictors among Children under 12 Years in Odisha, India	anemia,children,hb
+3787622	Iron-Deficiency Anemia Leading to Transient Ischemic Attacks due to Intraluminal Carotid Artery Thrombus	carotid,iron,thrombus
+3321527	Cobalamin and Folic Acid Status in Relation to the Etiopathogenesis of Pancytopenia in Adults at a Tertiary Care Centre in North India	pancytopenia,cobalamin,anemia
+3118946	Interleukin-11-induced capillary leak syndrome in primary hepatic carcinoma patients with thrombocytopenia	cls,il,edema
+2816853	Successful Treatment of Protein-Losing Enteropathy Induced by Intestinal Lymphangiectasia in a Liver Cirrhosis Patient with Octreotide: A Case Report	lymphangiectasia,octreotide,intestinal
+3320130	Triad of Iron Deficiency Anemia, Severe Thrombocytopenia and MenorrhagiaA Case Report and Literature Review	iron,thrombocytopenia,anemia
+1310632	The bone marrow aspirate and biopsy in the diagnosis of unsuspected nonhematologic malignancy: A clinical study of 19 cases	marrow,leb,bone
+3874978	Hepatitis B Vaccine-Associated Atypical Hemolytic Uremic SyndromeHepatit B As ile likili Atipik Hemolitik remik Sendrom	hus,hepatitis,atypical
+4503403	Predictors and the Subsequent Risk of End-Stage Renal Disease Usefulness of 30% Decline in Estimated GFR over 2 YearsTime-Dependent Risk Factors for ESRD	gfr,esrd,proteinuria

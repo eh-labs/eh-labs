@@ -1,0 +1,44 @@
+3644260	Myeloperoxidase-antineutrophil cytoplasmic antibody-associated crescentic glomerulonephritis in autosomal dominant polycystic kidney disease	adpkd,anca,crgn
+4792615	Atypical anti-glomerular basement membrane disease	gbm,anti,hematuria
+4089550	IgG4-Related Tubulointerstitial Nephritis Associated with Membranous Nephropathy in Two Patients: Remission after Administering a Combination of Steroid and Mizoribine	igg4,mizoribine,nephropathy
+4421616	IgA-dominant Staphylococcus infection-associated glomerulonephritis: case reports and review of the literature	glomerulonephritis,iga,mesangial
+4194014	Serum levels of galactose-deficient immunoglobulin (Ig) A1 and related immune complex are associated with disease activity of IgA nephropathy	iga1,igan,iga
+4389163	Plasma exchange for concurrent lupus nephritis and antiphospholipid syndrome	lupus,tpe,nephritis
+3831868	Immunoglobulin A nephropathy with massive paramesangial deposits caused by anti-vascular endothelial growth factor therapy for metastatic rectal cancer: a case report and review of the literature	bevacizumab,iga,paramesangial
+3290853	Crescentic Glomerulonephritis in IgA Multiple Myeloma: A Case Report	gn,dyscrasia,crescents
+2693867	Proteinuria in a Boy with Infectious Mononucleosis, C1q Nephropathy, and Dent's Disease	c1q,nephropathy,ebv
+3403367	Highlights for the Management of a Child with Proteinuria and Hematuria	hematuria,proteinuria,urine
+4716105	Association of acute tubular necrosis with gross hematuria in cirrhosis-related immunoglobulin A nephropathy	igan,hematuria,cirrhosis
+4421721	Microscopic papillary tumor in a renal needle biopsy specimen for IgA nephropathy	iga,biopsy,papillary
+3914242	Minimal Change Disease and IgA Deposition: Separate Entities or Common Pathophysiology?	iga,mcd,nephropathy
+3016252	Recurrence of Complement Factor H-Related Protein 5 Nephropathy in a Renal Transplant	cfhr5,renal,complement
+4604509	Renal biopsy findings and clinical indicators of patients with hematuria without overt proteinuria	igan,hematuria,renal
+3008952	Collapsing glomerulopathy in an HIV-positive patient in a low-incidence belt	hiv,hivan,kashmir
+3968638	Nondiabetic Renal Disease in type 2 Diabetes Mellitus Patients: A Clinicopathological Study	ndrd,renal,dn
+3479780	Clinicopathologic Features of IgA-Dominant Postinfectious Glomerulonephritis	apign,iga,pign
+3724487	A case of rapidly progressive IgA nephropathy in a patient with exacerbation of Crohns disease	igan,crohn,renal
+3505547	Periodic fever, aphthous stomatitis, pharyngitis, and adenitis (PFAPA) syndrome and IgA nephropathy	pfapa,igan,fractalkine
+4306408	An Unusual Initial Presentation of Lupus Nephritis as a Renal Mass	nephritis,lupus,renal
+3521277	Renal Manifestations in 2007 Korean Patients with Behet's Disease	bd,patients,hematuria
+4540981	Dabigatran-Related Nephropathy in a Patient with Undiagnosed IgA Nephropathy	dabigatran,wrn,nephropathy
+3926371	Membranoproliferative Glomerulonephritis in Patients with Chronic Venous Catheters: A Case Report and Literature Review	mpgn,catheter,dl
+3723462	An unusual case of glomerulonephritis in a patient with non-Hodgkin Mucosal Associated Lymphoid Tissue (MALT) B-cell lymphoma	glomerulonephritis,lupus,glomerular
+4432904	An Overlapping Case of Lupus Nephritis and IgG4-Related Kidney DiseaseLupus and IgG4-RKD	igg4,rkd,nephritis
+3371425	Hepatic-Associated Immunoglobulin-A Nephropathy in a Child with Liver Cirrhosis and Portal Hypertension	igan,hematuria,portal
+3470990	MPO-ANCA associated crescentic glomerulonephritis with numerous immune complexes: case report	anca,cgn,mpgn
+3671515	The Occurrence or Fibrillary Glomerulonephritis in Patients with Diabetes Mellitus May Not Be Coincidental: A Report of Four Cases	fgn,nephropathy,diabetic
+3759762	Renal outcomes and clinical course of nondiabetic renal diseases in patients with type 2 diabetes	ndrd,renal,dn
+3542938	Relapsing Acute Kidney Injury Associated with Pegfilgrastim	pegfilgrastim,filgrastim,gn
+4531034	IgA-dominant post-infectious glomerulonephritis presenting as a fatal pulmonary-renal syndrome	iga,irgn,pign
+4421683	Coincidental finding of Fabrys disease in a patient with IgA nephropathyT. Kakita et al.Coincidence of Fabrys disease with IgA nephropathy	fabry,iga,disease
+3346732	The Prevalence of Immunologic Injury in Renal Allograft Recipients with De Novo ProteinuriaProteinuria after Transplantion	proteinuria,igan,graft
+3328677	A treatment dilemma in adult immunoglobulin A nephropathy: what is the appropriate target, preservation of kidney function or induction of clinical remission?	tsp,nephropathy,iga
+4209772	Membranoproliferative glomerulonephritis presenting as arthropathy and cardiac valvulopathy in hypocomplementemic urticarial vasculitis: a case report	huvs,valvulopathy,urticarial
+3618054	Membranoproliferative Glomerulonephritis and Inflammatory Pseudotumour of the Spleen	pseudotumour,mpgn,glomerulonephritis
+4168995	Tubulointerstitial nephritis and uveitis syndrome complicated by IgA nephropathy and Graves disease: a case report	tinu,nephropathy,iga
+3457848	Is there a link between diabetic glomerular injury and crescent formation? A case report and literature review	glomerular,crescents,glomerulosclerosis
+3341840	Coexistence of ANCA-associated glomerulonephritis and anti-phospholipase A2 receptor antibody-positive membranous nephropathy	imn,anca,gn
+3598553	Prevalence of diabetic nephropathy complicating non-diabetic renal disease among Chinese patients with type 2 diabetes mellitus	ndrd,dn,diabetic
+4025153	A Case of Membranous Glomerulonephropathy Associated with Takayasu's Arteritis	ta,glomerulonephropathy,mg
+4853670	The Natural Course of Biopsy-Proven Isolated Microscopic Hematuria: a Single Center Experience of 350 Patients	imh,proteinuria,nephropathy
+3314860	Immunoglobulin A Nephropathy Associated with Plasmodium falciparum Malaria	iga,nephropathy,falciparum

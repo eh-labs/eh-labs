@@ -1,0 +1,1 @@
+ileum,diarrhea,malignancies,inflammatory bowel,endoscopy,with clinical and biological data,Abdominal ultrasound,clinical and biological data,infectious diarrhea,with terminal ileum,bowel,terminal ileum,Complete colonoscopy,colonoscopy,data,Upper digestive endoscopy,duodenum,inflammatory bowel disease,biopsies,Viral hepatitis,pancreatic insufficiency

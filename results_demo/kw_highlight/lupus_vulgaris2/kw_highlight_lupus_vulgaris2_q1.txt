@@ -1,0 +1,1 @@
+ulcer,Biopsy,inflammation,nonspecific inflammation,ulcerative,external nose,nose

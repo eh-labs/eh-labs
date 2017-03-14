@@ -1,0 +1,24 @@
+4139696	Idiopathic Colonic Varices: Case Report and Review of Literature	varices,colonic,portal
+4531728	Pathophysiology and Management of Irritable Bowel Syndrome	ibs,diarrhea,bowel
+4604730	Chronic constipation in the elderly: a primer for the gastroenterologist	constipation,elderly,constipated
+425596	Eosinophilia in a patient with cyclical vomiting: a case report	eosinophilic,eosinophilia,eosinophil
+4785768	Multidrug Resistant Shigella flexneri Infection Simulating Intestinal Intussusception	shigella,flexneri,intussusception
+3662170	Thrombotic Thrombocytopenic Purpura: A Case Presenting with Acute Ischemic Colitis	ttp,colitis,ischemic
+2822907	Evaluation and Treatment of Iron Deficiency Anemia: A Gastroenterological Perspective	iron,ida,gi
+4025155	Functional Aerophagia in Children: A Frequent, Atypical Disorder	aerophagia,distension,abdominal
+3821706	Chronic vomiting and diarrhea in a young adult female	rumination,regurgitation,syndrome
+2822251	Adult-onset Still's Disease with Disseminated Intravascular Coagulation and Multiple Organ Dysfunctions Dramatically Treated with Cyclosporine A	aosd,hs,csa
+3228981	The Evaluation of Otilonium Bromide Treatment in Asian Patients With Irritable Bowel Syndrome	mebeverine,ob,apdfs
+3166801	Celiac Disease and Myointimal Proliferation: A Possible Correlation?	cd,gliadin,gluten
+4309677	Management of Loose, Frequent Stools and Fecal Incontinence in a Chronic Mesenteric Ischemia Patient with Oral Serum-derived Bovine Immunoglobulin	fi,sbi,stools
+3248355	Evaluation of gastrointestinal symptoms in different patient groups using the visual analogue scale for irritable bowel syndrome (VAS-IBS)	ibs,dysmotility,patients
+3682695	Levonorgestrel-Releasing Intrauterine System and Iron Overload Syndrome	iron,overload,ius
+3932002	It can't be very important because it comes and goespatients' accounts of intermittent symptoms preceding a pancreatic cancer diagnosis: a qualitative study	symptoms,intermittent,i
+4743317	Arthralgias, fatigue, paresthesias and visceral pain: can joint hypermobility solve the puzzle? A case report	jhs,hypermobility,joint
+2923170	Foreign body ingestion mimicking irritable bowel syndrome: a case report	foreign,ibs,bowel
+3383135	A Case of Eosinophilic Gastrointestinal Disorders Presenting with Chronic Diarrhea and Abdominal Pain	egid,eosinophilic,eosinophilia
+2806879	Colonic diverticular abscess presenting as chronic diarrhea: a case report	diarrhea,diverticulitis,abscess
+4575794	Penile Skin Involvement as the First Presentation of Henoch-Schonlein Purpura Report of Nine Cases and Review of Literature	penile,hsp,involvement
+4800920	Intestinal lymphangiectasia in childrenA favorable response to dietary modifications	lymphangiectasia,il,pil
+3728613	Eosinophilic Gastroenteritis: Review of a Rare and Treatable Disease of the Gastrointestinal Tract	ege,eosinophilic,eosinophilia
+3407696	Idiopathic accelerated gastric emptying presenting in adults with post-prandial diarrhea and reactive hypoglycemia: a case series	emptying,gastric,glucose

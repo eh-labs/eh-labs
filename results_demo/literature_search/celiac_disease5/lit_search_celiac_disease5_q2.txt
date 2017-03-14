@@ -1,0 +1,23 @@
+3446146	Pleuritic Chest Pain; Where Should We Search for?	pleuritic,mas,pain
+4528898	When Coke Is Not HydratingCocaine-Induced Acute Interstitial Nephritis	ain,cocaine,dl
+3116008	Overlapping Presence of Macroamylasemia and Hyperamylasemia in Acute Pancreatitis	macroamylasemia,amylase,hyperamylasemia
+2803809	Relapsing macrophage activating syndrome in a 15-year-old girl with Still's disease: a case report	cyclosporine,mas,her
+2895186	Long-Standing Pancreatic Hyperenzymemia: Is It a Nonpathological Condition?	hyperenzymemia,pancreatic,intrapapillary
+4085823	BIOPSY PROVEN ACUTE TUBULAR NECROSIS DUE TO RHABDOMYOLYSIS IN A DENGUE FEVER PATIENT: A CASE REPORT AND REVIEW OF LITERATURENecrose tubular aguda comprovada por bipsia em paciente com dengue e rabdomilise	dengue,rhabdomyolysis,renal
+4637818	Two Types of Renovascular Lesions in Lupus Nephritis with Clinical Thrombotic Thrombocytopenic Purpura	intraluminal,ttp,renal
+2923793	Severe Hypertriglyceridemia in Diabetic Ketoacidosis Accompanied by Acute Pancreatitis: Case Report	pancreatitis,hypertriglyceridemia,dka
+4541003	Role of Biomarkers in Diagnosis and Prognostic Evaluation of Acute Pancreatitis	pancreatitis,acute,ap
+3624641	Acute pancreatitis secondary to hyperlipidemia in an 11-year-old girl: A case report and review of literature	pancreatitis,abdominal,dl
+2803880	Intramural duodenal hematoma and hemoperitoneum after endoscopic treatment in a patient with chronic renal failure on hemodialysis: a case report	hematoma,duodenal,endoscopic
+3970271	Hypoparathyroidism and Subclinical Hypothyroidism with Secondary Hemochromatosis	hemochromatosis,iron,hypoparathyroidism
+4532017	A Case of Systemic Lupus Erythematosus developing Two years after Remission of Thrombotic Thrombocytopenic Purpura	ttp,sle,lupus
+3161445	Thrombotic microangiopathy as a complication of recurrent pancreatitis	ttp,pancreatitis,microangiopathy
+3420763	A Patient of Lupus Presenting with Myocarditis and Overlapping Autoimmune Hepatitis	sle,aih,myocarditis
+2988932	Acute Pancreatitis Associated with Pegylated Interferon and Ribavirin Treatment of Chronic Hepatitis C, Genotype 1b with High Viral Load	pancreatitis,rbv,ifn
+4534977	Acute Pancreatitis in a Case of Multiple Myeloma with Hypercalcemia	pancreatitis,hypercalcemia,myeloma
+3259520	Splenic infarction in a patient with autoimmune hemolytic anemia and protein C deficiency	splenic,infarction,aiha
+3270345	A Woman with Recent Jaundice and PruritusA Woman with Recent Jaundice and Pruritus	cholestasis,jaundice,cholestatic
+3317255	Scurvy in an alcoholic malnourished cirrhotic man with spontaneous bacterial peritonitis	scurvy,vitamin,dl
+4260110	Acute Pancreatitis Due to a Duodenal Ulcer	pancreatitis,duodenal,ulcer
+4716105	Association of acute tubular necrosis with gross hematuria in cirrhosis-related immunoglobulin A nephropathy	igan,hematuria,cirrhosis
+4405307	Successful treatment of immediate allogeneic myeloablative hematopoietic stem cell transplantation from a HLA-mismatched sibling donor for active systemic epsteinbarr virus-positive T-cell lymphoproliferative disease of childhood following primary acute epsteinbarr virus infection	ebv,allo,hsct

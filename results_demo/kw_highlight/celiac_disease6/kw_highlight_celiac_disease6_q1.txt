@@ -1,0 +1,1 @@
+weight,microcytic anemia,abdominal pain,blood,diarrhea,irritable bowel,syndrome,non-specific gastrointestinal symptoms,stool,anemia,pus,Diffuse abdominal pain,gastrointestinal symptoms,mild microcytic anemia,bowel,revealed non-specific gastrointestinal symptoms,flatulence,anemic syndrome,irritable bowel syndrome

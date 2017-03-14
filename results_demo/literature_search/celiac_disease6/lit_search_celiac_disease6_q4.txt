@@ -1,0 +1,22 @@
+3094314	Diffuse duodenal nodular lymphoid hyperplasia: a large cohort of patients etiologically related to Helicobacter pylori infection	pylori,nodular,duodenal
+4839256	A Case of Eosinophilic Gastroenteritis Forming a Rigid Chamber Mimicking Giant Duodenal Ulcer on Computed Tomography Imaging	duodenum,duodenal,eosinophilic
+4204724	A Case of Localized Amyloid Light-Chain Amyloidosis in the Small Intestine	amyloidosis,amyloid,intestine
+3964275	A Patient with Eosinophilic Gastroenteritis Presenting with Acute Pancreatitis and Ascites	ege,pancreatitis,duodenal
+2990396	Appropriate use of endoscopy in the diagnosis and treatment of gastrointestinal diseases: up-to-date indications for primary care providers	eus,egd,endoscopic
+4411404	Severe viral oesophagitis, pharyngitis, and stomatitis as antecedents of ileocecal Crohn's disease	oesophagitis,crohn,erosions
+4895553	Endoscopically Visualized Lesions, Histologic Findings, and Bacterial Invasion in the Gastrointestinal Mucosa of Dogs with Acute Hemorrhagic Diarrhea SyndromeUnterer etal	dogs,hge,perfringens
+2151330	MDCT of small bowel tumours	bowel,small,tumours
+4082948	Debilitating Chronic Diarrhea Caused by Generalized Gastrointestinal Cytomegalovirus Infection in an Immunocompetent Adult	cmv,immunocompetent,gastrointestinal
+4748195	Severe Enteropathy From Mycophenolate Mofetil	mycophenolate,mofetil,bowel
+2852736	Adult Celiac Disease and Its Malignant Complications	celiac,gluten,lymphoma
+4463786	An Atypical Case of Eosinophilic Gastroenteritis Presenting as Hypovolemic Shock	eg,eosinophils,eosinophilic
+3959324	Terminal ileitis is not always Crohns disease	cd,ti,ileitis
+3618050	Spontaneous Regression of Polyposis following Abdominal Colectomy and Helicobacter pylori Eradication for Cronkhite-Canada Syndrome	ccs,pylori,colon
+3236314	Pathologic Features of Behet's Disease in the Tubuler Gut	bd,ulcers,beh
+4271459	Intestinal capillariasis in the 21st century: clinical presentations and role of endoscopy and imaging	capillariasis,stool,patients
+4038641	An exotic cause of exudative enteropathy	enteropathy,giardia,lamblia
+3108640	Capsule endoscopy in clinical practice: concise up-to-date overview	wce,capsule,bowel
+4604710	Investigation of potential early Histologic markers of pediatric inflammatory bowel disease	ibd,eosinophil,uc
+4227317	A Case of Shwachman-Diamond Syndrome Distinguished from Celiac Disease	she,exocrine,celiac
+3517832	Small Bowel Adenocarcinoma Complicating Coeliac Disease: A Report of Three Cases and the Literature Review	sba,coeliac,adenocarcinoma
+4175623	Eosinophilic gastroenteritis with refractory ulcer disease and gastrointestinal bleeding as a rare manifestation of seronegative gastrointestinal food allergy	ige,gastrointestinal,food

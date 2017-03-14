@@ -1,0 +1,1 @@
+biopsy,colon,weight,stool,guaiac positive stools,loose stools,chronic diarrhea,pancolitis,colonoscopy,bile ducts,primary sclerosing cholangitis,Liver,granuloma,blood

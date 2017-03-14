@@ -1,0 +1,26 @@
+4105386	A Case of Post-radiotherapy Urethral Stricture with Spontaneous Bladder Rupture, Mimicking Obstructive Uropathy due to Cancer Metastasis	bladder,rupture,urethral
+4508281	Chronic ileocolic intussusception due to transmural infiltration of diffuse large B cell lymphoma in a 14-year-old boy: a case report	intussusception,ileocolic,med.ac.jp
+3170350	Steinert's syndrome presenting as anal incontinence: a case report	incontinence,anal,diarrhea
+3579408	Clinical spectrum and therapeutic approach to hepatocellular injury in patients with hyperthyroidism	propylthiouracil,hyperthyroidism,liver
+4678475	Clinical manifestations and endoscopic findings of amebic colitis in a United States-Mexico border city: a case series	amebic,colitis,trophozoites
+2861069	Hepatoprotective effects of Spirulina maxima in patients with non-alcoholic fatty liver disease: a case series	spirulina,nafld,maxima
+4010029	Spontaneous Ovarian Hyperstimulation Syndrome in a Triplet Pregnancy	ohss,hyperstimulation,ovarian
+4204687	Successful Treatment of Postoperative Fistula with Infliximab in a Patient with Crohn's Disease	infliximab,fistula,cd
+3504224	Pott's Spine with Bilateral Psoas Abscesses	pott,psoas,spine
+3780631	A Puzzle of Hemolytic Anemia, Iron and Vitamin B12 Deficiencies in a 52-Year-Old Male	b12,anemia,vitamin
+3533629	Adult Ileo-Ileo-Caecal Intussusception: Case Report and Literature Review	intussusception,ileo,bowel
+4531542	A Case of Lactic Acidosis Caused by Stavudine in an AIDS Patient	acidosis,lactic,stavudine
+3965924	A Patient with Advanced Gastric Cancer Presenting with Extremely Large Uterine Fibroid Tumor	fibroid,uterine,tumors
+4417668	Gitelmans syndrome complicated by mild renal insufficiency and high anion gap acidosis; a rare presentation in a young female	she,dl,meq
+4532108	Intestinal Neurofibromatosis in von Recklinghausens Disease: Presenting as Chronic Anemia due to Recurrent Intestinal Hemorrhage	neurofibromatosis,neurofibromas,jejunum
+4025155	Functional Aerophagia in Children: A Frequent, Atypical Disorder	aerophagia,distension,abdominal
+3263087	Thrombotic thrombocytopenic purpura and deep vein thrombosis as the presenting manifestations of systemic lupus erythematosus: A case report and review of literature	sle,ttp,she
+3503573	Ulcerative colitis in a Nigerian girl: A case report	uc,lagos,sulfasalazine
+3977941	Chilaiditi syndrome presenting as chest pain in an adult patient: a case report	chilaiditi,chest,hepatodiaphragmatic
+4897013	Autoimmune Pancreatitis Presenting with Mass and Biliary Obstruction	pancreatitis,autoimmune,duct
+2481241	Chronic hypokalemia due to excessive cola consumption: a case report	hypokalemia,potassium,cola
+4170826	Nonocclusive Mesenteric Ischemia Associated with Ogilvie Syndrome	nomi,ogilvie,mesenteric
+4532012	Idiopathic Granulomatous Hepatitis Manifested with Fever of Unknown Origin Case Report	granulomatous,hepatitis,fever
+4532081	A Case of Polymyositis in a Patient with Primary Biliary Cirrhosis Treated with D-Penicillamine	penicillamine,polymyositis,cirrhosis
+3133547	Mesenteric panniculitis presenting with acute non-occlusive colonic ischemia	mesenteric,panniculitis,mp
+4223953	Primary Adrenal Insufficiency (Addison's Disease) Associated with Systemic Lupus Erythematosus: A Rare Occurrence	adrenal,sle,insufficiency

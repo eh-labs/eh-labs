@@ -55,6 +55,7 @@
 
     </style>
 
+  <iron-ajax auto="" url="{{_getRequestUrl(ehr.path, ehr.notes)}}" handle-as="text" last-response="{{termResponse}}" debounce-duration="10"></iron-ajax>
 
   <div id="marked">
     <template is="dom-repeat" items="[[ehr.notes]]" as="note">
@@ -67,6 +68,6 @@
 
   </template>
 
-  <script>Polymer({is:"eh-labs-view-annotated-ehr",properties:{ehr:{type:Object,notify:!0},terms:{type:Array,notify:!0}},observers:[],_prettyPrint:function(e){return e.notes},_performMark:function(e,t){const r=new Mark(Polymer.dom(this.root).querySelectorAll(".medical-note"));var o=this.get("terms");r.unmark({done:function(){r.mark(o,{})}})},attached:function(){this.async(function(){Polymer.dom(this.root).querySelectorAll(".medical-note");this._performMark(this.terms,this.ehr)})}});</script>
+  <script>Polymer({is:"eh-labs-view-annotated-ehr",properties:{ehr:{type:Object,notify:!0},terms:{type:Array,notify:!0}},observers:["_performMark(termResponse, ehr)"],_getRequestUrl:function(e){return e?"/results_demo/kw_highlight/"+e+"kw_highlight_"+e.replace("/","")+"_full.txt":""},_prettyPrint:function(e){return e.notes},_performMark:function(e,r){const t=new Mark(Polymer.dom(this.root).querySelectorAll(".medical-note"));var o=e.split(",");t.unmark({done:function(){t.mark(o,{separateWordSearch:!1})}})},attached:function(){}});</script>
 </dom-module>
 </body></html>

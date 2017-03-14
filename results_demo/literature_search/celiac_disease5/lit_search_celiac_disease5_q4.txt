@@ -1,0 +1,30 @@
+3004381	Changes of Immunological Profiles in Patients with Chronic Myeloid Leukemia in the Course of Treatment	patients,cml,remission
+3189473	Review on Autoimmune Reactions in Female Infertility: Antibodies to Follicle Stimulating Hormone	fsh,infertility,anti
+3574502	Antiphospholipid Antibodies in Iraqi Women with Recurrent Mid-Trimester Abortions	kct,apa,antiphospholipid
+4070528	Prevalence of Anti-Neu5Gc Antibodies in Patients with Hypothyroidism	neu5gc,anti,hypothyroidism
+3745863	Spurious T3 Thyrotoxicosis Unmasking Multiple Myeloma	t3,t4,tbg
+4165956	Treatment of recurrent pregnancy loss by Levothyroxine in women with high Anti-TPO antibody	levothyroxine,tpo,pregnancy
+416448	Autoantibody profile in rheumatoid arthritis during long-term infliximab treatment	infliximab,anti,rf
+4532060	A Case of Cerebral Infarction Associated with Positive Antiphospholipid Antibody in a Systemic Lupus Patient	antiphospholipid,apl,anticardiolipin
+4147383	Acquired hemophilia A and von Willebrand syndrome in a patient with late-onset systemic lupus erythematosus	vwf,fviii,avws
+4527791	Necrobiosis lipoidica associated with Hashimotos thyroiditis and positive detection of ANA and ASMA autoantibodies	thyroiditis,nl,hashimoto
+4830150	Clinical significance of nonspecificity of antiphospholipid antibodies in recurrent abortions and unexplained infertility	apla,infertility,abortions
+2989704	Pathogenic and Epiphenomenal Anti-DNA Antibodies in SLE	dna,anti,dsdna
+4555361	The Frequency of Autoimmune Thyroid Disease in Alopecia Areata and Vitiligo Patients	vitiligo,thyroid,patients
+373450	The presence of non-organ-specific autoantibodies is associated with a negative response to combination therapy with interferon and ribavirin for chronic hepatitis C	nosa,autoantibodies,hcv
+3270345	A Woman with Recent Jaundice and PruritusA Woman with Recent Jaundice and Pruritus	cholestasis,jaundice,cholestatic
+3259520	Splenic infarction in a patient with autoimmune hemolytic anemia and protein C deficiency	splenic,infarction,aiha
+4475296	Serum macroprolactin levels in pregnancy and association with thyroid autoimmunity	prolactin,monoprl,macroprolactin
+4121396	Thyroid Storm Complicated by Bicytopenia and Disseminated Intravascular Coagulation	thyroid,storm,bicytopenia
+4106929	Selected autoantibodies and normal-tension glaucoma	ntg,poag,antibodies
+4910271	Concurrent acquired inhibitors to factor VIII and IX, a laboratory artifact: a case report	fviii,fix,bethesda
+3741383	Anti-dsDNA Antibody Isotypes in Systemic Lupus Erythematosus: IgA in Addition to IgG Anti-dsDNA Help to Identify Glomerulonephritis and Active DiseaseAnti-dsDNA Antibody Isotypes in Lupus	dsdna,iga,sle
+3272809	Further Evidence on the Role of Thyroid Autoimmunity in Women with Recurrent Miscarriage	thyroid,tai,trh
+3691574	Thyroid autoimmunity and obstetric outcomes in women with recurrent miscarriage: a casecontrol studyThyroid autoimmunity and recurrent miscarriage	tpoab,miscarriage,pregnant
+4518419	Anti-thyroid peroxidase antibody positivity during early pregnancy is associated with pregnancy complications and maternal morbidity in later life	tpo,thyroid,ab
+4439996	Bouquet variety of antiphospholipid antibodies in recurrent pregnancy loss	aps,rpl,anv
+4910275	Detection of multiple annexin autoantibodies in a patient with recurrent miscarriages, fulminant stroke and seronegative antiphospholipid syndrome	autoantibodies,aps,isotype
+3719276	Serum Leptin Levels in Women with Immunological Recurrent Abortion	leptin,abortion,ira
+4845518	Immune Aspects of Female Infertility	sperm,iga,infertility
+4366784	Prevalence of thyroid dysfunction among women during the first trimester of pregnancy at a tertiary care hospital in Haryana	thyroid,tsh,hypothyroidism
+4383493	New Antigenic Targets and Methodological Approaches for Refining Laboratory Diagnosis of Antiphospholipid Syndrome	aps,apl,gpi

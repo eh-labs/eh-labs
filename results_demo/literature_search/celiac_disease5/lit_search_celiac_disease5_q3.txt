@@ -1,0 +1,25 @@
+3281345	Screening for coeliac disease among Egyptian children	coeliac,cd,stature
+3354397	Is Routine Duodenal Biopsy Necessary for the Detection of Celiac Disease in Patients Presenting with Iron Deficiency Anemia?	cd,ida,patients
+3395124	Atypical Celiac Disease: From Recognizing to Managing	cd,celiac,gfd
+3254208	Update on celiac disease etiology, differential diagnosis, drug targets, and management advances	cd,gluten,gfd
+3444909	Diagnosing celiac disease by video capsule endoscopy (VCE) when esophogastroduodenoscopy (EGD) and biopsy is unable to provide a diagnosis: a case series	celiac,vce,egd
+4435370	Celiac Crisis in a 64-Year-Old Woman: An Unusual Cause of Severe Diarrhea, Acidosis, and Malabsorption	celiac,crisis,diarrhea
+4207593	Differentiation between Celiac Disease, Nonceliac Gluten Sensitivity, and Their Overlapping with Crohn's Disease: A Case Series	gluten,gliadin,nonceliac
+3321550	Frequency of Celiac Disease in Patients with Hypothyroidism	cd,hypothyroidism,celiac
+4207492	Symptomatic Secondary Selective IgM Immunodeficiency in Adult Man with Undiagnosed Celiac Disease	sigmid,celiac,iga
+4679112	Clinical-Pathological Conference Series from the Medical University of GrazCase No 156: 82-year-old woman with chronic diarrhea and weight loss of 20kilograms	olmesartan,enteropathy,sprue
+2709629	Gluten sensitivity enteropathy in patients with recurrent aphthous stomatitis	gse,gluten,ras
+2929410	The Face of Tropical Sprue in 2010	ts,diarrhea,celiac
+4324867	The present and the future in the diagnosis and management of celiac disease	celiac,gluten,disease
+3166801	Celiac Disease and Myointimal Proliferation: A Possible Correlation?	cd,gliadin,gluten
+3896748	Late diagnosis of celiac disease in an asymptomatic infant with growth failure	cd,hla,dq2
+3908912	US perspective on gluten-related diseases	gluten,cd,ncgs
+3212773	Liver complications in celiac diseaseLiver complications in celiac disease	cd,liver,gfd
+4019828	Prevalence of serum celiac antibody in patients with IBD in Japan	celiac,ibd,gluten
+3065402	Prevalence of celiac disease in multiple sclerosis	rrms,cd,celiac
+1435993	Celiac disease	gluten,celiac,gliadin
+4429206	Assessing of Celiac Disease and Nonceliac Gluten Sensitivity	cd,gluten,ncgs
+3543703	High prevalence of celiac disease among Saudi children with type 1 diabetes: a prospective cross-sectional study	ttg,t1d,cd
+4042032	Assessment of the response to gluten-free diet in an Iraqi population with coeliac disease. A histological and serological follow-up study	gfd,cd,coeliac
+2813648	Restless leg syndrome in a patient with celiac disease: a coincidence or an association?	rls,iron,celiac
+2963796	Enzymatic Strategies to Detoxify Gluten: Implications for Celiac Disease	gluten,gliadin,ttg

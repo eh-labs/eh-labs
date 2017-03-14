@@ -1,0 +1,34 @@
+3659911	Growth and endocrine disorders in thalassemia: The international network on endocrine complications in thalassemia (I-CET) position statement and guidelines	tm,iron,endocrine
+4422416	The importance of good history taking: a case report	her,she,neurological
+3513828	Liver Transplantation for Acute Liver Failure at 11-Week Gestation with Successful Maternal and Fetal Outcome	liver,pregnancy,transplantation
+3337512	Cerebral Vein Thrombosis Misdiagnosed and Mismanaged	thrombosis,cvt,sinus
+2531139	A 50-Year-Old Woman with Recurrent Generalised Seizures	encephalopathy,seizures,hashimoto
+4229790	Evidence-based management of recurrent miscarriages	miscarriage,recurrent,pregnancy
+4328059	A rare complication of pulmonary tuberculosis: a case report	tuberculosis,pulmonary,dvt
+3623899	Prolidase deficiency associated with systemic lupus erythematosus (SLE): single site experience and literature review	sle,prolidase,pd
+2799065	Abstracts	infants,children,aims
+4616419	An Update of the Mayo Clinic Cohort of Patients With Adult Primary Central Nervous System VasculitisDescription of 163 Patients	pcnsv,vasculitis,patients
+4710924	A Case of Idiopathic Acute Pancreatitis in the First Trimester of Pregnancy	pancreatitis,trimester,acute
+3579408	Clinical spectrum and therapeutic approach to hepatocellular injury in patients with hyperthyroidism	propylthiouracil,hyperthyroidism,liver
+3124123	Iron Deficiency Anemia in Adult Onset Still's Disease with a Serum Ferritin of 26,387g/L	ferritin,iron,anemia
+3682695	Levonorgestrel-Releasing Intrauterine System and Iron Overload Syndrome	iron,overload,ius
+3853387	Abstracts for Poster Presentation	pulmonary,chest,pleural
+4696472	Acquired Hypogonadotropic Hypogonadism (AHH) in Thalassaemia Major Patients: An Underdiagnosed Condition?	ahh,testosterone,hypogonadism
+3507524	Malaria in Children	malaria,children,severe
+4676207	Catatonia in Children Following Systemic Illness	catatonia,lorazepam,she
+4851541	Hashimoto Thyroiditis and Nephrocalcinosis in a Child with Down Syndrome	nephrocalcinosis,dtra,drta
+3830364	ABSTRACTS	india,diabetes,patients
+3845485	Efficacy of Abatacept for Arthritis in Patients with an Overlap Syndrome between Rheumatoid Arthritis and Systemic Lupus Erythematosus	abatacept,rhupus,sle
+3603132	ABSTRACTS	endocrinology,patients,india
+4223953	Primary Adrenal Insufficiency (Addison's Disease) Associated with Systemic Lupus Erythematosus: A Rare Occurrence	adrenal,sle,insufficiency
+3568875	Pregnancy with a Severe Hemoglobinopathy: Unintended Consequences of Transfusions	her,hemoglobin,transfusion
+3872153	Catastrophic Antiphospholipid Syndrome with Severe Acute Thrombotic Microangiopathy and Hemorrhagic Complications	caps,thrombocytopenia,dah
+4784114	Selected Abstracts of IANCON 2015	patients,india,seizures
+4188947	Telogen effluvium as the first symptom of Crohns disease in a child	alopecia,effluvium,hair
+2694776	Fatal cardiac arrest in an adult patient with euthyroid anti-SSA/Ro-positive connective tissue disease: a case report	ssa,ro,anti
+4773087	Severe Abdominal Pain Caused by Lead Toxicity without Response to Oral Chelators: A Case Report	blls,lead,poisoning
+4413546	Serum C-peptide assay of patients with hyperglycemic emergencies at the Lagos State University Teaching Hospital (LASUTH), Ikeja	insulin,dka,hhs
+4888935	Propylthiouracil-Induced Vasculitis With Alveolar Hemorrhage Confirmed by Clinical, Laboratory, Computed Tomography, and Bronchoscopy Findings: A Case Report and Literature Review	ptu,anca,vasculitis
+3312369	Eosinophilic Fasciitis: What Matters in Management in a Developing CountryA Case Report with Two and a Half-year Follow-up	fasciitis,eosinophilic,eosinophilia
+3420649	Acute Ischemic Stroke Secondary to Iron Deficiency Anemia: A Case Report	ida,stroke,anemia
+4848017	Clinical and Biochemical Data of Adult Thalassemia Major patients (TM) with Multiple Endocrine Complications (MEC) versus TM Patients with Normal Endocrine Functions: A long-term Retrospective Study (40 years) in a Tertiary Care Center in Italy	mec,tm,patients

@@ -1,0 +1,1 @@
+diseases,infectious diseases,non-infectious inflammatory diseases,lysis,Renal,infectious disease,non-infectious inflammatory disease,white blood,Chest X-ray was normal,Urine culture,Chest X-ray,inflammatory disease,function,liver enzymes,Renal function,liver enzymes were normal,blood,disease,Urine culture was negative
