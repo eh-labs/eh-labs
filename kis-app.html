@@ -118,8 +118,7 @@
                  <paper-slider min="1" value="{{selectedNoteCount}}" max="[[patient.noQueries]]" pin=""></paper-slider>
               <div class="actions">
                 <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:diagnosis" on-tap="_showDiagnosis"></paper-fab>
-                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:ehr" on-tap="_showEhr"></paper-fab>
-                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:literature" on-tap="_showLiterature"></paper-fab>
+                
               </div>
 
             </app-toolbar>
@@ -227,7 +226,10 @@
         delete search.results
 
         json = JSON.stringify( search )
-        return patient ? companionFunction + '/?q=' + encodeURIComponent(json) : '/'
+        // at the moment jumping to pages is not possible on github without hashbang
+        // I am not gonna fix it here.
+        //return patient ? companionFunction + '/?q=' + encodeURIComponent(json) : '/'
+        return patient ? '/?q=' + encodeURIComponent(json) : '/'
       },
 
       _selectEhr: function(ev){
