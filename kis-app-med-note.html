@@ -36,7 +36,7 @@
         }
       },
 
-      _newNote(note){
+      _newNote: function(note){
         const path = this.get('path')
         const index = this.get('index')
         this.fire('note_added', {note, path, index})
