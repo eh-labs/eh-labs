@@ -1,0 +1,22 @@
+4811016	Diagnostic Dilemma in the Treatment of a Fatal Case of Bloody Diarrhea	intussusception,bowel,stools
+3728465	Nutritional Support Process for a Patient with Short Bowel Syndrome in Conjunction with Panperitonitis: A Case Report	nutrition,enteral,sbs
+4594448	Fecal Impaction Causing Pelvic Venous Compression and Edema	fecal,constipation,impaction
+3851743	Utility of hydroxyurea in mast cell activation syndrome	mcas,hu,diffusely
+3132332	Ulcerative colitis after renal transplantation: A case report and review of literature	ibd,diarrhea,transplantation
+3364098	Protein-Losing Enteropathy in Ulcerative Colitis	ple,uc,a1at
+3724487	A case of rapidly progressive IgA nephropathy in a patient with exacerbation of Crohns disease	igan,crohn,renal
+3746042	Life-Threatening Lower Gastrointestinal Hemorrhage in Pediatric Crohn's Disease	crohn,bleeding,infliximab
+3135508	"Case files from the University of Florida: When an Earache is more than an Earache": A case report	abscess,brain,abscesses
+4027829	Family recognition of celiac disease	gluten,celiac,diet
+2925354	Perforated Meckel's diverticulum presenting with combined bowel and urinary obstruction and mimicking Crohn's disease: a case report	meckel,diverticulum,abscess
+4149388	E. coli O157 outbreaks in the United Kingdom: past, present, and future	o157,outbreak,coli
+3236145	Food Protein-Induced Enterocolitis Syndrome as a Cause for Infant HypotensionFood Protein-Induced Enterocolitis SyndromeWestern JournalofEmergency Medicine	fpies,vomiting,ed
+3607857	Intestinal microbiota, probiotics and mental health: from Metchnikoff to modern advances: Part I autointoxication revisited	autointoxication,intestinal,mental
+3641022	Chronic diarrhea as the presenting feature of primary systemic AL amyloidosis: serendipity or delayed diagnosis?	amyloidosis,diarrhea,amyloid
+2615353	A Case of Ischemic Colitis Associated with the Herbal Food Supplement Ma Huang	ephedra,colitis,ephedrine
+3981256	Caecal carcinoma: a review of 3 cases in a private hospital in Lagos	caecal,he,colonoscopy
+4011670	A Case of Human Leukocyte Antigen (HLA) B27-Positive Intestinal Behets Disease with Crohns Disease-Like Anal Fistulas	beh,ulcers,hla
+1592637	The Scurvy Scandal at Millbank Penitentiary: A Reassessment	prisoners,scurvy,penitentiary
+3094002	Protein-losing enteropathy associated with Henoch-Schnlein purpura	ple,purpura,abdominal
+4805055	An Adolescent Boy with Comorbid Anorexia Nervosa and Hashimoto Thyroiditis	thyroiditis,hashimoto,thyroid
+3639802	Lassa fever presenting as acute abdomen: a case series	lassa,fever,irrua

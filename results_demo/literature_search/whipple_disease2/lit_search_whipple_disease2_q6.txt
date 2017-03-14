@@ -1,0 +1,29 @@
+4150430	Definite Ocular Sarcoidosis Using Endobronchial Ultrasonography with Transbronchial Needle Aspiration	sarcoidosis,tbna,ebus
+4883982	A case of panuveitis with hypopyon due to presumed ocular leishmaniasis in a HIV patient	leishmaniasis,panuveitis,ocular
+4772633	Anterior Uveitis Caused by Ocular Side Effects of Afatinib: A Case Report	afatinib,uveitis,egfr
+4108142	Necrotizing Scleritis and Peripheral Ulcerative Keratitis Associated with Wegeners Granulomatosis	wg,scleritis,puk
+3439939	Tropheryma whipplei Crystalline Keratopathy: Report of a Case and Updated Review of the Literature	whipple,whipplei,crystalline
+3638558	Immune Recovery Uveitis Masked as an Endogenous Endophthalmitis in a Patient with Active CMV Retinitis	cmv,retinitis,iru
+3306121	Acute Posterior Multifocal Placoid Pigment Epitheliopathy as the Initial Manifestation of Sarcoidosis	apmppe,sarcoidosis,rpe
+3876653	Lung cancer presenting as visual impairment	choroidal,eye,metastasis
+4156174	Choroidal metastasis as the presenting feature of a non-small cell lung carcinoma with no apparent primary lesion identified by X-ray: A case report	choroidal,lesion,lung
+3223338	Ocular disease awareness and pattern of ocular manifestation in patients with biopsy-proven lung sarcoidosis	sarcoidosis,ocular,patients
+3306114	CNS Diseases and Uveitis	uveitis,ocular,retinal
+4883984	Double trouble: a patient with both HLA-B27 anterior uveitis and HLA-A29 birdshot chorioretinitis	bscr,hla,a29
+2993993	Chikungunya virus iridocyclitis in Fuchs heterochromic iridocyclitis	chikungunya,iridocyclitis,heterochromic
+2698185	Ocular Sarcoidosis in a Korean Population	sarcoidosis,ocular,uveitis
+2855664	Fuchs' Uveitis: Failure to Associate Vitritis and Disc Hyperfluorescence with the Disease is the Major Factor for Misdiagnosis and Diagnostic Delay	uveitis,fuchs,vitreous
+4177530	Sympathetic ophthalmia with sensorineural deafness - report of a case	eye,ophthalmia,fundus
+3438301	Disseminated tuberculosis presenting as irido-ciliary granuloma in an immunocompetent patient	iris,ciliary,eye
+4795398	Pars Planitis: Epidemiology, Clinical Characteristics, Management and Visual Prognosis	planitis,pars,uveitis
+3168448	Ocular sarcoidosis and tuberculous lymphadenopathy: coincidence or real association	sarcoidosis,ocular,tb
+3295379	Brainstem Infarction and Panuveitis due to Sarcoidosis Successfully Treated with Steroid Pulse Therapy	sarcoidosis,oblongata,ocular
+4365770	Bilateral uveitis and Usher syndrome: a case report	usher,uveitis,fhic
+3589205	Prevalence of presumed ocular tuberculosis among pulmonary tuberculosis patients in a tertiary hospital in the Philippines	tb,ocular,potb
+2813589	Late Occurrence of Lens Particle Glaucoma Due to an Occult Glass Intralenticular Foreign Body	lens,intralenticular,foreign
+3872562	Pediatric uveitis: An update	uveitis,ocular,retinal
+3598072	Retinal involvement of Paracoccioidomycosis: A Case Report	choroidal,pcm,retinal
+3085159	Scrofuloderma and Bilateral Anterior Staphyloma of Eye: An Unusual Association	scrofuloderma,corneal,phlyctenulosis
+2783108	Primary central nervous system lymphoma presenting as bilateral uveitis in an immunocompetent hepatitis C virus+ patient: a case report	imtx,retinal,lymphoma
+3236712	Wide-field fundus autofluorescence corresponds to visual fields in chorioretinitis patients	faf,optomap,autofluorescence
+2855660	Tuberculous Uveitis	uveitis,tuberculous,tb

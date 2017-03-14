@@ -1,0 +1,35 @@
+3364098	Protein-Losing Enteropathy in Ulcerative Colitis	ple,uc,a1at
+3221118	Ulcerative Colitis in Infancy	uc,mesalamine,stool
+3976169	Acute appendicitis due to Cytomegalovirus in an apparently immunocompetent patient: a case report	cmv,appendicitis,cytomegalovirus
+3012439	Infliximab: the evidence for its place in therapy in ulcerative colitis	infliximab,uc,patients
+4560333	Resolution of Severe Ulcerative Colitis with the Specific Carbohydrate Diet	uc,scd,she
+4712540	Primary Sclerosing Cholangitis with Inflammatory Bowel Disease in Korean Children	psc,ibd,uc
+4026549	Current approaches to the management of new-onset ulcerative colitis	uc,mesalamine,colectomy
+3487877	Small duct autoimmune sclerosing cholangitis and Crohn colitis in a 10-year-old child. A case report and review of the literature	aih,aisc,psc
+3014831	A Gentleman with Anemia and Cholestasis	psc,bile,cholangitis
+4843150	Tracheobronchitis in a Patient With Crohn's Disease	tracheobronchitis,cd,her
+4863053	Rectal tuberculosis after infliximab therapy despite negative screening for latent tuberculosis in a patient with ulcerative colitis	tb,infliximab,rectal
+4701756	Pneumoperitoneum, pneumoretroperitoneum, pneumomediastinum and extensive subcutaneous emphysema in a patient with ulcerative colitis: A case report	emphysema,perforation,perforations
+2895181	Leukocytapheresis Therapy Improved Cholestasis in a Patient Suffering from Primary Sclerosing Cholangitis with Ulcerative Colitis	lcap,psc,uc
+3132332	Ulcerative colitis after renal transplantation: A case report and review of literature	ibd,diarrhea,transplantation
+3088739	A Complicated Case of Tacrolimus-Induced Rapid Remission after Cesarean Section in the Early Third Trimester for Refractory Severe Ulcerative Colitis Flaring in the Initial Period of Gestation	uc,gma,tacrolimus
+3350175	Mesalamine-Induced Myocarditis and Coronary Vasculitis in a Pediatric Ulcerative Colitis Patient: A Case Report	asacol,mesalamine,coronary
+3299364	The Valuable Role of Endoscopy in Inflammatory Bowel Disease	ibd,endoscopy,colonoscopy
+4521232	Primary Biliary Cirrhosis and Primary Sclerosing Cholangitis: a Review Featuring a Women's Health PerspectiveReview of PBC & PSC in women's health	psc,pbc,udca
+4324808	Rapid Progression of Primary Sclerosing Cholangitis Complicated with Ulcerative Colitis	psc,olt,bile
+4435295	Use of Serum Infliximab Level Prior to Cyclosporine Salvage Therapy in Severe Ulcerative Colitis	ifx,csa,salvage
+2376091	The role of mesalamine in the treatment of ulcerative colitis	mesalamine,colitis,asa
+3088741	Exacerbation of Bloody Diarrhea as a Side Effect of Mesalamine Treatment of Active Ulcerative Colitis	mesalamine,diarrhea,rechallenge
+4700064	Long-Term Benefit of Mesalamine Granules for Patients Who Achieved Corticosteroid-Induced Ulcerative Colitis Remission	uc,remission,mg
+4017691	Inflammatory Bowel Disease	cd,uc,ibd
+3108676	Thromboembolism in inflammatory bowel diseases: a report from Saudi Arabia	te,ibd,she
+3413022	Update on the management of ulcerative colitis: treatment and maintenance approaches focused on MMX mesalamine	mesalamine,mmx,uc
+4853583	Management of ulcerative colitis	uc,paediatric,children
+2827158	Glimepiride-induced cholestasis in a man with diabetes mellitus: a case report	cholestasis,glimepiride,duct
+2740095	Collagenous gastritis, a new spectrum of disease in pediatric patients: two case reports	collagenous,gastritis,colitis
+3029674	A Multicenter, Randomized Study to Evaluate the Efficacy and Safety of Mesalamine Suppositories 1g at Bedtime and 500mg Twice Daily in Patients with Active Mild-to-Moderate Ulcerative Proctitis	mesalamine,qhs,dai
+2769307	Hypersensitivity to mesalazine in a patient with inflammatory bowel disease: a case report	mesalazine,he,colitis
+3379853	Pediatric ulcerative colitis: current treatment approaches including role of infliximab	uc,infliximab,thiopurine
+2770408	Once daily versus conventional dosing of pH-dependent mesalamine long-term to maintain quiescent ulcerative colitis: Preliminary results from a randomized trial	mesalamine,adherence,patients
+4124277	The role of latanoprost in an inflammatory bowel disease flare	latanoprost,cd,ibd
+3595721	Successful Treatment of Recurrent Primary Sclerosing Cholangitis after Orthotopic Liver Transplantation with Oral Vancomycin	psc,vancomycin,liver

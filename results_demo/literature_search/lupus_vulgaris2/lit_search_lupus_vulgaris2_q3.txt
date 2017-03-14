@@ -1,0 +1,21 @@
+4578738	Tuberculosis of the Penis: A Review of the Literature	tb,penis,tuberculosis
+4103304	Primary Tuberculosis in Soft Palate: Case Report of a Rare Entity	palate,tuberculosis,oral
+3177392	A Disguised Tuberculosis in Oral Buccal Mucosa	tuberculosis,ulcer,oral
+3335710	Tuberculosis of the Oral Cavity Affecting Alveolus: A Case Report	tuberculosis,oral,ulcer
+4042138	Orbital and adnexal tuberculosis: a case series from a South Indian population	otb,orbital,caseation
+3876596	Pulmonary tuberculosis as differential diagnosis of lung cancer	tuberculosis,lung,cancer
+3283855	Delayed Diagnosis of Scrofuloderma Misdiagnosed as a Bacterial Abscess	scrofuloderma,tuberculosis,abscess
+4089084	Cervical LymphadenopathyPitfalls of Blind Antitubercular Treatment	lymphadenopathy,cervical,tuberculosis
+3841666	Papulonecrotic tuberculid of glans penis: A common disease at an uncommon site	glans,tuberculids,penis
+3778807	Chronic Osteomyelitis of Humerus Presenting as Scrofuloderma	tuberculosis,scrofuloderma,osteomyelitis
+3644829	A study on non-resolving pneumonia with special reference to role of fiberoptic bronchoscopy	resolving,fob,pneumonia
+4498256	Erythematous Plaque to Lower Leg After Tropical Injury	tb,cutaneous,tvc
+4220326	Granulomatosis with polyangitis with mononeuritis multiplex-immunosuppressives playing a double-edged sword	she,gpa,mononeuritis
+4246389	Pyogenic granuloma on the upper lip: an unusual location	pg,bauru,lip
+3853387	Abstracts for Poster Presentation	pulmonary,chest,pleural
+3555389	Papulonecrotic Tuberculid with Positive Acid-fast Bacilli	pnt,tuberculosis,bacilli
+4857571	Bronchocentric granulomatosis with extensive cystic lung disease in tuberculosis: An unusual presentation	lung,pneumothoraces,bronchocentric
+4029782	Use of Endo-Ovarian Tissue Biopsy and Pelvic Aspirated Fluid for the Diagnosis of Female Genital Tuberculosis by Conventional versus Molecular MethodsInvestigation of Female Genital Tuberculosis in India	fgtb,trc4,gene
+4323713	Cutaneous tuberculosis with nonreactive PPD skin test: a diagnostic challenge*	ppd,tuberculosis,maring
+3744779	Laboratory support in the diagnosis of uveitis	ocular,sarcoidosis,diagnosis
+3168052	Herpes misdiagnosed as pyoderma gangrenosum	gangrenosum,pyoderma,ulcer

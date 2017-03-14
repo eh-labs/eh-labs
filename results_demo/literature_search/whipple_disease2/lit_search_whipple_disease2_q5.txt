@@ -1,0 +1,37 @@
+3064863	Churg-Strauss Syndrome as an Unusual Aetiology of Stroke with Haemorrhagic Transformation in a Patient with No Cardiovascular Risk Factors	churg,vasculitis,strauss
+3899588	Adult Onset Stills Disease Presenting with Acute Respiratory Distress Syndrome: Case Report and Review of the Literature	aosd,ards,she
+2828421	A patient with Pfeifer-Weber-Christian Disease - Successful Therapy with Cyclosporin A: case report	pwcd,panniculitis,lobular
+3109679	Rheumatoid Arthritis-Associated Interstitial Lung Disease: Diagnostic Dilemma	ild,ra,pneumonitis
+4794578	Adult Onset Still's Disease: A Review on Diagnostic Workup and Treatment Options	aosd,fever,rash
+4254861	Review of Systemic Immunosuppression for Autoimmune Uveitis	uveitis,therapy,retisert
+2841373	Current approach in the diagnosis and management of panuveitis	uveitis,panuveitis,vkh
+4624096	Organizing Pneumonia in Rheumatoid Arthritis Patients: A Case-Based Review	op,ra,steroid
+4562607	Pneumocystis jirovecii Pneumonia in Rheumatoid Arthritis Patients: Risks and Prophylaxis Recommendations	pcp,jirovecii,ra
+2822251	Adult-onset Still's Disease with Disseminated Intravascular Coagulation and Multiple Organ Dysfunctions Dramatically Treated with Cyclosporine A	aosd,hs,csa
+4137595	Pyogenic Sacroiliitis and Pyomyositis in a Patient with Systemic Lupus Erythematous	pyomyositis,sacroiliitis,iliacus
+400408	Intravenous immunoglobulin treatment of four patients with juvenile polyarticular arthritis associated with persistent parvovirus B19 infection and antiphospholipid antibodies	b19,parvovirus,ivig
+4181632	Pharmacotherapy for uveitis: current management and emerging therapy	uveitis,noninfectious,inflammation
+4762790	Large vessel vasculitis in a patient with acute Q-fever: A case report	fever,q,acute
+3084301	Current and emerging drugs for the treatment of inflammatory bowel disease	uc,cd,patients
+3835517	ANCA-Negative Wegener's Granulomatosis with Multiple Lower Cranial Nerve Palsies	wg,sinusitis,cranial
+3263168	Adalimumab in the treatment of recurrent idiopathic bilateral nodular scleritis	scleritis,adalimumab,voltaren
+4851368	Factors Associated with Myelosuppression Related to Low-Dose Methotrexate Therapy for Inflammatory Rheumatic DiseasesFactors Affecting Hematotoxicity of Low-Dose MTX Therapy	mtx,myelosuppression,neutropenia
+3610459	Acute methotrexate toxicity presenting as multiorgan failure and acute pneumonitis: A rare case report	mtx,pneumonitis,methotrexate
+4602418	Myocarditis in Adult-Onset Still Disease	aosd,myocarditis,ttu
+3407750	Multiple ring-enhancing cerebral lesions in systemic lupus erythematosis: a case report	tuberculomas,att,her
+4624371	A case report of successful treatment of pyoderma gangrenosum in a patient with autoimmune hepatitis, and review of the literature	aih,gangrenosum,pyoderma
+3485763	Mycophenolate Mofetil-Related Enterocolitis and Weight Loss: A Pediatric Case Series	mmf,enterocolitis,diarrhea
+3050744	Co-existing sarcoidosis and Takayasu arteritis: report of a case	sarcoidosis,ta,arteritis
+4712211	Visceral leishmaniasis in a patient with systemic lupus erythematosus	vl,patient,she
+2847255	Myocardial Ischemia in Wegeners Granulomatosis: Coronary Atherosclerosis Versus Vasculitis	wg,cardiovascular,vasculitis
+3888612	Management of Kawasaki disease	kd,ivig,caa
+3279492	Rheumatoid Arthritis: Refractory to Infliximab, a Tumor Necrosis Factor InhibitorRheumatoid Arthritis	infliximab,mtx,ra
+4540992	CVID Associated with Systemic Amyloidosis	cvid,amyloidosis,hypogammaglobulinemia
+3218692	Management of Pneumocystis Jirovecii pneumonia in HIV infected patients: current options, challenges and future directions	pcp,tmp,smx
+3747998	Pharmacotherapy Options in Rheumatoid Arthritis	mtx,ssz,dmards
+3891165	Adult Onset Still's Disease as a Cause of Acute Severe Mitral and Aortic Regurgitation	aosd,mitral,valve
+4716121	A case of membranous nephropathy associated with relapsing polychondritis	rp,chondritis,renal
+3965925	An Unusual Case of Adult-Onset Still's Disease with Hemophagocytic Syndrome, Necrotic Leukoencephalopathy and Disseminated Intravascular Coagulation	aosd,hlh,hemophagocytic
+3556306	Disseminated cryptococcosis initially presenting as cellulitis in a patient suffering from nephrotic syndrome	cryptococcosis,nephrotic,cellulitis
+2809337	Diabetes Insipidus as a Complication of Wegener's Granulomatosis and Its Treatment with Biologic Agents	wg,pituitary,insipidus
+4632261	Takayasu's Arteritis and Liver Transplantation: Association and Implications	ta,subclavian,saudi

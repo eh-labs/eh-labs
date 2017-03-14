@@ -1,0 +1,32 @@
+4356263	Abrin Poisoning in an 18-Month-Old Child	abrin,precatorius,abrus
+3224513	Crohn's Disease Exacerbation Induced by Edwardsiella tarda Gastroenteritis	tarda,gastroenteritis,ibd
+4567790	Step-up fecal microbiota transplantation strategy: a pilot study for steroid-dependent ulcerative colitis	fmt,microbiota,steroid
+4761353	Induction of potentially lethal hypermagnesemia, ischemic colitis, and toxic megacolon by a preoperative mechanical bowel preparation: report of a case	hypermagnesemia,colon,megacolon
+4594448	Fecal Impaction Causing Pelvic Venous Compression and Edema	fecal,constipation,impaction
+3981256	Caecal carcinoma: a review of 3 cases in a private hospital in Lagos	caecal,he,colonoscopy
+3746042	Life-Threatening Lower Gastrointestinal Hemorrhage in Pediatric Crohn's Disease	crohn,bleeding,infliximab
+3132332	Ulcerative colitis after renal transplantation: A case report and review of literature	ibd,diarrhea,transplantation
+4756789	A Case Report of Improvement in Crohn's Diseaserelated Symptoms Following Participation in a Comprehensive Mind-Body ProgramInforme de un caso de mejora de los sntomas relacionados con la enfermedad de Crohn tras la participacin en un programa integral de mente-cuerpo	mind,ibd,he
+4104559	The Positive Impact of Integrative Medicine in the Treatment of Recalcitrant Chronic daily Headache: A Series of Case Reports	cdh,her,headache
+4895930	Fecal Microbiota Transplantation: Current Applications, Effectiveness, and Future Perspectives	fmt,cdi,microbiota
+3236145	Food Protein-Induced Enterocolitis Syndrome as a Cause for Infant HypotensionFood Protein-Induced Enterocolitis SyndromeWestern JournalofEmergency Medicine	fpies,vomiting,ed
+3742951	Fecal Microbiota Transplantation: Indications, Methods, Evidence, and Future Directions	fmt,cdi,microbiota
+4730728	Novel exonic mutation inducing aberrant splicing in the IL10RA gene and resulting in infantile-onset inflammatory bowel disease: a case report	il10ra,537g,il
+2615353	A Case of Ischemic Colitis Associated with the Herbal Food Supplement Ma Huang	ephedra,colitis,ephedrine
+4518859	And then you start to loose it because you think about Nutella: The significance of food for people with inflammatory bowel disease - a qualitative study	eat,food,ibd
+3364098	Protein-Losing Enteropathy in Ulcerative Colitis	ple,uc,a1at
+4756770	Integrative Medicine Approach to Pediatric Obsessive-Compulsive Disorder and Anxiety: A Case ReportAproximacin de la medicina integral al trastorno obsesivo compulsivo y a la ansiedad en nios: informe de un caso	gluten,ocd,he
+2866557	Kampo medicines improved blood test and QOL in two vasculitis cases of ChurgStrauss syndrome and HenochShnlein purpura after inadequate treatment with conventional therapies	kampo,vasculitis,dampness
+548304	Steroid-refractory ulcerative colitis treated with corticosteroids, metronidazole and vancomycin: a case report	difficile,metronidazole,uc
+4463793	Unusual Case of Cerebral Venous Thrombosis in Patient with Crohn's Disease	cvt,cd,chungbuk
+3607857	Intestinal microbiota, probiotics and mental health: from Metchnikoff to modern advances: Part I autointoxication revisited	autointoxication,intestinal,mental
+4149388	E. coli O157 outbreaks in the United Kingdom: past, present, and future	o157,outbreak,coli
+4849479	Atypical Hemolytic Uremic Syndrome and Chronic Ulcerative Colitis Treated with Eculizumab	ahus,eculizumab,complement
+4127549	Severe Colitis Associated with both Epstein-Barr Virus and Cytomegalovirus Reactivation in a Patient with Severe Aplastic Anemia	ebv,cmv,colitis
+2925354	Perforated Meckel's diverticulum presenting with combined bowel and urinary obstruction and mimicking Crohn's disease: a case report	meckel,diverticulum,abscess
+4612757	Colitis Following Initiation of Sofosbuvir and Simeprevir for Genotype 1 Hepatitis C	simeprevir,sofosbuvir,colitis
+4697115	Chlamydial Proctitis in a Young Man Who Has Sex with Men: Misdiagnosed as Inflammatory Bowel Disease	proctitis,trachomatis,chlamydial
+4336266	A case of Strongyloides hyperinfection associated with tuberculosis	hyperinfection,strongyloides,strongyloidiasis
+2815649	Fish faddism causing low-level mercury poisoning in the Caribbean: two case reports	mercury,fish,shark
+2770379	Selective adherence to antihypertensive medications as a patient-driven means to preserving sexual potency	sexual,spouses,antihypertensive
+4491452	Bloody semen, severe hypertension and a worried man	haematospermia,hypertension,he

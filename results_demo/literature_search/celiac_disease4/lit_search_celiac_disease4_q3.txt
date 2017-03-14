@@ -1,0 +1,42 @@
+2693865	A Case of Intestinal Behcet's Disease Similar to Crohn's Colitis	behcet,crohn,disease
+3851743	Utility of hydroxyurea in mast cell activation syndrome	mcas,hu,diffusely
+3821706	Chronic vomiting and diarrhea in a young adult female	rumination,regurgitation,syndrome
+2761170	Severe toxicity of skin rash, fever and diarrhea associated with imatinib: case report and review of skin toxicities associated with tyrosine kinase inhibitors	imatinib,rash,rashes
+4360078	Toxic epidermal necrolysis related to AP (pemetrexed plus cisplatin) and gefitinib combination therapy in a patient with metastatic non-small cell lung cancer	gefitinib,pemetrexed,ten
+4895079	Cytomegalovirus Cutaneous Infection in an Immunocompromised Patient	cmv,cureus,cutaneous
+3965925	An Unusual Case of Adult-Onset Still's Disease with Hemophagocytic Syndrome, Necrotic Leukoencephalopathy and Disseminated Intravascular Coagulation	aosd,hlh,hemophagocytic
+3862396	Lyme disease: case report of persistent Lyme disease from Pulaski County, Virginia	ld,burgdorferi,rash
+4065561	Watersport Hands	aquagenic,acrokeratoderma,syringeal
+3276790	Scaly Ear Rash as the Herald of a Young Girl with Juvenile Systemic Lupus Erythematosus	jsle,sle,lupus
+3892961	Mitochondrial disorder caused Charles Darwins cyclic vomiting syndrome	cvs,cd,his
+3085976	Nutritional supplementation and dietary restriction in the resolution of enthesitis-related arthritisNutritional supplementation and dietary restriction in the resolution of enthesitis-related arthritis	enthesitis,arthritis,juvenile
+3714086	Campylobacteremia in stage IV gliosarcoma with bevacizumab treatment	campylobacter,bacteremia,she
+2503996	Sweet's syndrome in a patient with Crohn's disease: a case report	sweet,crohn,syndrome
+4683782	Acute thoracolumbar pain due to cholecystitis: a case study	pain,visceral,cholecystitis
+3125036	An Apple-core Lesion in the Colon: An Infectious Etiology	histoplasmosis,histoplasma,itraconazole
+3236166	Drug Rash with Eosinophilia and Systemic Symptoms: Two Emergency Department CasesDRESS: Two ED Cases	dress,rash,fevers
+3445119	Legal Liability in Covering Athletic Events	court,athletic,coach
+2740090	Sero-negative celiac disease with dermatitis herpetiformes: a case report	celiac,gluten,intestinal
+4251881	Recognizing Presentations of Pemphigoid Gestationis: A Case Study	pg,gestationis,her
+4538593	Hereditary Angioedema and Gastrointestinal Complications: An Extensive Review of the Literature	hae,attacks,inh
+4528793	Urticarial Vasculitis in a Teenage Girl	urticaria,urticarial,vasculitis
+3506055	Diverticular Disease of the Small Bowel	diverticula,diverticular,intestinal
+4794442	Severe Hyponatremia Associated with Use of Black Cohosh during Prolonged Labor and Unsuccessful Home Birth	cohosh,hyponatremia,labor
+3299063	Forty-year-old diabetic lady with tightness in lower limbs	stiff,gad,spasms
+3445063	Cryptogenic Stroke Associated With Patent Foramen Ovale in a Collegiate Volleyball AthleteA Case Report	pfo,cryptogenic,echocardiograph
+3666183	Hereditary Angioedema Caused By C1-Esterase Inhibitor Deficiency: A Literature-Based Analysis and Clinical Commentary on Prophylaxis Treatment Strategies	hae,esterase,c1
+4531626	Quinupristin/Dalfopristin-induced Sweets Syndrome	quinupristin,dalfopristin,sweet
+4890080	Chronic idiopathic Sweet syndrome: A report of 2 cases	ss,skin,prednisone
+3733041	Close Contact Precautions Could Prevent an Outbreak of Crimean-Congo Hemorrhagic Fever: A Case Series Report from Southern Part of Tehran	cchf,ribavirin,fever
+3320288	Laboratory Exposures to Staphylococcal Enterotoxin BStaphylococcal Enterotoxin B	seb,symptoms,staphylococcal
+4820024	An Unusual Clinical Presentation of Gastrointestinal Metastasis From Invasive Lobular Carcinoma of Breast	lobular,gi,metastatic
+4058265	Safety of Moxibustion: A Systematic Review of Case Reports	moxibustion,moxa,burns
+4588636	Is Levamisole-Induced Vasculitis a Relegated Diagnostic Possibility? A Case Report and Review of Literature	levamisole,cocaine,liv
+4230886	Clinical Features and Patient Management of Lujo Hemorrhagic FeverLujo Haemorrhagic Fever	lujo,vhf,lassa
+4885202	Mouth and Genital Ulcers with Inflamed Cartilage Syndrome: Case Report and Review of the Published Work	magic,syndrome,rp
+111192	Congenital sucrase-isomaltase deficiency presenting with failure to thrive, hypercalcemia, and nephrocalcinosis	hypercalcemia,sucrase,lactase
+2642859	Biopsychosocial approaches to a patient with vomiting of 10 years' duration a case of temporal lobe epilepsy	vomiting,her,she
+2914383	Paraneoplastic SIADH and Dermatomyositis in Cervical Cancer: A Case Report and Literature Review	dermatomyositis,siadh,her
+3871413	Post-concussive syndrome in a female basketball player: a case study	she,her,athlete
+4251232	Chikungunya Fever in Los Angeles, California	chikungunya,fever,her
+4389082	Autoimmunity in connection with a metal implant: a case of autoimmune/autoinflammatory syndrome induced by adjuvants	nickel,implant,she

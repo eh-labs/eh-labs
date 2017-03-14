@@ -1,0 +1,39 @@
+3474320	Incidental Rickets in the Emergency Department Setting	rickets,vitamin,d3
+3809253	Lamellar Ichthyosis with Rickets	rickets,ichthyosis,lamellar
+4324285	Bony manifestation of rickets in a sunny city - a case report from Yazd, Iran	rickets,vitamin,yazd
+3475904	Celiac disease: A missed cause of metabolic bone disease	cd,fractures,mbd
+4049552	A novel de novo mutation within PHEX gene in a young girl with hypophosphatemic rickets and review of literature	phex,rickets,hypophosphatemic
+3833481	Review of Clinical Applications of Scalp Acupuncture for Paralysis: An Excerpt From Chinese Scalp Acupuncture	acupuncture,scalp,her
+2778352	Vitamin D DeficiencyA Clinical Spectrum: Is There a Symptomatic Nonosteomalacic State?	vitamin,deficiency,d
+3179286	Dysosteosclerosis Presents as an Osteoclast-Poor Form of Osteopetrosis: Comprehensive Investigation of a 3-Year-Old Girl and Literature Review	dss,bone,sclerotic
+4232664	A novel pathogenic mutation of the CYP27B1 gene in a patient with vitamin D-dependent rickets type 1: a case report	rickets,cyp27b1,vitamin
+2740090	Sero-negative celiac disease with dermatitis herpetiformes: a case report	celiac,gluten,intestinal
+4476261	Opsismodysplasia: Phosphate Wasting Osteodystrophy Responds to Bisphosphonate Therapy	opsismodysplasia,pamidronate,platyspondyly
+2769362	The use of pre-operative imaging and intraoperative parathyroid hormone level to guide surgical management of tertiary hyperparathyroidism from X-linked hypophosphatemic rickets: a case report	hpt,xlhr,parathyroid
+2923106	Collective trauma in the Vanni- a qualitative inquiry into the mental health of the internally displaced due to the civil war in Sri Lanka	vanni,my,ltte
+3135503	Phenotypic variability of the kyphoscoliotic type of Ehlers-Danlos syndrome (EDS VIA): clinical, molecular and biochemical delineation	eds,plod1,kyphoscoliosis
+4649884	Severe Vitamin D Deficiency Causing Kyphoscoliosis	vitamin,d,deficiency
+4091495	A Novel PHEX Gene Mutation in a Patient with Sporadic Hypophosphatemic Rickets	phex,fgf23,hypophosphatemic
+3510274	A case of mucolipidosis II presenting with prenatal skeletal dysplasia and severe secondary hyperparathyroidism at birth	gnptab,3091c,skeletal
+4239755	Periodontitis associated with osteomalacia	osteomalacia,periodontitis,bone
+3299063	Forty-year-old diabetic lady with tightness in lower limbs	stiff,gad,spasms
+4722566	Chronic Bilateral Tibial Stress Fractures with Valgus Treated with Bilateral Intramedullary Nailing: A Case Report	tibial,intramedullary,fractures
+2761783	Postpartum Haemorrhage and Eclampsia: Differences in Knowledge and Care-seeking Behaviour in Two Districts of Bangladesh	jessore,sylhet,eclampsia
+4112833	Spectrum of phenotypic anomalies in four families with deletion of the SHOX enhancer region	shox,height,madelung
+3102812	Spontaneous bilateral distal ulna fracture: an unusual complication in a rheumatoid patient	ulna,fractures,rheumatoid
+4531958	Oncogenic Osteomalacia Caused by a Phosphaturic Mesenchymal Tumor of the Oral Cavity: A Case Report	dihydroxyvitamin,tumor,osteomalacia
+3934321	Three-Year Successful Cinacalcet Treatment of Secondary Hyperparathyroidism in a Patient with X-Linked Dominant Hypophosphatemic Rickets: A Case Report	cinacalcet,shpt,xlh
+3830312	Familial vitamin D resistant rickets: End-organ resistance to 1,25-dihydroxyvitamin D	rickets,dihydroxyvitamin,vitamin
+2684999	Bilateral Transverse (Bowdler) Fibular Spurs with Hypophosphatasia in an Adolescent Girl	bowdler,hypophosphatasia,spurs
+3708087	Osteogenesis Imperfecta Type VI with Severe Bony Deformities Caused by Novel Compound Heterozygous Mutations in SERPINF1	serpinf1,oi,fractures
+3262651	Growth Hormone Deficiency, Short Stature, and Juvenile Rheumatoid Arthritis in a Patient with Autoimmune Polyglandular Syndrome Type 1: Case Report and Brief Review of the Literature	she,aps,her
+4001421	Hair Depigmentation and Dermatitis An Unexpected Presentation of Cystic Fibrosis	hair,cf,novi
+2761776	Pregnancy-related Deaths in Rural Rajasthan, India: Exploring Causes, Context, and Care-seeking Through Verbal Autopsy	deaths,her,pregnancy
+4326996	Vulval myiasis: An unusual presentation of a rare entity in an adolescent female	myiasis,maggots,vulval
+4607000	An adolescent with significant emotional and medically unexplained complaints: case report and proposal of an intervention	her,she,mental
+3786543	Osteogenesis Imperfecta Due to Compound Heterozygosity for the LEPRE1 Gene	imperfecta,osteogenesis,lepre1
+3892214	Chronic idiopathic hyperphosphatasia with unusual dental findings - A case report	hyperphosphatasia,bone,teeth
+3519260	Acquired Zinc Deficiency in an Adult Female	zinc,deficiency,enteropathica
+3579060	Restlessness in right upper limb as sole presentation of restless legs syndrome	rls,symptoms,pramipexole
+2984337	Re-evaluation of the diagnosis of porphyria cutanea tarda in Admiral Sir Francis Beaufort	beaufort,his,he
+3965925	An Unusual Case of Adult-Onset Still's Disease with Hemophagocytic Syndrome, Necrotic Leukoencephalopathy and Disseminated Intravascular Coagulation	aosd,hlh,hemophagocytic

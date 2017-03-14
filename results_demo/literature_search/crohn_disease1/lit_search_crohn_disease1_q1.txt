@@ -1,0 +1,4 @@
+2277428	Acute jejunoileal obstruction due to a pseudopolyp in a child with undiagnosed crohn disease: A case report	pseudopolyp,cd,obstruction
+4528898	When Coke Is Not HydratingCocaine-Induced Acute Interstitial Nephritis	ain,cocaine,dl
+2992067	Spontaneous splenic rupture in an active duty Marine upon return from Iraq: a case report	rupture,splenic,spleen
+4493247	A Case of Intussusception with Acute Appendicitis	intussusception,appendicitis,abdominal

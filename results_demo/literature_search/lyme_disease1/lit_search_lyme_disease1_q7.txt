@@ -1,0 +1,27 @@
+3982253	Inflammation Induced by Perfluorocarbon Liquid: Intra- and Postoperative Use	pfcl,pfcls,retinal
+3704602	Lymphocyte infiltration in CAPN5 autosomal dominant neovascular inflammatory vitreoretinopathy	adniv,capn5,vitreous
+3607419	A case of presumed acute retinal necrosis after intraocular foreign body injury	arn,retinal,vitreous
+3019598	Ocular manifestations and pathology of adult T-cell leukemia/lymphoma associated with human T-lymphotropic virus type 1	atl,htlv,ocular
+2893052	T-cell infiltration in autosomal dominant neovascular inflammatory vitreoretinopathy	adniv,eyes,supraciliary
+3693900	Late-onset secondary pigmentary glaucoma following foldable intraocular lenses implantation in the ciliary sulcus: a long-term follow-up study	iol,iop,glaucoma
+4797249	Diagnostic efficacy of cell block method for vitreoretinal lymphoma	vrl,vitreous,uveitis
+3022222	Rabbit Model of Retinoblastoma	retinoblastoma,tumor,vitreous
+4110402	Classical Pathology of Sympathetic Ophthalmia Presented in a Unique Case	ophthalmia,sympathetic,eye
+4049946	Bacterial tick-borne diseases caused by Bartonella spp., Borrelia burgdorferi sensu lato, Coxiella burnetii, and Rickettsia spp. among patients with cataract surgery	bartonella,burgdorferi,spp
+3325623	Spontaneous Resolution of Intravitreal Steroid-Induced Bilateral Cytomegalovirus Retinitis	cmv,ivta,retinitis
+3430058	Visual outcome of early and late pars plana vitrectomy in patients with dropped nucleus during phacoemulsification	vitrectomy,lens,ppv
+4795398	Pars Planitis: Epidemiology, Clinical Characteristics, Management and Visual Prognosis	planitis,pars,uveitis
+2925451	Endoscopy-guided vitreoretinal surgery following penetrating corneal injury: a case report	corneal,vitrectomy,keratoplasty
+3306121	Acute Posterior Multifocal Placoid Pigment Epitheliopathy as the Initial Manifestation of Sarcoidosis	apmppe,sarcoidosis,rpe
+3355369	Late Onset Retinoblastoma Presenting with Vitreous Haemorrhage	vitreous,haemorrhage,retinoblastoma
+4616708	Pars Plana Vitrectomy and Evisceration Resulting in Death Due to Misdiagnosis of Retinoblastoma in ChildrenA Review of 3 Cases	retinoblastoma,intraocular,vitrectomy
+4168039	A Simple Method for Establishing Adherent Ex Vivo Explant Cultures from Human Eye Pathologies for Use in Subsequent Calcium Imaging and Inflammatory Studies	lecs,alc,explant
+4549539	The Diagnostic and Therapeutic Challenges of Posttraumatic Iris Implantation Cysts: Illustrative Case Presentations and a Review of the Literature	cyst,iris,cysts
+4685175	Post operative fungal endopthalmitis due to Geotrichum candidum	geotrichum,candidum,voriconazole
+3698124	Study In Vivo Intraocular Biocompatibility of In Situ Gelation Hydrogels: Poly(2-Ethyl Oxazoline)-Block-Poly(-Caprolactone)-Block-Poly(2-Ethyl Oxazoline) Copolymer, Matrigel and Pluronic F127In Vivo Biocompatibility of Gelation Hydrogels	f127,peoz,pluronic
+2930628	Wallerian-like axonal degeneration in the optic nerve after excitotoxic retinal insult: an ultrastructural study	axons,myelin,rgcs
+3189743	Molecular Biomarkers for the Diagnosis of Primary Vitreoretinal Lymphoma	pvrl,lymphoma,il
+3257537	Astrocyte pVHL and HIF- isoforms are required for embryonic-to-adult vascular transition in the eyeAstrocyte pVHL mediates vascular remodeling	hyaloidal,hif,vhl
+4339653	Morphological and biochemical features of Borrelia burgdorferi pleomorphic formshttp://mic.sgmjournals.orgL. Merilinen and othersB. burgdorferi pleomorphism	rbs,burgdorferi,spirochaetes
+3546756	Impact of ghrelin on vitreous cytokine levels in an experimental uveitis model	uveitis,ghrelin,il
+3302996	Posterior subhyaloid precipitates in cytomegalovirus retinitis	subhyaloid,psps,retinitis

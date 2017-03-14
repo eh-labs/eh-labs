@@ -1,0 +1,19 @@
+3637527	Anterior uveitis associated with laser epilation of eyebrows	laser,epilation,eyebrows
+3843902	Recurrent Annular Peripheral Choroidal Detachment after Trabeculectomy	choroidal,iop,detachment
+4463792	Systemic Cyclosporine Therapy for Scleritis: A Proposal of a Novel System to Assess the Activity of Scleritis	scleritis,cyclosporine,topical
+2770868	Current trends in the management of ocular symptoms in Adamantiades-Behets disease	abd,uveitis,ocular
+4065678	Inefficacy or Paradoxical Effect? Uveitis in Ankylosing Spondylitis Treated with Etanercept	uveitis,tnf,eta
+3770888	Occult nonmetallic intraocular foreign bodies presenting as fulminant uveitis: a case series and review of the literature	iofb,foreign,iofbs
+3438298	Rifabutin-associated hypopyon uveitis and retinal vasculitis with a history of acute myeloid leukemia	rifabutin,uveitis,hypopyon
+4302469	Conjunctival Necrosis Following a Subconjunctival Injection of Triamcinolone Acetonide in a Child	conjunctival,acetonide,triamcinolone
+3357152	Corneal Melting Two Weeks after Pterygium Excision with Topical Mitomycin C: Successfully Treated with Lamellar Keratoplasty and Amnion Membrane Transplantation	pterygium,mmc,corneal
+2813592	Traditional Medicine in Oman: Its Role in Ophthalmology	wasam,eye,corneal
+3130717	Synthetic fiber from a teddy bear causing keratitis and conjunctival granuloma: case report	teddy,fibers,granuloma
+3090301	Cystoid macular edema after cataract surgery in a patient with previous severe iritis following argon laser peripheral iridoplasty	iris,cme,cystoid
+4264495	Association of Cryptogenic Organizing Pneumonia in Bilateral Anterior Uveitis	uveitis,cop,hypopyon
+3363314	Successful salvage therapy of Fusarium endophthalmitis secondary to keratitis: an interventional case series	voriconazole,fusarium,endophthalmitis
+2823108	Managing corneal disease: focus on suppurative keratitis	corneal,keratitis,ulcer
+4209261	A Case of Herpetic Keratitis after Subconjunctival Triamcinolone Acetonide Injection	herpetic,keratitis,sti
+4313489	Long-term follow-up of zonulo-hyaloido-vitrectomy for pseudophakic malignant glaucoma	zhv,iop,glaucoma
+4579990	Diagnosing and managing microbial keratitis	keratitis,corneal,eye
+3617897	Acute-Onset Endophthalmitis Caused by Alloiococcus otitidis following a Dexamethasone Intravitreal Implant	endophthalmitis,intravitreal,otitidis

@@ -1,0 +1,17 @@
+4781952	Polymicrobial Pituitary Abscess Predominately Involving Escherichia coli in the Setting of an Apoplectic Pituitary Prolactinoma	pituitary,abscess,coli
+2848795	Orbital Pseudotumor: Distinct Diagnostic Features and Management	orbital,pseudotumor,myositis
+2938498	Near-fatal subdural empyema complicating a rapidly progressive orbital cellulites	orbital,sinus,abscess
+3505291	Orbital tuberculosis manifesting as proptosis in an immunocompromised host	proptosis,orbital,tuberculosis
+2672268	Herpes Zoster Ophthalmicus	hzo,zoster,exam
+3665498	West Nile virus infection and diplopia: a case report and review of literature	wnv,diplopia,nile
+3310834	Communicating carotid-cavernous sinus fistula following minor head trauma	cavernous,ccfs,carotid
+4901854	Direct, spontaneous carotid-cavernous fistula with a contracted kidney: A rare association	carotid,proptosis,aneurysm
+4528887	Fever Through a Jaundiced Eye	pla,abscess,liver
+3173922	Childhood steroid-responsive ophthalmoplegic migraine	om,migraine,oculomotor
+4804051	Tuberculous Panophthalmitis with Lymphadenitis and Central Nervous System Tuberculoma	tb,panophthalmitis,eye
+3451906	The Almirall European Headache Awards 2009	headache,headaches,migraine
+4859945	Acute renal infarction and cardioembolic stroke in a patient with atrial fibrillation and hyperthyroid-induced cardiomyopathy: a case report	renal,infarction,ari
+4403952	Adult Kawasaki disease in a European patient: a case report and review of the literature	kd,kawasaki,ivig
+2813585	Carotid Cavernous Fistula: Ophthalmological Implications	ccf,cavernous,sov
+2896582	A 43-Year-Old Woman with Abdominal Pain and Fever	luq,reasoning,brucellosis
+3415222	Severe Primary HSV-2 in a Perinatal HIV-Infected Woman with Advanced Immunosuppression	hsv,genital,pharyngitis

@@ -1,0 +1,18 @@
+3146206	An overview of Indian research in bipolar mood disorder	mania,manic,bipolar
+4449672	Clinical Guidelines on Long-Term Pharmacotherapy for Bipolar Disorder in Children and Adolescents	bd,adolescents,guidelines
+420474	Report of three cases that received maintenance treatment with risperidone as a mood stabilizer	risperidone,she,lithium
+4539870	Bipolar disorder in women	women,bd,bipolar
+4745952	Neuroleptic-induced deficit syndrome in bipolar disorder with psychosis	nids,neuroleptics,bipolar
+4061451	Pharmacotherapy for acute mania and disconcordance with treatment guidelines: bipolar mania pathway survey (BIPAS) in mainland China	disconcordance,manic,disconcordant
+2235848	Affective psychosis, Hashimoto's thyroiditis, and brain perfusion abnormalities: case report	hashimoto,cagliari,thyroiditis
+4311113	Neuroleptic malignant syndrome in a patient treated with lithium carbonate and haloperidol	nms,lithium,antipsychotic
+2671954	Psychopharmacology of topiramate: from epilepsy to bipolar disorder	tpm,bipolar,patients
+4857276	The Pharmacogenomics of Bipolar Disorder study (PGBD): identification of genes for lithium response in a prospective sample	lithium,bipolar,disorder
+4539876	Mood stabilizers in pregnancy and lactation	pregnancy,valproate,mood
+1434505	The Latest Mania: Selling Bipolar DisorderEssay	bipolar,disorder,mood
+4031586	Olanzapine Discontinuation Emergent Recurrence in Bipolar Disorder	olanzapine,discontinuation,episode
+3181868	Acute and long-term treatment of maniaTratiamento a corto y lungo plazo de la maniaTraitement aigu et long terme de l'tat maniaque	mania,lithium,olanzapine
+3640605	Retrospective analysis of factors associated with quetiapine dosage in the acute and subsequent six-month maintenance treatment of bipolar disorders	quetiapine,dose,bipolar
+4856245	Asenapine augmentation in bipolar disorders: a case seriesD. Marazziti et al.	asenapine,she,he
+4284049	Treatment of bipolar disorders during pregnancy: maternal and fetal safety and challenges	bipolar,pregnancy,valproate
+4891315	Pharmacotherapy of Acute Bipolar Depression in Adults: An Evidence Based Approach	bipolar,bd,depression

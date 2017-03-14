@@ -1,0 +1,40 @@
+3565585	Infectious endophthalmitis: review of 420 cases	endophthalmitis,intraocular,vitrectomy
+3661436	Severe Acute Endogenous Endophthalmitis with Staphylococcus Epidermidis in a Systemically Well Patient	endophthalmitis,ebe,intravitreal
+3633579	Stenotrophomonas maltophilia endophthalmitis following cataract surgery: clinical and microbiological results	maltophilia,ceftazidime,endophthalmitis
+3638360	Endophthalmitis	endophthalmitis,vitrectomy,humor
+2879353	Intravitreal injection analysis at the Bascom Palmer Eye Institute: evaluation of clinical indications for the treatment and incidence rates of endophthalmitis	endophthalmitis,intravitreal,injections
+3363314	Successful salvage therapy of Fusarium endophthalmitis secondary to keratitis: an interventional case series	voriconazole,fusarium,endophthalmitis
+3328945	Chronic Postoperative Endophthalmitis: A Review of Clinical Characteristics, Microbiology, Treatment Strategies, and Outcomes	endophthalmitis,cpe,postoperative
+4692304	Exogenous endophthalmitis caused by Enterococcus casseliflavus: A case report and discussion regarding treatment of intraocular infection with vancomycin-resistant enterococci	endophthalmitis,vitreous,casseliflavus
+4014381	Recurrent nontuberculous mycobacterial endophthalmitis: a diagnostic conundrum	chelonae,abscessus,rgntm
+3962578	Bilateral endogenous fungal endophthalmitis	endophthalmitis,vitrectomy,vitreous
+3636104	Nocardia veterana endogenous endophthalmitis in a cardiac transplant patient	veterana,endophthalmitis,nocardia
+3770888	Occult nonmetallic intraocular foreign bodies presenting as fulminant uveitis: a case series and review of the literature	iofb,foreign,iofbs
+2636117	Recurrent neovascularization of the disc in sympathetic ophthalmia	nvd,disc,triamcinalone
+2925451	Endoscopy-guided vitreoretinal surgery following penetrating corneal injury: a case report	corneal,vitrectomy,keratoplasty
+3249810	Biopsy Pathology in Uveitis	vitreous,biopsy,uveitis
+4480352	Colletotrichum truncatum species complex: Treatment considerations and review of the literature for an unusual pathogen causing fungal keratitis and endophthalmitis	truncatum,colletotrichum,endophthalmitis
+4630262	Endogenous endophthalmitis: diagnosis, management, and prognosis	endophthalmitis,ee,vitrectomy
+3770343	Intravitreal moxifloxacin in the management of Ochrobactrum intermedium endophthalmitis due to metallic intraocular foreign body	moxifloxacin,endophthalmitis,intravitreal
+2739967	Results of Extensive Surgical Treatment of Seven Consecutive Cases of Postoperative Fungal Endophthalmitis	endophthalmitis,vitrectomy,fungal
+3277006	Outcome of Endophthalmitis Treatment in a Tertiary Referral Center in Southern Iran	endophthalmitis,vitrectomy,va
+2886264	Acute postoperative endophthalmitis by Gemella haemolysans	gemella,haemolysans,endophthalmitis
+4275749	Post-operative endophthalmitis caused by Acremonium falciforme with orbital and extra-orbital involvement following combined cataract and glaucoma surgery: a case report	endophthalmitis,orbital,acremonium
+3149143	Late-Onset Citrobacter koseri Endophthalmitis with Suture Exposure after Secondary Intraocular Lens Implantation	endophthalmitis,citrobacter,koseri
+4293922	Endophthalmitis: state of the art	endophthalmitis,intravitreal,postoperative
+3072179	Chronic Postoperative Endophthalmitis Caused by Actinomyces meyeri	meyeri,actinomyces,intraocular
+4064225	Batch-related sterile endophthalmitis following intravitreal injection of bevacizumab	endophthalmitis,ivb,bevacizumab
+3637534	Vancomycin-resistant Gram-positive bacterial endophthalmitis: epidemiology, treatment options, and outcomes	vancomycin,endophthalmitis,gram
+3617897	Acute-Onset Endophthalmitis Caused by Alloiococcus otitidis following a Dexamethasone Intravitreal Implant	endophthalmitis,intravitreal,otitidis
+3530141	A Case of Candida albicans Endophthalmitis with No Predisposing Risk Factors and a Distant Source of Infection	vitreous,endophthalmitis,candida
+1950509	Treatment of two postoperative endophthalmitis cases due to Aspergillus flavus and Scopulariopsis spp. with local and systemic antifungal therapy	endophthalmitis,amphotericin,caspofungin
+4329832	An Eleven-Year Retrospective Study of Endogenous Bacterial Endophthalmitis	endophthalmitis,va,ebe
+3506059	Delayed-Onset Post-Keratoplasty Endophthalmitis Caused by Vancomycin-Resistant Enterococcus faecium	endophthalmitis,pkp,vre
+4381680	Methicillin-Resistant Staphylococcus aureus Ocular Infection after Corneal Cross-Linking for Keratoconus: Potential Association with Atopic Dermatitis	corneal,mrsa,atopic
+2783105	Endogenous endophthalmitis secondary to bacterial meningitis from Neisseria Meningitidis: a case report and review of the literature	endophthalmitis,meningitidis,meningitis
+3605398	Post-traumatic vancomycin-resistant enterococcal endophthalmitis	vancomycin,endophthalmitis,intravitreal
+3605079	The emergence of Klebsiella pneumoniae endogenous endophthalmitis in the USA: basic and clinical advances	kpee,ee,klebsiella
+3885938	Identification of Curvularia lunata by polymerase chain reaction in a case of fungal endophthalmitis	curvularia,lunata,vitreous
+3460706	Histopathologic correlation of Aspergillus endophthalmitis following uncomplicated cataract surgery	endophthalmitis,aspergillus,fungal
+4164286	Acute sterile endophthalmitis following intravitreal bevacizumab: case series	intravitreal,bevacizumab,endophthalmitis
+2988850	Two Cases of Endogenous Endophthalmitis Caused by Gram-Positive Bacteria with Good Visual Outcome	vitrectomy,endophthalmitis,vitreous

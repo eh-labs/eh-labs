@@ -1,0 +1,33 @@
+4580753	Neuro-Behet's Disease Presenting as Hypertrophic Pachymeningitis	nbd,hp,headache
+4184648	Behcet's disease presenting with recurrent ocular, oral, and scrotal inflammatory lesions in a young Tanzanian man: a case report	bd,aphthae,behcet
+3472229	Behet's disease	bd,involvement,uveitis
+4241690	Pulmonary Nodules as an Initial Manifestation of Behet's Disease	beh,pulmonary,emamifar
+4758175	Behets disease in children, an overview	bd,pedbd,uveitis
+3754383	Behet disease in association with Budd-Chiari syndrome and multiple thrombosis - Case report* Doena de Behet em associao com Sndrome de Budd-Chiari e tromboses mltiplas - Relato de caso	beh,budd,chiari
+2855662	Behet's Uveitis	beh,uveitis,retinal
+1192821	Intracardiac thrombus in Behet's disease: Two case reports	thrombus,intracardiac,icts
+2770868	Current trends in the management of ocular symptoms in Adamantiades-Behets disease	abd,uveitis,ocular
+2841373	Current approach in the diagnosis and management of panuveitis	uveitis,panuveitis,vkh
+3441015	Bilateral symmetrical corneal melting following intravesical Bacille Calmette-Guerin therapy for bladder carcinoma	bcg,corneal,intravesical
+4808526	Successful Discontinuation of Infliximab in a Refractory Case of Vasculo-Behet Disease	vasculo,ifx,bd
+3152448	Behets Syndrome and Thrombosis	bs,thrombosis,aneurysms
+3713602	Behet's Disease and Intracardiac Thrombosis: A Report of Three Cases	ict,bd,thrombus
+4045933	Efficacy of adalimumab in young children with juvenile idiopathic arthritis and chronic uveitis: a case series	uveitis,adalimumab,jia
+3189606	New Evidence-Based Treatment Approach in Behet's Disease	ous,mucocutaneous,gus
+3236321	Clinical and Pathological Manifestations with Differential Diagnosis in Behet's Disease	bd,ulcers,lesions
+4207459	Infectious and Noninfectious Granulomatosis in Patient with Multiple Sclerosis: Diagnostic Dilemmas and Followup	sarcoidosis,uveitis,ms
+4293383	Behet's disease leaves the silk road	beh,lodz,bd
+3245488	Can Behcets Disease Related Pulmonary Arterial Aneurysms be Completely Resolved?	pulmonary,aneurysms,paa
+4885202	Mouth and Genital Ulcers with Inflamed Cartilage Syndrome: Case Report and Review of the Published Work	magic,syndrome,rp
+4821144	Bilateral Neuroretinitis and a Unilateral Superior Hemivein Occlusion with Frosted Branch Angiitis Pattern Presenting Simultaneously in Behet's Disease	neuroretinitis,hemivein,angiitis
+2701125	Clinical approach to optic neuropathies	optic,neuropathy,visual
+3464327	A Case of Tubulointerstitial Nephritis and Uveitis Syndrome in an Elderly Patient	tinu,uveitis,nephritis
+4442280	Cytomegalovirus Uveitis with Hypopyon Mimicking Bacterial Endophthalmitis	valganciclovir,hypopyon,cmv
+3415139	Urbach-Wiethe Syndrome and the Ophthalmologist: Review of the Literature and Introduction of the First Instance of Bilateral Uveitis	uws,isfahan,eye
+3872562	Pediatric uveitis: An update	uveitis,ocular,retinal
+2807148	CHILDHOOD CUTANEOUS VASCULITIS: A COMPREHENSIVE APPRAISAL	vasculitis,cutaneous,childhood
+4795485	Tubulointerstitial Nephritis and Uveitis Syndrome: Are Drugs Offenders or Bystanders?	tinu,ain,uveitis
+4763559	Behet's disease departs the Silk Road: a case report and brief review of literature with geographical comparison	bd,isg,peoria
+2855663	Emergent Infectious Uveitis	retinal,chikungunya,fever
+3306111	Bilateral Primary Intraocular Lymphoma	piol,intraocular,lymphoma
+4791089	A Case of Neuro-Behcets Disease Presenting with Central Neurogenic Hyperventilation	behcet,hyperventilation,venulitis

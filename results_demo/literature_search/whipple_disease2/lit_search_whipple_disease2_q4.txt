@@ -1,0 +1,24 @@
+2254639	Rectus sheath hematoma: three case reports	rectus,hematoma,sheath
+1995204	Vena cava inferior thrombosis detected by venous hum: a case report	cava,vena,colebunders
+3943120	Acute methemoglobinemia with hemolytic anemia following bio-organic plant nutrient compound exposure: Two case reports	methemoglobinemia,cyanosis,oximetry
+2798106	Cushing Syndrome in a 6-Month-Old Infant due to Adrenocortical Tumor	adrenocortical,cushing,adrenal
+4134656	Management of Infantile Hemangiomas: Current Trends	propranolol,haemangiomas,ih
+3614262	A forgotten vascular disease with important clinical implications. Subclavian steal syndrome	subclavian,artery,steal
+4126765	Case 3/2014 - 81-Year-Old Patient Hospitalized for Decompensated Heart Failure	amyloidosis,myeloma,dl
+4403952	Adult Kawasaki disease in a European patient: a case report and review of the literature	kd,kawasaki,ivig
+3731624	Intussusception Presenting with Malignant Hypertension and Lethargy	intussusception,lethargy,hypertension
+4389198	Anesthetic Management in Complex Arch Surgery: Debranching of Innominate and Left Common Carotid Arteries in Extensive Aortic Dissection without Cardiopulmonary Bypass	aortic,rso,aorta
+2847255	Myocardial Ischemia in Wegeners Granulomatosis: Coronary Atherosclerosis Versus Vasculitis	wg,cardiovascular,vasculitis
+4736596	Protein Loosing Enteropathy Secondary to Strongyloidiasis: Case Report and Review of the Literature	strongyloidiasis,larvae,eosinophilia
+2780638	An unusual cause of chest pain	asas,spinal,pope
+3861246	A case of veno-occlusive disease following liver transplantation	vod,liver,transplantation
+3464731	Continuous veno-venous hemofiltration for treatment of enterovirus 71-induced fulminant cardiopulmonary failure: a case report	cvvh,ev71,hemofiltration
+2738322	Calcium channel blocker overdose: Experience with amlodipine	overdose,amlodipine,ccb
+4811281	Case 1/2016 - 56-Year-Old Male with Atrial Septal Defect, Pulmonary Arterial Hypertension, Hospitalized Due to Eisenmenger Syndrome	pulmonary,asd,right
+2687602	Eosinophilic Enteritis Presenting as Intussusception in Adult	intussusception,eosinophilic,enteritis
+4173410	Amniotic fluid embolism: A diagnostic dilemma	afe,amniotic,embolism
+3640172	Pneumomediastinum after functional endoscopic sinus surgery under general anesthesia -A case report-	pneumomediastinum,tube,endotracheal
+2944860	Anesthesia management of a morbidly obese patient in prone position for lumbar spine surgery	morbidly,obese,pressure
+3014744	Severe Hypercalcemia and Acute Renal Failure: An Unusual Presentation of Sarcoidosis	hypercalcemia,sarcoidosis,renal
+4883057	Cushings like syndrome in typical bronchial carcinoid a case report and review of the literature	cushing,carcinoids,acth
+4246354	Two cases of extrapulmonary onset granulomatosis with polyangiitis which caused diffuse alveolar haemorrhage	gpa,he,dah

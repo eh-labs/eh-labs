@@ -1,0 +1,38 @@
+3177392	A Disguised Tuberculosis in Oral Buccal Mucosa	tuberculosis,ulcer,oral
+3294630	Diagnostic tools in Rhinology EAACI position paper	nasal,rhinitis,rhinosinusitis
+4318033	Ulcerative Lupus Vulgaris Over Nose, Leading to Cosmetic Deformity	nose,lv,tb
+3352639	Necrodestructive Herpes Zoster	necrodestructive,nare,scarring
+4702053	Orphan diseases of the nose and paranasal sinuses: Pathogenesis clinic therapy	nasal,disease,sinonasal
+3183694	Primary sternal tuberculous ulcer with dissemination to the bone marrow: a clinical rarity	sternal,osteomyelitis,sternum
+3778812	An Unusual Presentation of Sporotrichosis	sporotrichosis,leprosy,plaque
+3573451	Lethal midline granuloma	nasal,granuloma,nk
+3199823	Rhinosurgery in children: developmental and surgical aspects of the growing nose	nasal,cartilage,septum
+3657244	Is it Lucio Phenomenon or Necrotic Erythema Nodosum Leprosum?	lp,lepromatous,lucio
+2822326	Primary Nasal Tuberculosis	nasal,nose,tuberculosis
+3266263	Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained DermopathyFeatures of an Unexplained Dermopathy	skin,dermopathy,kpnc
+3276790	Scaly Ear Rash as the Herald of a Young Girl with Juvenile Systemic Lupus Erythematosus	jsle,sle,lupus
+3488899	Dermatology for the Allergist	tinea,topical,skin
+3199827	Surgery of the turbinates and empty nose syndrome	turbinate,nasal,mucosa
+3667230	Referred Otalgia Induced by a Large Tonsillolith	otalgia,tonsillolith,tonsilloliths
+3853387	Abstracts for Poster Presentation	pulmonary,chest,pleural
+4163364	New Described Dermatological Disorders	skin,hyperkeratosis,syndrome
+4763578	Ecthyma gangrenosum in the periorbital region in a previously healthy immunocompetent woman without bacteremia	eg,periorbital,bacteremia
+4409197	Fatal rhino-orbito-cerebral mucormycosis in a healthy individual	rhino,mucormycosis,rocm
+4319355	Juvenile Nasopharyngeal Angiofibroma: Case report with review on role of imaging in diagnosis	angiofibroma,maxillary,sphenopalatine
+2821647	Plemorphic Adenoma of the Infratemporal Space: A New Case Report	adenoma,pleomorphic,infratemporal
+4681201	Metastatic Fungating Ulcerative Growth on Vulva as a Presenting Feature of Carcinoma Cervix: A Rare Case Report	cervix,cutaneous,fungating
+3838813	First Branchial Cleft Malformation with Duplication of External Auditory Canal	fistulogram,branchial,cleft
+4718246	Case Report: Bazex Syndrome Associated With Pulmonary Adenocarcinoma	bazex,paraneoplastic,cutaneous
+1420325	A thyroid tumor extending to the parapharyngeal space	thyroid,parapharyngeal,gland
+3173925	Esthesioneuroblastoma presenting with proptosis and bilateral neck metastasis: An unusual presentation	enb,proptosis,nasal
+4886609	Annular lupus vulgaris	annular,arunprasath,erythematous
+3892662	Diagnosis and treatment of HIV-associated manifestations in otolaryngology	hiv,oral,ent
+3220088	Lateral cephalometry: A simple and economical clinical guide for assessment of nasopharyngeal free airway space in mouth breathers	nasopharyngeal,nasopharynx,airway
+4710885	Radioresistant Extramedullary Plasmacytoma of the Maxillary Sinus: A Case Report and review article	plasmacytoma,extramedullary,radiotherapy
+4037965	Ocular Myiasis with Basal Cell Carcinoma	ophthalmomyiasis,myiasis,maggots
+3180839	Rhinomaxillary mucormycosis: A palatal ulcer	mucormycosis,rhinocerebral,ulcer
+4602626	Recurrent Kawasaki Disease in a Child With Retropharyngeal InvolvementA Case Report and Literature Review	retropharyngeal,kd,ivig
+3199822	Physiology and pathophysiology of respiratory mucosa of the nose and the paranasal sinuses	nasal,rhinitis,mucosa
+3088945	CHURGSTRAUSS SYNDROME WITHOUT RESPIRATORY SYMPTOMS IN A CHILD	css,asthma,eosinophils
+3777285	Cutaneous mercury granuloma	mercury,granuloma,globules
+4498256	Erythematous Plaque to Lower Leg After Tropical Injury	tb,cutaneous,tvc

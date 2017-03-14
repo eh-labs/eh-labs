@@ -1,0 +1,28 @@
+3445065	Upper Limb Biomechanics During the Volleyball Serve and Spike	volleyball,shoulder,spike
+3445148	Data-Based Interval Hitting Program for Female College Volleyball Players	volleyball,hitting,athlete
+4853833	AOSSM Early Sport Specialization Consensus Statement	sports,sport,specialization
+4825689	Concussion management in US college football: progress and pitfalls	concussion,athletes,ncaa
+4719388	Late Stage Freiberg Infraction in a Division I Collegiate Tennis Player	freiberg,infraction,metatarsal
+4081292	You cant teach speed: sprinters falsify the deliberate practice model of expertise	sprinters,sprinting,dpm
+4412532	Applying Personal Genetic Data to Injury Risk Assessment in AthletesGenetic Risk Assessment in Athletes	athletes,genetic,sports
+3438859	Characteristics of Drug and Dietary Supplement Inquiries by College Athletes	banned,inquiries,ncaa
+4411483	Does the sex difference in competitiveness decrease in selective sub-populations? A test with intercollegiate distance runners	runners,competitiveness,sex
+4555572	Current Physical and Mental Health of Former Collegiate Athletes	collegiate,athletes,former
+3445119	Legal Liability in Covering Athletic Events	court,athletic,coach
+3607973	Weight loss in combat sports: physiological, psychological and performance effects	athletes,rwl,weight
+2876998	The need of a weight management control program in judo: a proposal based on the successful case of wrestling	judo,athletes,weight
+4647152	Physical therapists' role in prevention and management of patellar tendinopathy injuries in youth, collegiate, and middle-aged indoor volleyball athletes	patellar,volleyball,athlete
+4026548	Prevention of eating disorders in female athletes	athletes,eating,sports
+3931335	Attention Deficit Hyperactivity Disorder and Athletes	adhd,athletes,concussion
+4137672	Reported Concussion Rates for Three Division I Football ProgramsAn Evaluation of the New NCAA Concussion Policy	concussion,ncaa,concussions
+4882473	Risk of Disordered Eating Among Division I Female College Athletes	athletes,lean,sports
+4780099	The Epidemiology of Hip/Groin Injuries in National Collegiate Athletic Association Mens and Womens Ice Hockey2009-2010 Through 2014-2015 Academic Years	hockey,groin,hip
+3982453	Skin Cancer Knowledge, Attitudes, and Behaviors in Collegiate Athletes	athletes,skin,sun
+4555574	Rates and Determinants of Return to Play After Anterior Cruciate Ligament Reconstruction in NCAA Division 1 College Football AthletesA Study of the ACC, SEC, and PAC-12 Conferences	rtp,players,acl
+3658398	Incidence and Injury Characteristics of Medial Collateral Ligament Injuries in Male Collegiate Ice Hockey Players	injury,injuries,mcl
+3445194	National Collegiate Athletic Association Division I Athletes Use of Nonprescription Medication	nonprescription,analgesics,football
+3445081	Ulnar Shaft Stress Fracture in a High School Softball Pitcher	pitching,softball,ulna
+3445249	Weight Management in Amateur Wrestling	wrestlers,weight,wrestling
+3445064	The Effectiveness of Prophylactic Knee Bracing in American FootballA Systematic Review	bracing,knee,players
+3752189	Update on Banned Substances 2013	ncaa,wada,usada
+4717183	The Role of Medical Imaging in the Recharacterization of Mild Traumatic Brain Injury Using Youth Sports as a Laboratory	athletes,concussion,collision

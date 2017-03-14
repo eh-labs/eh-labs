@@ -1,0 +1,16 @@
+3675506	Lyme Borreliosis in Human Patients in Florida and Georgia, USA	lyme,burgdorferi,lato
+3862396	Lyme disease: case report of persistent Lyme disease from Pulaski County, Virginia	ld,burgdorferi,rash
+1963326	Sweet's syndrome a comprehensive review of an acute febrile neutrophilic dermatosis	sweet,syndrome,dermatosis
+3320288	Laboratory Exposures to Staphylococcal Enterotoxin BStaphylococcal Enterotoxin B	seb,symptoms,staphylococcal
+1112595	Paradise not without its plagues: Overwhelming Blastomycosis pneumonia after visit to lakeside cottages in Northeastern Ontario	blastomycosis,pneumonia,she
+3529232	Successful Treatment of Steroid-Dependent Eosinophilic Cellulitis With Cyclosporine	cyclosporine,cellulitis,ec
+4809405	Rat-bite fever: An uncommon cause of fever and rash in a 9-year-old patient	moniliformis,rbf,fever
+3639822	Bartonella henselae infection in a family experiencing neurological and neurocognitive abnormalities after woodlouse hunter spider bites	bartonella,henselae,woodlice
+4314885	Eosinophilic panniculitis in a female child: An unusual presentation	panniculitis,burket,eosinophilic
+3851743	Utility of hydroxyurea in mast cell activation syndrome	mcas,hu,diffusely
+4230886	Clinical Features and Patient Management of Lujo Hemorrhagic FeverLujo Haemorrhagic Fever	lujo,vhf,lassa
+2761170	Severe toxicity of skin rash, fever and diarrhea associated with imatinib: case report and review of skin toxicities associated with tyrosine kinase inhibitors	imatinib,rash,rashes
+4243002	Skin/nail infections with the addition of pertuzumab to trastuzumab-based chemotherapy	pertuzumab,trastuzumab,skin
+3287964	Granulomatous hepatitis due to Bartonella henselae infection in an immunocompetent patient	henselae,bartonella,bartonellosis
+3420449	A Paraneoplastic Syndrome Characterized by Extremity Swelling with Associated Inflammatory Infiltrate Heralds Aggressive Transformation of Myelodysplastic Syndromes/Myeloproliferative Neoplasms to Acute Myeloid Leukemia: A Case Series	aml,patient,anasarca
+1903360	Streptobacillus moniliformis septic arthritis: a clinical entity distinct from rat-bite fever?	streptobacillary,moniliformis,arthritis

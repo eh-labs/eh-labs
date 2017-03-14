@@ -1,0 +1,48 @@
+3275856	Hepatitis B and C Viruses Infections and Their Association with Human Immunodeficiency Virus: A Cross-Sectional Study among Blood Donors in Ethiopia	hiv,hcv,hbv
+3935970	Seroprevalence of Hepatitis B Virus among Adults at High Risk for HIV Transmission Two Decades after Implementation of Nationwide Hepatitis B Virus Vaccination Program in TaiwanHBV Seroprevalence and HIV Infection	hbv,hbsag,hiv
+3545426	Factors associated with failure of clinical screening among blood donors who have altered serological results in the Centro Regional de Hemoterapia de Ribeiro Preto	donors,ribeir,preto
+3905820	Blood discard rate and the prevalence of infectious and contagious diseases in blood donors from provincial towns of the state of Paran, Brazil	maring,blood,serological
+4140052	Treponema pallidum hemagglutination assay seroreactivity among healthy Indian donors and its association with other transfusion transmitted diseases	tpha,syphilis,donors
+2916911	Prevalence of Hepatitis B, C, HIV and syphilis markers among refugees in Bari, Italy	refugees,hcv,asylum
+4274480	The Prevalence of Transfusion Transmitted Infections in ABO Blood Groups and Rh Type System	rhd,donors,blood
+4212387	Seroprevalence of Human Immunodeficiency Virus, Hepatitis B, Hepatitis C, Syphilis and Co-infections among Antenatal Women in a Tertiary Institution in South-East Nigeria	antenatal,hiv,hcv
+4012713	Prevalence of human immunodeficiency virus, syphilis, hepatitis B and C in blood donations in Namibia	ttis,donations,donors
+4339936	Evaluation of a new serological test for syphilis based on chemiluminescence assay in a tertiary care hospital	syphilis,vitros,tpa
+4863343	Prevalence of chronic infections and susceptibility to measles and varicella-zoster virus in Latin American immigrants	immigrants,geneva,stercoralis
+3728127	One window-period donation in two years of individual donor-nucleic acid test screening for hepatitis B, hepatitis C and human immunodeficiency virus	donations,hbv,nat
+3415772	Effectiveness of confidential unit exclusion in screening blood donors of the regional blood bank in Londrina, Paran State	donors,donations,londrina
+4473781	Importance of extending the use of polymerase chain reaction in the diagnosis of venereal syphilis in a blood transfusion center in Burkina Faso, West Africa	pallidum,rpr,cmia
+3459634	Logistic model for determining factors associated with HIV infection among blood donor candidates at the Fundao HEMOPE	hiv,donors,infection
+4118852	HIV-1, HBV, HCV, HTLV, HPV-16/18, and Treponema pallidum Infections in a Sample of Brazilian Men Who Have Sex with MenHIV-1 and Co-Infections in Brazilian MSM	hpv,msm,hiv
+4565835	Serological test results of sexually transmitted diseases in patients with condyloma acuminata	hsv,stds,positivity
+3979838	Prevalence and Trend of Major Transfusion-Transmissible Infections among Blood Donors in Western China, 2005 through 2010Transfusion-Transmissible Infections in China	ttis,donors,donations
+2834629	Completeness of hepatitis, brucellosis, syphilis, measles and HIV/AIDS surveillance in Izmir, Turkey	izmir,notifications,cases
+4381887	Lymphogranuloma venereum: diagnostic and treatment challenges	lgv,msm,trachomatis
+4678909	Health-related quality of life among blood donors with hepatitis B and hepatitis C: longitudinal study before and after diagnosis	hcv,donors,hrqol
+3893947	Seroprevalence of Transfusion Transmissible Infections Among Voluntary Blood Donors at a Tertiary Care Teaching Hospital in Rural Area of India	donors,blood,transfusion
+3447329	Need for Nucleic Acid Testing in Countries with High Prevalence of Transfusion-Transmitted Infections	nat,donations,donors
+3120673	Seroprevalence of transfusion-transmissible infections and evaluation of the pre-donation screening performance at the Provincial Hospital of Tete, Mozambique	tete,hcv,hbsag
+1373616	Seroprevalence of human immunodeficiency virus, hepatitis B and C viruses and syphilis infections among blood donors at the Muhimbili National Hospital in Dar Es Salaam, Tanzania	syphilis,hiv,hbsag
+4769562	Seroprevalence of transfusion transmitted infection among blood donors at Jijiga blood bank, Eastern Ethiopia: retrospective 4 years study	jijiga,donors,blood
+4550731	Pre-exposure and postexposure prophylaxes and the combination HIV prevention methods (The Combine! Study): protocol for a pragmatic clinical trial at public healthcare clinics in Brazil	pep,sexual,hiv
+3757770	Transfusion transmittable infections Seroprevalence among blood donors in a tertiary care hospital of Delhi	hbcore,transfusion,hbv
+4857699	Viva questions for postgraduate	chancroid,tzanck,ulcer
+3927561	Decreasing Prevalence of Transfusion Transmitted Infection in Indian Scenario	donors,transfusion,vdrl
+4904749	40th ISBTI Annual Conference, TRANSCON 2015, New Delhi	transfusion,blood,donors
+4640863	High Prevalence and High Incidence of Coinfection with Hepatitis B, Hepatitis C, and Syphilis and Low Rate of Effective Vaccination against Hepatitis B in HIV-Positive Men Who Have Sex with Men with Known Date of HIV Seroconversion in GermanyHBV, HCV, Syphilis, and HBV Vaccination in HIV-Positive MSM in Germany	msm,hiv,hcv
+4894027	Secondary Syphilis With Hepatitis and Nephrotic Syndrome: A Rare ConcurrenceSecondary Syphilis Manifestations	syphilis,hepatitis,nephrotic
+3383304	Gastric Ulcer Associated with Cytomegalovirus in an Immunocompetent Patient: Method for Diagnosis	cmv,ulcer,ulcers
+4353264	Hepatitis C virus seroconversion among HIV-positive men who have sex with men with no history of injection drug use: Results from a clinical HIV cohort	hcv,hiv,syphilis
+2881920	Seroprevalence of HIV, HBV, HCV and syphilis infections among blood donors at Gondar University Teaching Hospital, Northwest Ethiopia: declining trends over a period of five years	syphilis,donors,hiv
+4296870	SEROLOGICAL MARKERS OF VIRAL, SYPHILITIC AND TOXOPLASMIC INFECTION IN CHILDREN AND TEENAGERS WITH NEPHROTIC SYNDROME: CASE SERIES FROM MATO GROSSO STATE, BRAZILMarcadores sorolgicos de infeces virais, sfilis e toxoplasmose em crianas e adolescentes com sndrome nefrtica: srie de casos de Mato Grosso, Brasil	nephrotic,syndrome,igm
+3401890	Prevalence of Sexually Transmitted Diseases and Hepatitis C in a Survey of Female Sex Workers in the North-East of Italy	fsws,syphilis,hiv
+4244972	A Case of Polyarteritis Nodosa Associated with Cytomegalovirus Infection	cmv,vasculitis,infection
+4621017	Seroprevalence of the Hepatitis B, Hepatitis C, and Human Immunodeficiency Viruses and Treponema pallidum at the Beijing General Hospital from 2010 to 2014: A Cross-Sectional StudySeroprevalence of Blood-Borne Pathogens in Beijing	hcv,hiv,hbv
+3336882	Survival of Treponema pallidum in banked blood for prevention of Syphilis transmission	pallidum,syphilis,blood
+4857691	Erythema elevatum diutinum in acquired immune deficiency syndrome: Can it be an immune reconstitution inflammatory syndrome?	eed,dapsone,iris
+3197511	Visceral leishmaniasis in 26 HIV-negative adults	vl,leishmania,adults
+3834695	Disseminated atypical molluscum contagiosum as a presenting symptom of HIV infection	molluscum,contagiosum,hiv
+4206044	Post-infectious glomerulonephritis presenting as acute renal failure in a patient with Lyme disease	lyme,burgdorferi,borrelia
+4480260	Infectious disease screening among stem cell transplant donors: An Institutional experience in Saudi Arabia	donors,stem,donor
+4511608	Prevalence of microbiological markers in bone tissue from live and cadaver donors in the musculoskeletal tissue bank of Passo FundoPrevalncia de marcadores microbiolgicos em tecido sseo de doadores e cadveres do Banco de Tecidos Musculoesquelticos de Passo Fundo	rejections,donors,de
+4664130	The role of infection in miscarriage	miscarriage,women,pregnancy

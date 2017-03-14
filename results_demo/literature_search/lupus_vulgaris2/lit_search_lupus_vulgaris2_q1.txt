@@ -1,0 +1,32 @@
+4318033	Ulcerative Lupus Vulgaris Over Nose, Leading to Cosmetic Deformity	nose,lv,tb
+4082936	Atypical Pyoderma Gangrenosum Mimicking an Infectious Process	gangrenosum,pyoderma,pg
+3132932	PYODERMA GANGRENOSUM: VARIATION IN CLINICAL PRESENTATION AT DIFFERENT AGES	pg,ulcer,she
+2887535	MALIGNANT MELANOMA PRESENTING AS MULTIPLE DISCHARGING SINUSES	melanoma,discharging,sinuses
+4691994	Ulcerative sialadenitis of minor salivary gland: A short case report	salivary,sialadenitis,gland
+3532804	Oral bullous lichen planus: Case report and review of management	olp,lp,lichen
+4135162	Nasal Deformity Due to Tuberculous Chondritis	nasal,tb,palate
+3778812	An Unusual Presentation of Sporotrichosis	sporotrichosis,leprosy,plaque
+2580010	Free Flap Coverage of Extensive Soft Tissue Defect in Cutaneous Aspergillosis: A Case Report	aspergillosis,flap,itraconazole
+2636039	A typical presentation and diagnostic pitfalls: A case of rapidly progressive bilateral proptosis in a child aged 18 months	eye,nhl,proptosis
+4817475	Verrucous Plaque on the Sole of the Foot: A Case of Missed Diagnosis	melanoma,verrucous,plaque
+4693348	Clinical study of cutaneous leishmaniasis in the Kashmir Valley	kashmir,cl,valley
+3892662	Diagnosis and treatment of HIV-associated manifestations in otolaryngology	hiv,oral,ent
+4660564	A rare case of verrucous carcinoma of penis in an human immunodeficiency virus- infected patient	verrucous,penis,prepuce
+3339131	Idiopathic Calcinosis Cutis of Nasal Dorsum	calcinosis,nasal,cutis
+4541633	Nasal septal perforation associated with pyoderma gangrenosum	nasal,septal,perforation
+3488899	Dermatology for the Allergist	tinea,topical,skin
+4311345	Pyoderma Gangrenosum: A Commonly Overlooked Ulcerative Condition	pg,pyoderma,neutrophilic
+2267455	Cutaneous lesions of the external ear	ear,melanoma,skin
+3162267	Treatment of Keratoacanthoma with 5% Imiquimod Cream and Review of the Previous Report	imiquimod,ka,weeks
+4430790	Report of a Rare Case of Nasal Mucosa Pyoderma Vegetans in a Patient with Ulcerative Colitis	pyoderma,gangrenosum,colitis
+4409197	Fatal rhino-orbito-cerebral mucormycosis in a healthy individual	rhino,mucormycosis,rocm
+4436233	Pyoderma gangrenosum with monoclonal IgA gammopathy and pulmonary tuberculosis. Illustrative case and review	pg,gangrenosum,pyoderma
+3195173	Penile pyoderma gangrenosum successfully treated with topical Imiquimod	pg,penile,imiquimod
+4588326	Pyoderma gangrenosum in a renal transplant recipient: A case report and review of literature	pg,gangrenosum,pyoderma
+3221226	CUTANEOUS SARCOIDOSIS - A GREAT MASQUERADER: A REPORT OF THREE INTERESTING CASES	sarcoidosis,lesions,papules
+4614332	Pyoderma gangrenosum following a routine caesarean section: Pseudo-infection in a caesarean woundPyoderma gangrenosum following a routine caesarean sectionRadhika et al.	wound,gangrenosum,pyoderma
+4372951	Peripheral T Cell Lymphoma: Not Otherwise Specified	ptcl,nos,lymphoma
+3444426	The clinical, endoscopic and histological spectrum of the solitary rectal ulcer syndrome: a single-center experience of 116 cases	srus,rectal,endoscopic
+3750427	Periocular cutaneous anthrax in Jimma Zone, Southwest Ethiopia: a case series	anthrax,ectropion,lid
+4377415	Basal Cell Carcinoma Presenting as a Perianal Ulcer and Treated with Radiotherapy	perianal,bcc,radiotherapy
+4454198	Pyoderma gangrenosum: challenges and solutions	pg,neutrophilic,gangrenosum

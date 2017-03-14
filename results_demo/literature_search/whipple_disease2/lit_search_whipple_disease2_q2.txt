@@ -1,0 +1,45 @@
+3355644	Necrotizing Keratitis after Laser Refractive Surgery in Patients with Inactive Inflammatory Bowel Disease	eye,corneal,infiltrates
+3573488	Cerebral venous sinus thrombosis in children with nephrotic syndrome	nephrotic,thrombosis,venography
+4294448	Nephrotic Syndrome Complicated with Deep Venous Thrombosis in the Upper Extremities	nephrotic,dvt,syndrome
+3843640	Adjunctive enteral phenobarbital for adult status epilepticus: a brief report	pb,se,seizures
+3263168	Adalimumab in the treatment of recurrent idiopathic bilateral nodular scleritis	scleritis,adalimumab,voltaren
+2809337	Diabetes Insipidus as a Complication of Wegener's Granulomatosis and Its Treatment with Biologic Agents	wg,pituitary,insipidus
+2729908	Drug Hypersensitivity to Previously Tolerated Phenytoin by Carbamazepine-induced DRESS Syndrome	phenytoin,carbamazepine,dress
+3741924	A Case of Polymyxin b-Immobilized Fiber Column Treatment for Rapidly Progressive Interstitial Pneumonia Associated with Clinically Amyopathic Dermatomyositis	ild,pmx,adm
+3652826	Impact of Hepatitis C Virus Infection on Bone Mineral Density in Renal Transplant RecipientsHCV and Bone Condition in Renal Transplant	alendronate,bmd,hcv
+4427013	Three Patients Needing High Doses of Valproic Acid to Get Therapeutic Concentrations	vpa,mg,day
+3900345	Treatment of superficial mycoses: review - part II* Atualizao teraputica das micoses superficiais: artigo de reviso parte II	dermatophytosis,mycoses,candidiasis
+4372917	Psoriatic Erythroderma and Hypothalamus-Pituitary Axis Suppression Due to Misuse of Systemic Steroid: Two Challenging Cases	erythroderma,psoriasis,hpa
+4624371	A case report of successful treatment of pyoderma gangrenosum in a patient with autoimmune hepatitis, and review of the literature	aih,gangrenosum,pyoderma
+3862701	Dose uniformity of loteprednol etabonate ophthalmic gel (0.5%) compared with branded and generic prednisolone acetate ophthalmic suspension (1%)	ophthalmic,prednisolone,le
+4603591	Systemic Sarcoidosis Presenting with Headache and Stroke-Like Episodes	neurosarcoidosis,sarcoidosis,granulomata
+3505333	Cerebral tuberculoma as a manifestation of paradoxical reaction in patients with pulmonary and extrapulmonary tuberculosis	tuberculomas,atd,tb
+3361821	Oral cyclosporine therapy for refractory severe vernal keratoconjunctivitis	cyclosporine,drops,eye
+3502459	Use of Alendronate Sodium (Fosamax) to Ameliorate Osteoporosis in Renal Transplant Patients: A Case-Control StudyEffect of Fosamax Is Different in Genders	fosamax,bmd,bone
+4745603	Association of Remitting Seronegative Symmetrical Synovitis with Pitting Edema, Polymyalgia Rheumatica, and Adenocarcinoma of the Prostate	rs3pe,pmr,prostatic
+4101603	Subcutaneous sarcoidosis presenting as a suprapubic mass, acute kidney injury, and hypercalcemia	sarcoidosis,suprapubic,subcutaneous
+4682004	Hyperpharmacotherapy in ageing cystic fibrosis patients: The first report of an atypical hip fracture	cf,fracture,he
+3874974	Evaluation of Danazol, Cyclosporine, and Prednisolone as Single Agent or in Combination for Paroxysmal Nocturnal HemoglobinuriaParoksismal Nokturnal Hemoglobinri Tedavisinde Tek Bana veya Birlikte Kullanlan Danazol, Siklosporin ve Prednizolonun Deerlendirilmesi	danazol,pnh,cyclosporine
+3318675	Ischemic Toes after Venous Thromboembolism: A Difficult Differential Diagnosis with Good Response to Combination TherapyA Case Report	his,toes,toe
+4803237	Treatment of pyoderma gangrenosum with thalidomide in a myelodysplastic syndrome case	thalidomide,pg,mds
+3664475	Primary Angiitis of the Central Nervous System: A Report of Three Cases from a Single Colombian Center	pacns,vasculitis,brain
+3999605	Unusual case of adult hemophagocytic syndrome	hps,lupus,hemophagocytosis
+3258088	Clinical course and management of postoperative methicillin-resistant Staphylococcus aureus keratitis in immunocompromised patients: two case reports	mrsa,keratitis,topical
+4127842	Multifocal bacterial osteomyelitis in a renal allograft recipient following urosepsis	osteomyelitis,transplant,graft
+4660484	Hypersensitivity reaction associated with phenytoin	phenytoin,hypersensitivity,aeds
+4119336	Early corticosteroid withdrawal regimen in a living donor kidney transplantation program	csw,mmf,cs
+2584227	Unusual presentation of primary toxoplasmosis infection in a kidney-transplant patient complicated by an acute left-ventricular failureB. Hbraud et al.Toxoplasmosis after kidney transplantation	toxoplasmosis,gondii,myocarditis
+17815	Autologous stem-cell transplantation in refractory autoimmune diseases after in vivo immunoablation and ex vivo depletion of mononuclear cells	sct,autologous,immunoablation
+4604692	Therapy of NMO spectrum disorders	nmo,rituximab,azathioprine
+4142660	Alemtuzumab Plus Cyclosporine Treatment of the Autoimmune Hemolytic Anemia in an Adult Bowel Transplant	aiha,alemtuzumab,transplant
+2861028	Dihydrotachysterol intoxication treated with pamidronate: a case report	dihydrotachysterol,vitamin,intoxication
+3573490	Disseminated candidiasis 18 years after renal transplantation	candidiasis,flucytosine,candida
+4177985	LD-Aminopterin in the Canine Homologue of Human Atopic Dermatitis: A Randomized, Controlled Trial Reveals Dosing Factors Affecting Optimal TherapyEfficacy of LD-Aminopterin in Canine Atopic Dermatitis	aminopterin,pvas,ld
+4302624	Severe Leptospira interrogans serovar Icterohaemorrhagiae infection with hepato-renal-pulmonary involvement treated with corticosteroids	leptospirosis,admission,leptospires
+3094000	Liver transplantation in Greek children: 15 years experience	liver,transplant,children
+4065514	Topical nepafenac 0.1% alone versus prednisolone acetate 1% as postoperative anti-inflammatory agents in small gauge vitrectomy	nepafenac,topical,postoperative
+2801010	Mizoribine: A New Approach in the Treatment of Renal Disease	mzb,pwdm,pulse
+2721943	Macrophage Activation Syndrome in Juvenile Rheumatoid Arthritis Successfully Treated with Cyclosporine A : A Case Report	mas,jra,cyclosporine
+3866342	Pitfall of bispectral index during intraoperative seizure -a case report-	seizure,bis,patient
+3806711	Pathological Findings of Pemphigus Vulgaris Showing Giant Cobblestone-Like Conjunctival Papillae	papillae,dsg3,dsg1
+4713917	Colchicine-induced myoneuropathy in a cyclosporine-treated renal transplant recipient	colchicine,myoneuropathy,cyclosporine

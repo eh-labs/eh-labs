@@ -1,0 +1,19 @@
+3932647	Serology of Lupus Erythematosus: Correlation between Immunopathological Features and Clinical Aspects	sle,antibodies,anti
+4386176	Assessment of the Frequency of Autoantibodies inChronicViral Hepatitis	hepatitis,anti,auto
+4705598	Neonatal lupus erythematosus: a cutaneous cases based update	nle,ssa,ssb
+2797588	Autoantibody Frequency in Celiac Disease	celiac,disease,autoimmune
+4017718	Chinese SLE Treatment and Research Group Registry: III. Association of Autoantibodies with Clinical Manifestations in Chinese Patients with Systemic Lupus Erythematosus	sle,antibody,anti
+3914292	Evaluation of a Multiplex ELISA for Autoantibody Profiling in Patients with Autoimmune Connective Tissue Diseases	gennova,pictarray,pictarrays
+4821336	Possible role of anti-SSA/Ro antibodies in the pathogenesis of pulmonary hypertension	ssa,ro,pulmonary
+3880722	Restless Legs Syndrome as the Initial Presentation of Multiple Sclerosis	rls,ms,legs
+4522552	The Choice of Laboratory Methodology Influences Autoantibody Test Results	autoantibody,ena,laboratories
+2694776	Fatal cardiac arrest in an adult patient with euthyroid anti-SSA/Ro-positive connective tissue disease: a case report	ssa,ro,anti
+3241374	Autoantibodies predate the onset of systemic lupus erythematosus in northern Sweden	autoantibodies,sle,onset
+3833022	Common and Specific Associations of Anti-SSA/Ro60 and Anti-Ro52/TRIM21 Antibodies in Systemic Lupus Erythematosus	ro52,trim21,ro60
+4451776	Autoantibodies Affect Brain Density Reduction in Nonneuropsychiatric Systemic Lupus Erythematosus Patients	gmd,wmd,sle
+3973849	Twins discordant for myositis and systemic lupus erythematosus show markedly enriched autoantibodies in the affected twin supporting environmental influences in pathogenesis	twins,autoantibodies,autoantibody
+2628865	Antinuclear antibodies and their detection methods in diagnosis of connective tissue diseases: a journey revisited	ana,ctd,sle
+4540515	Scleredema associated with Sjgrens syndrome*	scleredema,adultorum,buschke
+3896357	Neurological Involvement in Primary Sjgren Syndrome: A Focus on Central Nervous SystemCNS Involvement in Primary Sjgren Syndrome	pss,alexythimia,headache
+4821142	Progressive Multifocal Leukoencephalopathy and Systemic Lupus Erythematosus: Focus on Etiology	pml,sle,jcv
+4064964	Frequency of Autoantibodies and Connective Tissue Diseases in Chinese Patients with Optic NeuritisAutoantibodies and CTDs on ON	ron,nmo,ssb

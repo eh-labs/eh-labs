@@ -1,0 +1,25 @@
+3242647	Changes in Temporomandibular Joint Dysfunction Symptoms Following Massage Therapy: A Case Report	massage,client,tmd
+3485989	Nutritional Aspects in Diagnosis and Management of Food HypersensitivityThe Dietitians Role	allergy,foods,food
+4642406	More Than Telemonitoring: Health Provider Use and Nonuse of Life-Log Data in Irritable Bowel Syndrome and Weight Management	providers,provider,apps
+3349490	"This does my head in". Ethnographic study of self-management by people with diabetes	diabetes,self,management
+2783065	Unique challenges for appropriate management of a 16-year-old girl with superior mesenteric artery syndrome as a result of anorexia nervosa: a case report	she,her,anorexia
+3538503	Self-management experiences among men and women with type 2 diabetes mellitus: a qualitative analysis	diabetes,women,men
+3970286	Hyponatremia after Thyroid Hormone Withdrawal in a Patient with Papillary Thyroid Carcinoma	thyroid,hyponatremia,iodine
+2694171	Affordability, availability and acceptability barriers to health care for the chronically ill: Longitudinal case studies from South Africa	households,care,illness
+4560333	Resolution of Severe Ulcerative Colitis with the Specific Carbohydrate Diet	uc,scd,she
+3703082	Internal motivations and barriers effective on the healthy lifestyle of middle-aged women: A qualitative approach	women,health,behaviors
+4104559	The Positive Impact of Integrative Medicine in the Treatment of Recalcitrant Chronic daily Headache: A Series of Case Reports	cdh,her,headache
+4011628	Clinical management of food protein-induced enterocolitis syndrome	fpies,cow,milk
+4311561	Food-specific IgG Antibodyguided Elimination Diets Followed by Resolution of Asthma Symptoms and Reduction in Pharmacological Interventions in Two Patients: A Case Report IgG Dietas de exclusin de alimentos especficos guiados por anticuerpos IgG seguidas de resolucin de sntomas de asma y reduccin de intervenciones farmacolgicas en dos pacientes: Informe de un caso	asthma,igg,allergens
+3255309	A Review of the Diagnosis and Treatment of Ochratoxin A Inhalational Exposure Associated with Human Illness and Kidney Disease including Focal Segmental Glomerulosclerosis	ota,ochratoxin,fsgs
+4904769	Psychological Dimensions of Celiac Disease in India	gluten,child,celiac
+3277903	Treading carefully: a qualitative ethnographic study of the clinical, social and educational uses of exercise ECG in evaluating stable chest painUses of the exercise ECG in evaluating stable chest pain	exercise,ecg,treadmill
+4230846	The experiences of close persons caring for people with chronic kidney disease stage 5 on conservative kidney management: Contested discourses of ageing	ckm,person,ckd5
+3649883	The over time development of chronic illness self-management patterns: a longitudinal qualitative study	management,self,behaviors
+3825604	Patient-Centered Care for Complex Patients with Type 2 Diabetes MellitusAnalysis of Two Cases	hypoglycemia,her,diabetes
+2483557	Living With Mai Suka: Individual, Familial, Cultural, and Environmental Stress Among Patients With Type 2 Diabetes Mellitus and Their Caregivers in American Samoa	diabetes,samoa,samoan
+4518859	And then you start to loose it because you think about Nutella: The significance of food for people with inflammatory bowel disease - a qualitative study	eat,food,ibd
+442117	An Alternative Approach to Atopic Dermatitis: Part ICase-Series Presentation	kampo,exanthema,ekki
+2734930	Gastric Perforation and Pancreatitis Manifesting after an Inadvertent Nissen Fundoplication in a Patient with Superior Mesenteric Artery Syndrome	smas,fundoplication,duodenum
+3857675	The assessment of weight status in children and young people attending a spina bifida outpatient clinic: a retrospective medical record review	children,weight,overweight
+3496764	Identifying priorities to improve maternal and child nutrition among the Khmu ethnic group, Laos: a formative study	khmu,nutrition,laos

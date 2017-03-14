@@ -1,0 +1,27 @@
+4478317	Rare Neurological Manifestation of Celiac Disease	cd,ptc,gluten
+4311561	Food-specific IgG Antibodyguided Elimination Diets Followed by Resolution of Asthma Symptoms and Reduction in Pharmacological Interventions in Two Patients: A Case Report IgG Dietas de exclusin de alimentos especficos guiados por anticuerpos IgG seguidas de resolucin de sntomas de asma y reduccin de intervenciones farmacolgicas en dos pacientes: Informe de un caso	asthma,igg,allergens
+4001962	Profound CD4+ T lymphocytopenia in human immunodeficiency virus negative individuals, improved with anti-human herpes virus treatmentLinfocitopenia T CD4+ grave, en individuos negativos para virus de immunodeficiencia humana, mejor con tratamiento antivirus herpes humanos	lymphocytopenia,cd4,cmv
+3658378	Grade III Liver Laceration in a Female Volleyball Player	athlete,postinjury,liver
+4531703	A Case of Hypothermia Combined with Systemic Lupus Erythematosus	hypothermia,sle,her
+4363205	IgE-Mediated allergy to wheat in a child with celiac disease a case report	wheat,celiac,ige
+4384671	Celiac Disease in a Predisposed Subject (HLA-DQ2.5) with Coexisting Graves' Disease	celiac,gluten,hla
+3862396	Lyme disease: case report of persistent Lyme disease from Pulaski County, Virginia	ld,burgdorferi,rash
+3675506	Lyme Borreliosis in Human Patients in Florida and Georgia, USA	lyme,burgdorferi,lato
+4027829	Family recognition of celiac disease	gluten,celiac,diet
+3447324	The Onset of Enhanced Intestinal Permeability and Food Sensitivity Triggered by Medication Used in Dental Procedures: A Case Report	gluten,iga,cyrex
+3322787	Reemerging Leptospirosis, CaliforniaReemerging Leptospirosis	leptospirosis,california,melones
+2984865	A Fatal Case of Disseminated Tuberculosis Coincident with Measles-Rubella Vaccination	tuberculosis,measles,vaccination
+3440895	Anaphylaxis related to fentanyl citrate	anaphylaxis,fentanyl,intravenously
+4389082	Autoimmunity in connection with a metal implant: a case of autoimmune/autoinflammatory syndrome induced by adjuvants	nickel,implant,she
+3230025	An Outbreak of Trichinellosis with Detection of Trichinella Larvae in Leftover Wild Boar Meat	trichinellosis,boar,meat
+3000140	Gnathostomiasis: An Emerging Imported Disease	gnathostoma,gnathostomiasis,albendazole
+3633391	Early and Correct Diagnosis of Celiac Disease in the Prevention of Growth Disorders and Child Development	gluten,celiac,disease
+3923335	A Case of Hypersensitivity Pneumonitis with Giant Cells in a Female Dental Technician	hp,technician,dental
+1852683	Case Report: Potential Arsenic Toxicosis Secondary to Herbal Kelp Supplement	arsenic,kelp,herbal
+3901491	Novel Paramyxovirus Associated with Severe Acute Febrile Disease, South Sudan and Uganda, 2012Novel Paramyxovirus Associated with Severe Disease	sosuga,virus,rubula
+523824	The Molecular Basis for Oat Intolerance in Patients with Celiac DiseaseOat Intolerance in Celiac Disease Patients	avenin,oats,celiac
+56591	Is it Crohn's disease? A severe systemic granulomatous reaction to sulfasalazine in patient with rheumatoid arthritis	ssz,sulfasalazine,granulomatous
+4207593	Differentiation between Celiac Disease, Nonceliac Gluten Sensitivity, and Their Overlapping with Crohn's Disease: A Case Series	gluten,gliadin,nonceliac
+4782684	2013 Annual Report of the American Association of Poison Control Centers National Poison Data System (NPDS): 31st Annual Report	poison,npds,exposures
+2740090	Sero-negative celiac disease with dermatitis herpetiformes: a case report	celiac,gluten,intestinal
+3923363	Multiple chemical sensitivity caused by exposure to ignition coal fumes: a case report	mcs,ignition,coal

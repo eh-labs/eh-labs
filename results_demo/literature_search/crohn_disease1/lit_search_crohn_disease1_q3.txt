@@ -1,0 +1,12 @@
+2277428	Acute jejunoileal obstruction due to a pseudopolyp in a child with undiagnosed crohn disease: A case report	pseudopolyp,cd,obstruction
+3854545	A rare cause of faecal peritonitis: jejunal perforation in a patient undergoing treatment for pulmonary tuberculosis	tb,peritonitis,bowel
+3099084	Crohns Disease: A Surgeons Perspective	cd,strictureplasty,crohn
+4703595	Emergency laparoscopic ileo-colic resection and primary intracorporeal anastomosis for Crohns acute ileitis with free perforation and faecal peritonitis: first ever reported laparoscopic treatment	laparoscopic,laparoscopy,intracorporeal
+4116345	A Novel Salvage Indication to Intestinal Derotation Procedure: Reconstruction after Duodenopancreatectomy	derotation,jejunal,mesenteric
+2914775	Ultrasonographic detection and assessment of the severity of Crohn's disease recurrence after ileal resection	ileo,sicus,neo
+4291451	The Complex Surgical Management of the First Case of Severe Combined Immunodeficiency and Multiple Intestinal Atresias Surviving after the Fourth Year of Life	ttc7a,intestinal,scid
+3025845	Small bowel emergency surgery: literature's review	bowel,obstruction,perforation
+4447469	Hernia of Umbilical Cord: Report of Three Unusual Cases	umbilical,cord,bowel
+3502287	Adult intussusceptions caused by a lipoma in the jejunum: report of a case and review of the literature	intussusceptions,lipoma,bowel
+3016119	Laparoscopy in Afferent Loop Obstruction Presenting as Acute Pancreatitis	afferent,obstruction,loop
+2988864	Jejunal Diverticulitis: A Rare Case of Severe Peritonitis	diverticuli,jejunal,bowel

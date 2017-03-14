@@ -2,8 +2,14 @@
 
 <link rel="import" href="../bower_components/lodash-element/lodash.js.html">
 
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+
 
 </head><body><dom-module id="eh-labs-data-diagnoses">
+  <template>
+    <iron-ajax auto="" url="{{_getRequestUrl(query.path, query.notes)}}" handle-as="text" last-response="{{diagnoseResponse}}" debounce-duration="10"></iron-ajax>
+  </template>
+
   <script>
     const mockDataRareDiseases = [
       'Acidemia Isovaleric', 'Acoustic Neuroma',
@@ -26,44 +32,26 @@
         diagnoses: {
           type: Array,
           notify: true,
+          computed:'_getDiagnoses(diagnoseResponse)'
         },
 
-        predefinedQueries: {
-          type: Array,
-          notify: true,
-          value: []
-        }
+      },
+
+      _getRequestUrl: function(path, notes){
+        if (path && (notes.length > 0)) {
+          return '/results_demo/' + path + 'results_' + notes.length + '.txt'
+        } else { return ''}
 
       },
 
-      observers:['_debounceSetDiagnoses(query, predefinedQueries.*)'],
+      _getDiagnoses: function(diagnoseResponse){
 
-      attached(){
-
-      },
-
-      _debounceSetDiagnoses(query, trigger){
-        const func = function(){
-          this._trySetDisagnose(query)
-        }
-
-        this.debounce('setDiagnoses', func.bind(this), 300)
-      },
-
-      _trySetDisagnose(query){
-        if (query.path) {
-          const pre = this.get('predefinedQueries')
-          const index = pre.findIndex((qry) => qry.path == query.path)
-
-          if (index >= 0) {
-            const path = 'predefinedQueries.' + index + '.results.' + (query.notes.length -1)
-            if (this.get(path)) {
-              this.set('diagnoses', this.get(path))
-            }
-          }
-        } else {
-          return ''
-        }
+        const lines = diagnoseResponse ? diagnoseResponse.split('\n') : []
+         const diagnoses = lines.map((line) => {
+          const [code, diagnose, relevance] =  line.split('\t')
+          return {code, diagnose, relevance}
+        })
+        return diagnoses
       },
 
     });

@@ -1,0 +1,30 @@
+3226531	Bipolar Affective Disorder and Parkinson's Disease	parkinson,bipolar,disorder
+4311113	Neuroleptic malignant syndrome in a patient treated with lithium carbonate and haloperidol	nms,lithium,antipsychotic
+3976085	Development of acute pancreatitis caused by sodium valproate in a patient with bipolar disorder on hemodialysis for chronic renal failure: a case report	vpa,pancreatitis,hemodialysis
+4745952	Neuroleptic-induced deficit syndrome in bipolar disorder with psychosis	nids,neuroleptics,bipolar
+3503657	Clinical features of delirious mania: a series of five cases and a brief literature review	mania,delirious,catatonia
+4856245	Asenapine augmentation in bipolar disorders: a case seriesD. Marazziti et al.	asenapine,she,he
+1434505	The Latest Mania: Selling Bipolar DisorderEssay	bipolar,disorder,mood
+3847259	Sodium Valproate induced priapism in an adult with bipolar affective disorder	priapism,valproate,sodium
+3146206	An overview of Indian research in bipolar mood disorder	mania,manic,bipolar
+4462797	A case of hypomania with low-dose lamotrigine	lamotrigine,hypomania,manic
+2270822	Recognizing thyrotoxicosis in a patient with bipolar mania: a case report	lithium,her,thyroid
+4061451	Pharmacotherapy for acute mania and disconcordance with treatment guidelines: bipolar mania pathway survey (BIPAS) in mainland China	disconcordance,manic,disconcordant
+4231559	Risperidone-induced mania: An emergent complication of treatment	risperidone,5ht,hypomanic
+420474	Report of three cases that received maintenance treatment with risperidone as a mood stabilizer	risperidone,she,lithium
+4860239	Late-Onset Mania in a Patient with Movement Disorder and Basal Ganglia Calcifications: A Challenge for Diagnosis and Treatment	manic,calcifications,bipolar
+3195167	Is Chronic Mania a Distinct Clinical Entity?	mania,mood,her
+3751340	Pharmacotherapy for bipolar disorder and concordance with treatment guidelines: survey of a general population sample referred to a tertiary care service	bipolar,bd,canmat
+4887631	Differential Diagnosis of an Elderly Manic-Depressive Patient with Depersonalization and Other Symptoms	he,his,cotard
+4124195	Dandy Walker Variant and Bipolar I Disorder with Graphomania	dandy,graphomania,walker
+4857276	The Pharmacogenomics of Bipolar Disorder study (PGBD): identification of genes for lithium response in a prospective sample	lithium,bipolar,disorder
+3361834	The Bipolar Spectrum	bipolar,depressive,manic
+2092422	Oxcarbazepine as monotherapy of acute mania in insufficiently controlled type-1 diabetes mellitus: a case-report	oxc,her,manic
+2714289	Clinical characteristics and long-term response to mood stabilizers in patients with bipolar disorder and different age at onset	mood,onset,aao
+2671954	Psychopharmacology of topiramate: from epilepsy to bipolar disorder	tpm,bipolar,patients
+2846119	Possible new ways in the pharmacological treatment of bipolar disorder and comorbid alcoholism	bipolar,valproate,alcohol
+4456600	Lithium nephrotoxicity	lithium,creatinine,mg
+3181868	Acute and long-term treatment of maniaTratiamento a corto y lungo plazo de la maniaTraitement aigu et long terme de l'tat maniaque	mania,lithium,olanzapine
+3168091	Pediatric Bipolar Disorder	he,mania,disorder
+3949764	Influence of valproate on the required dose of propofol for anesthesia during electroconvulsive therapy of bipolar affective disorder patients	valproate,ect,propofol
+2695233	Treatment and prevention of mania in bipolar I disorder: focus on aripiprazole	aripiprazole,bipolar,manic

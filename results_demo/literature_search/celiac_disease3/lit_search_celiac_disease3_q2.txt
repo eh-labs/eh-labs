@@ -1,0 +1,39 @@
+3731461	Radiographic features of osteogenesis imperfecta	oi,fractures,bone
+3667322	Ichthyosis Associated with Rickets in Two Indian Children	rickets,ichthyosis,vitamin
+4476261	Opsismodysplasia: Phosphate Wasting Osteodystrophy Responds to Bisphosphonate Therapy	opsismodysplasia,pamidronate,platyspondyly
+4906197	Hypophosphatemic Rickets in Siblings: A Rare Case Report	rickets,hypophosphatemic,teeth
+3179286	Dysosteosclerosis Presents as an Osteoclast-Poor Form of Osteopetrosis: Comprehensive Investigation of a 3-Year-Old Girl and Literature Review	dss,bone,sclerotic
+3830358	Renal rickets-practical approach	rickets,calcipenic,vddr
+4324285	Bony manifestation of rickets in a sunny city - a case report from Yazd, Iran	rickets,vitamin,yazd
+3289162	Angular Deformities of the Lower Limb in Children	genu,varum,valgum
+3474320	Incidental Rickets in the Emergency Department Setting	rickets,vitamin,d3
+3504259	Skeletal Manifestations of Scurvy: A Case Report from Dubai	scurvy,metaphyseal,epiphyseal
+3237214	A rare variant of Caffey's disease X-rays, bone scan and FDG PET findings	caffey,bones,bone
+3401772	Turner's syndrome presenting as metabolic bone disease	turner,renal,osteodystrophy
+2684999	Bilateral Transverse (Bowdler) Fibular Spurs with Hypophosphatasia in an Adolescent Girl	bowdler,hypophosphatasia,spurs
+2765176	Pachydermoperiostosis or primary hypertrophic osteoarthropathy: A rare clinicoradiologic case	pdp,osteoarthropathy,bones
+3809253	Lamellar Ichthyosis with Rickets	rickets,ichthyosis,lamellar
+4393636	Osteosclerosis in a Thirty-Four-Year-Old Woman With Primary Hyperparathyroidism	phpt,osteosclerosis,hyperparathyroidism
+3890227	Primary Hyperparathyroidism Masquerading as Rickets: Diagnostic Challenge and Treatment Outcomes	phpt,rickets,parathyroid
+3313732	Ricketsvitamin D deficiency and dependency	vitamin,rickets,d
+3830312	Familial vitamin D resistant rickets: End-organ resistance to 1,25-dihydroxyvitamin D	rickets,dihydroxyvitamin,vitamin
+4266875	Vitamin D deficiency in adolescents	vdd,vitamin,d
+4219045	The cn/cn dwarf mouse. Histomorphometric, ultrastructural, and radiographic study in mutants corresponding to human acromesomelic dysplasia Maroteaux type (AMDM)	cn,hypertrophic,zone
+3830300	Hypophosphatemic rickets associated with giant hairy nevus	nevus,hypophosphatemic,rickets
+4027071	Refractory rickets caused by mild distal renal tubular acidosis	rta,acidosis,distal
+3580759	Treatment of Varus Deformities of the Lower Limbs in Patients with Achondroplasia and Hypochondroplasia	achondroplasia,hypochondroplasia,varus
+3032862	The Radiographic Approach to Child Abuse	fractures,abuse,fracture
+3102812	Spontaneous bilateral distal ulna fracture: an unusual complication in a rheumatoid patient	ulna,fractures,rheumatoid
+4232664	A novel pathogenic mutation of the CYP27B1 gene in a patient with vitamin D-dependent rickets type 1: a case report	rickets,cyp27b1,vitamin
+3005653	Weismann-Netter-Stuhl Syndrome:A family report	bowing,wns,fibulae
+4330230	Stress fracture of the pelvis and lower limbs including atypical femoral fracturesa review	fractures,stress,bone
+4329691	Hypophosphatemic osteomalacia in von Recklinghausen neurofibromatosis: Case report and literature review	osteomalacia,neurofibromatosis,hypophosphatemic
+3959730	Therapeutic management of hypophosphatemic rickets from infancy to adulthoodTherapy of hypophosphatemia	fgf23,xlhr,phosphate
+3688672	Phenotypic Variability of Osteogenesis Imperfecta Type V Caused by an IFITM5 Mutation	oi,ifitm5,hpc
+4112833	Spectrum of phenotypic anomalies in four families with deletion of the SHOX enhancer region	shox,height,madelung
+4897032	Multiplanar Deformities Correction Using Taylor Spatial Frame in Skeletally Immature Patients	deformities,tibial,tsf
+3618646	Familial multiple exostosis arising from bones of enchondral as well as membranous (in a family affecting seven members)	exostoses,exostosis,distal
+4127837	Wilson's disease A rare cause of renal tubular acidosis with metabolic bone disease	rta,wilson,distal
+2952912	Infantile Scurvy: Two Case Reports	scurvy,subperiosteal,vitamin
+2878671	Prenatal Diagnosis of a Congenital Postaxial Longitudinal Limb Defect: A Case Report	fibula,limb,postaxial
+3687608	A Japanese Male Patient with Fibular Aplasia, Tibial Campomelia and Oligodactyly: An Additional Case Report	fatco,fibular,aplasia

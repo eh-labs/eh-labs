@@ -1,0 +1,48 @@
+<html><head><link rel="import" href="bower_components/polymer/polymer.html">
+
+<link rel="import" href="bower_components/iron-ajax/iron-ajax.html">
+<link rel="import" href="src/eh-labs-icons.html">
+<link rel="import" href="bower_components/paper-input/paper-textarea.html">
+
+</head><body><dom-module id="eh-lab-kis-med-note">
+  <template>
+    <style>
+    </style>
+
+      <iron-ajax auto="" url="{{path}}" handle-as="text" last-response="{{note}}" debounce-duration="10"></iron-ajax>
+
+      <div class="note-card">
+        <paper-textarea label="Medical Note" value="{{note}}"></paper-textarea>
+      </div>
+
+  </template>
+
+  <script>
+    Polymer({
+      is: 'eh-lab-kis-med-note',
+
+      properties: {
+        path:{
+          type:String,
+        },
+
+        note:{
+          type: String,
+          observer: '_newNote'
+        },
+
+        index: {
+          type: Number
+        }
+      },
+
+      _newNote(note){
+        const path = this.get('path')
+        const index = this.get('index')
+        this.fire('note_added', {note, path, index})
+      },
+
+    });
+  </script>
+</dom-module>
+</body></html>

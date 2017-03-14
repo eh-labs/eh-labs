@@ -1,0 +1,42 @@
+4771986	Palytoxin-Containing Aquarium Soft Corals as an Emerging Sanitary Problem	pltx,corals,pltxs
+3853164	Chorea, a little-known manifestation in systemic lupus erythematosus: short literature review and four case reports	chorea,sle,choreic
+4479598	Ebola Virus Disease Outbreak in Isiro, Democratic Republic of the Congo, 2012: Signs and Symptoms, Management and OutcomesEbola Virus Disease: Symptoms, Management, Outcomes	evd,etc,isiro
+4575794	Penile Skin Involvement as the First Presentation of Henoch-Schonlein Purpura Report of Nine Cases and Review of Literature	penile,hsp,involvement
+2394220	Oral antibiotics with early hospital discharge compared with in-patient intravenous antibiotics for low-risk febrile neutropenia in patients with cancer: a prospective randomised controlled single centre study	oral,arm,neutropenic
+4377762	Fever of unknown origin in a haemodialysis patient: a late diagnosis requiring a novel treatment	fmf,colchicine,haemodialysis
+4850252	Clostridium difficile Enterocolitis and Reactive Arthritis: A Case Report and Review of the Literature	cd,rea,arthritis
+4276575	Periodic Fever: A Review on Clinical, Management and Guideline for Iranian Patients - Part II	syndrome,fever,autoinflammatory
+4650904	Hepatic decompensation in the absence of obvious precipitants: the potential role of cytomegalovirus infection/reactivation	cmv,decompensation,aclf
+3334225	Bilateral acute retinal necrosis after herpetic meningitis	arn,herpetic,retinal
+4172992	Acute Methotrexate Toxicity: A Fatal Condition in Two Cases of Psoriasis	mtx,he,psoriasis
+4717960	Scedosporium Apiospermum Infection after Near-drowning	apiospermum,voriconazole,infection
+3535731	Optic Neuritis in an Adult Patient with Chickenpox	optic,neuritis,acuity
+2731058	Nummular keratopathy in a patient with Hyper-IgD Syndrome	hids,ocular,nummular
+3952316	An Unusual Case of Herpes Simplex Viral Encephalitis Following Acute Retinal Necrosis after Administration of a Systemic Steroid	retinal,arn,hse
+3445186	Abscess After a Laparoscopic Appendectomy Presenting as Low Back Pain in a Professional Athlete	abscess,he,his
+4553957	Clinical and Pathological Findings of a Fatal Systemic Capillary Leak Syndrome (Clarkson Disease)A Case Report	scls,he,ivig
+2931397	An Abdominal Presentation of Churg-Strauss Syndrome	churg,strauss,vasculitis
+4539700	Arthralgia and blood culture-negative endocarditis in middle Age Men suggest tropheryma whipplei infection: report of two cases and review of the literature	whipplei,endocarditis,whipple
+3661436	Severe Acute Endogenous Endophthalmitis with Staphylococcus Epidermidis in a Systemically Well Patient	endophthalmitis,ebe,intravitreal
+3932351	Petrositis With Bilateral Abducens Nerve Palsies complicated by Acute Otitis Media	petrous,petrositis,abducens
+2891680	Candida glabrata endophthalmitis following penetrating keratoplasty in a patient with negative donor rim culture	glabrata,candida,keratoplasty
+3665498	West Nile virus infection and diplopia: a case report and review of literature	wnv,diplopia,nile
+4184648	Behcet's disease presenting with recurrent ocular, oral, and scrotal inflammatory lesions in a young Tanzanian man: a case report	bd,aphthae,behcet
+4669602	Severe falciparum malaria complicated by prolonged haemolysis and rhinomaxillary mucormycosis after parasite clearance: a case report	haemolysis,malaria,haemolytic
+3320366	Retinal Hemorrhages in 4 Patients with Dengue FeverRetinal hemorrhages in dengue fever.	dengue,fever,hemorrhages
+2957983	Scrub Typhus in the Torres Strait Islands of North Queensland, Australia	darnley,typhus,scrub
+4182685	On a Boat: A Case in Australia of Endophthalmitis and Pyogenic Liver, Prostatic, and Lung Abscesses in a Previously Well Patient due to Klebsiella pneumoniae	he,his,klebsiella
+2855663	Emergent Infectious Uveitis	retinal,chikungunya,fever
+4460230	Phencyclidine Induced Oculogyric Crisis Responding Well to Conventional Treatment	oculogyric,dystonia,pcp
+4323747	Case of intraperitoneal sepsis secondary to rupture of the appendix on the background of pseudomyxoma peritonei	appendiceal,pmca,dpam
+2916109	A Case of Bilateral Endogenous Pantoea Agglomerans Endophthalmitis with Interstitial Lung Disease	agglomerans,endophthalmitis,eye
+3489953	Use of Only Oral Rehydration Salt Solution for Successful Management of a Young Infant with Serum Sodium of 201 mmol/L in an Urban Diarrhoeal Diseases Hospital, Bangladesh	hypernatraemia,hypernatraemic,ors
+2647931	Bilateral macular hemorrhage as a complication of drug-induced anemia: a case report	anemia,hemorrhages,preretinal
+4531579	A Case of Pseudomembranous Colitis Associated with Rifampin	pmc,rifampin,antitubercular
+4411404	Severe viral oesophagitis, pharyngitis, and stomatitis as antecedents of ileocecal Crohn's disease	oesophagitis,crohn,erosions
+3176465	Cases of cryptosporidiosis co-infections in AIDS patients: a correlation between clinical presentation and GP60 subgenotype lineages from aged formalin-fixed stool samplesCRYPTOSPORIDIOSIS CO-INFECTIONS IN AIDS PATIENTS	cryptosporidium,cryptosporidiosis,gp60
+2045102	Bowel associated dermatosis arthritis syndrome: a case report	bowel,dermatosis,arthritis
+3550315	Bilateral Nongranulomatous Uveitis with Infective Endocarditis	uveitis,disc,optic
+3413342	Case report: papillitis as the sole ocular sign in Lyme disease	lyme,papillitis,ocular
+4026643	Acute Pancreatitis Secondary to Ciprofloxacin Therapy in Patients with Infectious Colitis	ciprofloxacin,pancreatitis,colitis
+3725029	A Case of Dengue Maculopathy with Spontaneous Recovery	dengue,maculopathy,fever

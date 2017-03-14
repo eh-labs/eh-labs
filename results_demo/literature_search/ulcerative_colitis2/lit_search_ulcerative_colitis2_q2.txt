@@ -1,0 +1,17 @@
+3598764	Cytomegalovirus infection associated with onset of ulcerative colitis	cmv,uc,colitis
+3111350	Real-time PCR analysis of enteric pathogens from fecal samples of irritable bowel syndrome subjects	ibs,fecal,perfringens
+4562781	Clinical Significance of Fecal Lactoferrin and Multiplex Polymerase Chain Reaction in Patients with Acute Diarrhea	fecal,lactoferrin,diarrhea
+3815002	Management strategies in the treatment of neonatal and pediatric gastroenteritis	diarrhea,gastroenteritis,children
+3571638	Role of Endogenous Microbiota, Probiotics and Their Biological Products in Human Health	probiotic,probiotics,lactobacillus
+2686956	Antibiotic-Associated Diarrhea: Candidate Organisms other than Clostridium Difficile	difficile,aad,stool
+4209318	High Incidence of Staphylococcus aureus and Norovirus Gastroenteritis in Infancy: A Single-Center, 1-Year Experience	rotavirus,norovirus,viral
+3619031	Nanolitre real-time PCR detection of bacterial, parasitic, and viral agents from patients with diarrhoea in Nunavut, Canada	nanolitre,spp,pcr
+3712156	Malakoplakia in a healthy young female patient	malakoplakia,gutmann,colon
+4290631	Rapid methods for the detection of foodborne bacterial pathogens: principles, applications, advantages and limitations	foodborne,detection,pathogens
+4204685	Antimicrobial Proteins in Intestine and Inflammatory Bowel Diseases	amps,hbd,defensin
+2596151	Aetiology of community-acquired, acute gastroenteritis in hospitalised adults: a prospective cohort study	gastroenteritis,campylobacter,spp
+3885522	A Low Complexity Rapid Molecular Method for Detection of Clostridium difficile in StoolC. difficile DNA Purification and Detection	bart,difficile,lamp
+2601037	Mucin Dynamics in Intestinal Bacterial InfectionMucins in Infectious Colitis	rodentium,muc1,mucins
+4498521	Fecal microbiota transplantation restores dysbiosis in patients with methicillin resistant Staphylococcus aureus enterocolitis	mrsa,fmt,microbiota
+4499110	Human Immunodeficiency Virus-Associated Diarrhea: Still an Issue in the Era of Antiretroviral Therapy	diarrhea,hiv,noninfectious
+3294542	HemolyticUremic Syndrome in a GrandmotherA Grandmothers HemolyticUremic Syndrome	my,stec,grandmother

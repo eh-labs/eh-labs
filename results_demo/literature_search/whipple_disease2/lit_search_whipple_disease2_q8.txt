@@ -1,0 +1,10 @@
+2564807	Use of multiplex PCR and real-time PCR to detect human herpes virus genome in ocular fluids of patients with uveitisClinical science	uveitis,pcr,herpes
+4602506	Gastrointestinal Diagnosis of Classical Whipple Disease: Clinical, Endoscopic, and Histopathologic Features in 191 Patients	cwd,whipplei,pas
+4868942	Acute Retinal Necrosis Associated with Epstein-Barr Virus in a Patient Undergoing Immunosuppressive Therapy	arn,ebv,vitreous
+3488417	Vitreous Analysis in the Management of Uveitis	vitreous,intraocular,uveitis
+4283688	Clinical features and management of cytomegalovirus corneal endotheliitis: analysis of 106 cases from the Japan corneal endotheliitis study	endotheliitis,cmv,corneal
+3605077	A typical bilateral Toxoplasma retinochoroiditis in a bone marrow transplant patient with negative serum titers	retinochoroiditis,toxoplasmosis,clindamycin
+3439939	Tropheryma whipplei Crystalline Keratopathy: Report of a Case and Updated Review of the Literature	whipple,whipplei,crystalline
+4662779	Frosted branch angiitis caused by Varicella Zoster virus in an immunocompetent patient	vzv,angiitis,frosted
+3819945	The Value of Routine Polymerase Chain Reaction Analysis of Intraocular Fluid Specimens in the Diagnosis of Infectious Posterior Uveitis	pcr,uveitis,cmv
+3744779	Laboratory support in the diagnosis of uveitis	ocular,sarcoidosis,diagnosis

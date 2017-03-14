@@ -1,0 +1,33 @@
+4217198	Long-term Survival (>13 Years) in a Child With Recurrent Diffuse Pontine Gliosarcoma: A Case Report	anp,gs,he
+2737773	Demyelinating disease masquerading as a surgical problem: a case series	demyelinating,lesion,papillitis
+1797843	Grand Rounds: Could Occupational Exposure to n-Hexane and Other Solvents Precipitate Visual Failure in Leber Hereditary Optic Neuropathy?	lhon,hexane,toluene
+4579311	An Unusual Presentation of Adult Tethered Cord Syndrome Associated with Severe Chest and Upper Back Pain	atcs,pain,presacral
+3615923	Neurosyphillis presenting with normal pressure hydrocephalus in a 76 year old man	neurosyphilis,rpr,csf
+4727657	Incidentally diagnosed giant invasive sacral schwannomaIts clinical features and surgical management without stability	schwannomas,sacral,spinal
+3579029	Opalski's syndrome: A rare variant of lateral medullary syndrome	opalski,medullary,he
+4149998	Spinal Intradural Hematoma and Permanent Paraparesis after a Lumboperitoneal Shunt Operation: An Unusual Complication	intradural,shunt,hematoma
+4586908	Acute Lymphoblastic Leukemia in a Man Treated With Fingolimod for Relapsing Multiple Sclerosis	fgm,fingolimod,leukemia
+3377151	Adjacent level spondylodiscitis after anterior cervical decompression and fusion	he,c3,decompression
+4553197	Gabapentin-Induced Urinary Incontinence: A Rare Side Effect in Patients with Neuropathic Pain	gabapentin,incontinence,neuropathic
+3974478	Conventional monopolar transurethral resection of prostate in patients with large prostate (80 grams)	turp,prostate,tur
+3220914	Adrenocortical Adenoma and Central Serous Chorioretinopathy: A Rare Association?	cscr,valladolid,adrenocortical
+4611067	Hemiparetic Primary Lateral Sclerosis: Revisiting Mills Syndrome	right,corticospinal,pls
+4280653	Peripheral Neuropathy Crippling Bronchial Asthma: Two Rare Case Reports of Churg-Strauss Syndrome	css,neuropathy,churg
+3433016	Neurological Adverse Effects after Radiation Therapy for Stage II Seminoma	gy,seminoma,rt
+4229378	Foix-Alajouanine Syndrome Presenting as Acute Cauda Equina Syndrome: A Case Report	spinal,alajouanine,foix
+4771986	Palytoxin-Containing Aquarium Soft Corals as an Emerging Sanitary Problem	pltx,corals,pltxs
+4869443	Voiding Dysfunction	bladder,saudi,patients
+2923178	Development of recurrent facial palsy during plasmapheresis in Guillain-Barr syndrome: a case report	his,plasmapheresis,facial
+4421974	Cushing's ulcer: Further reflections	cushing,patient,duodenal
+2936883	Recurrent myelitis after allogeneic stem cell transplantation. Report of two cases	myelitis,hsct,allogeneic
+2816904	Transient Paraparesis After Laminectomy in a Patient with Multi-Level Ossification of the Spinal Ligament	paraparesis,laminectomy,decompressive
+1933426	Risk of falling in patients with a recent fracture	fall,fracture,adl
+4303731	Cauda Equina Syndrome Associated with Dural Ectasia in Chronic Anlylosing Spondylitis	dural,ectasia,filum
+3102884	Atypical Supernumerary Phantom Limb and Phantom Limb Pain in Two Patients with Pontine Hemorrhage	spl,limb,phantom
+3878277	Pneumomediastinum, Subcutaneous Emphysema, and Tracheal Tear in the Early Postoperative Period of Spinal Surgery in a Paraplegic Achondroplastic Dwarf	tracheal,spinal,pedicle
+4436596	Acute lower motor neuron syndrome and spinal cord gray matter hyperintensities in HIV infection	none,hiv,motor
+3747023	Increased biogenic catecholamine and metabolite levels in two patients with malignant catatonia	catatonia,malignant,catecholamine
+3309391	Cauda Equina Syndrome Caused by Spinal Dural Arteriovenous Fistula	sdavfs,sdavf,spinal
+3488871	Olanzapine as a Cause of Urinary Incontinence: A Case Report	olanzapine,incontinence,urinary
+529451	Pudendal nerve decompression in perineology : a case series	pudendal,incontinence,anal
+4617600	Retinal hemorrhages following fingolimod treatment for multiple sclerosis; a case report	fingolimod,hemorrhages,retinal

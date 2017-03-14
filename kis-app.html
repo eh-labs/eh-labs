@@ -10,6 +10,7 @@
 <link rel="import" href="bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="bower_components/paper-fab/paper-fab.html">
 <link rel="import" href="bower_components/paper-slider/paper-slider.html">
+<link rel="import" href="bower_components/iron-ajax/iron-ajax.html">
 
 <link rel="import" href="src/eh-labs-icons.html">
 
@@ -21,6 +22,7 @@
 <link rel="import" href="bower_components/basic-seamless-iframe/basic-seamless-iframe.html">
 
 <link rel="import" href="src/eh-labs-data-ehr.html">
+<link rel="import" href="kis-app-med-note.html">
 
 
 </head><body><dom-module id="eh-lab-kis">
@@ -113,19 +115,20 @@
               <iron-label>
                  Number of Notes to display
                </iron-label>
-                 <paper-slider min="1" value="{{selectedNoteCount}}" max="[[patient.notes.length]]" pin=""></paper-slider>
+                 <paper-slider min="1" value="{{selectedNoteCount}}" max="[[patient.noQueries]]" pin=""></paper-slider>
               <div class="actions">
                 <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:diagnosis" on-tap="_showDiagnosis"></paper-fab>
                 <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:ehr" on-tap="_showEhr"></paper-fab>
-                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:literature"></paper-fab>
+                <paper-fab id="[[index]]" mini="" icon="eh-labs-icons:literature" on-tap="_showLiterature"></paper-fab>
               </div>
 
             </app-toolbar>
           </template>
 
-          <template is="dom-repeat" items="[[_getPatientNotes(patient.notes, selectedNoteCount)]]">
+
+          <template is="dom-repeat" items="[[_getRequestUrls(patient.path, selectedNoteCount)]]">
             <div class="note-card">
-              <paper-textarea label="Medical Note" value="{{item}}"></paper-textarea>
+              <eh-lab-kis-med-note index="[[index]]" path="[[item.path]]"></eh-lab-kis-med-note>
             </div>
           </template>
         </div>
@@ -137,7 +140,7 @@
         <paper-icon-button icon="eh-labs-icons:close" on-tap="_toggleCompanion"></paper-icon-button>
       </div>
       <iron-collapse opened="[[showCompanion]]">
-        <basic-seamless-iframe src="[[_getSrc(patient, selectedNoteCount, companionFunction)]]"></basic-seamless-iframe>
+        <basic-seamless-iframe src="[[_getSrc(patient, notes, selectedNoteCount, companionFunction)]]"></basic-seamless-iframe>
       </iron-collapse>
     </div>
   </template>
@@ -169,55 +172,92 @@
           value: true
         },
 
+        notes: {
+          type: Array,
+          notifies: true,
+          value: [],
+        }
+
 
       },
 
-      _toggleExamples(){
+      listeners:{
+        'note_added': '_addNote'
+      },
+
+
+      _addNote(ev, noteObj){
+        console.log('notes++')
+
+        const notes = this.get('notes')
+
+        const newNotes = Object.assign([], notes)
+        newNotes[noteObj.index] = noteObj.note
+
+        this.set('notes', newNotes)
+      },
+
+      _toggleExamples: function(){
         this.set('showExamples', !this.get('showExamples'))
       },
 
-      _not(value){
+      _not: function(value){
         return !value
       },
 
-      _getEhr(id){
+      _getRequestUrls(path, selectedNoteCount){
+        if (path && selectedNoteCount){
+          const urls = []
+          for (i = 1; i <= selectedNoteCount; i++) {
+              urls.push({path: '/results_demo/' + path + 'q' + i})
+          }
+
+          return urls
+        } else {return []}
+
+      },
+
+      _getEhr: function(id){
         return this.get('queryData.' + id)
       },
 
-      _getSrc(patient, selectedNoteCount, companionFunction){
-
+      _getSrc: function(patient, notes, selectedNoteCount, companionFunction){
         const search = Object.assign({}, patient)
-        search.notes = search.notes.filter( (obj, idx) => idx < selectedNoteCount )
+        search.notes = notes.filter( (l, index) => index < selectedNoteCount)
         delete search.results
 
         json = JSON.stringify( search )
         return patient ? companionFunction + '/?q=' + encodeURIComponent(json) : '/'
       },
 
-      _selectEhr(ev){
+      _selectEhr: function(ev){
+        this.set('_notes',  [])
         this.set('selectedId', ev.srcElement.id)
         this._toggleExamples()
       },
 
-      _handleNoteActionClick(noteIndex, compFunction){
+      _handleNoteActionClick: function(noteIndex, compFunction){
         //this.set('selectedNoteIndex',  noteIndex)
         this.set('companionFunction',  compFunction)
         this.set('showCompanion', true)
       },
 
-      _showDiagnosis(ev){
+      _showDiagnosis: function(ev){
         this._handleNoteActionClick(ev.srcElement.id, 'diagnosis-support')
       },
-      _showEhr(ev){
+      _showEhr: function(ev){
         this._handleNoteActionClick(ev.srcElement.id, 'annotated-ehr')
       },
+      _showLiterature: function(ev){
+        this._handleNoteActionClick(ev.srcElement.id, 'literature')
+      },
 
-      _toggleCompanion(){
+      _toggleCompanion: function(){
         this.set('showCompanion', !this.get('showCompanion'))
       },
 
-      _getPatientNotes(notes, selectedNoteCount){
-        return notes.filter( (obj, idx) => idx < selectedNoteCount )
+      _getPatientNotes: function(notes, selectedNoteCount){
+        return notes.filter( function(obj, idx) { return idx < selectedNoteCount })
       }
 
 

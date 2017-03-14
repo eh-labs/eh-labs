@@ -1,0 +1,28 @@
+4549539	The Diagnostic and Therapeutic Challenges of Posttraumatic Iris Implantation Cysts: Illustrative Case Presentations and a Review of the Literature	cyst,iris,cysts
+3959040	Pigmented Hypopyon in Association with Listeria Monocytogenes Endopthalmitis: An Interesting Case Report Following Refractive Surgery Procedure with Literature Review	hypopyon,listeria,monocytogenes
+3560693	Ocular ischemic syndrome a systematic review	ois,retinal,carotid
+4630262	Endogenous endophthalmitis: diagnosis, management, and prognosis	endophthalmitis,ee,vitrectomy
+3908887	Listeria monocytogenes endophthalmitis following keratoconjunctivitis	endophthalmitis,monocytogenes,eye
+4877345	Ocular ultrasonography focused on the posterior eye segment: what radiologists should know	vitreous,retinal,detachment
+3299394	Cataract Surgery in Uveitis	cataract,uveitis,eyes
+2277429	Optic atrophy, necrotizing anterior scleritis and keratitis presenting in association with Streptococcal Toxic Shock Syndrome: a case report	streptococcal,uveitis,scleritis
+3438307	Combined anterior and posterior scleritis associated with central retinal vein occlusion: a case report	scleritis,exudative,retinal
+4668261	Sympathetic Ophthalmia after Ocular Wasp Sting	wasp,eye,stinger
+2955278	A Case of Pantoea Endophthalmitis	pantoea,endophthalmitis,agglomerans
+4553301	ESBL E. coli Urosepsis Resulting in Endogenous Panophthalmitis Requiring Evisceration of the Eye in a Diabetic Patient	panophthalmitis,endophthalmitis,eye
+3902710	Prevalence of ocular manifestations in systemic sclerosis patients	sclerosis,ssc,systemic
+3415139	Urbach-Wiethe Syndrome and the Ophthalmologist: Review of the Literature and Introduction of the First Instance of Bilateral Uveitis	uws,isfahan,eye
+4748786	Anterior Segment Scleral Fluorescein Angiography in the Evaluation of Ciliary Body Neoplasm: Two Case Reports	scleral,angiography,ciliary
+4016732	Rare case of exogenous Candida dubliniensis endophthalmitis: a case report and brief review of the literature	dubliniensis,endophthalmitis,candida
+3352293	Intraorbital foreign body projectile as a consideration for unilateral pupillary defect	ifb,orbital,intraorbital
+2740249	Choroidopathy and kidney disease: a case report and review of the literature	retinal,sle,choroidopathy
+3565151	A Case of Odontogenic Orbital Cellulitis Causing Blindness by Severe Tension Orbit	orbital,cellulitis,odontogenic
+2629956	A Case of Postoperative Sphingomonas paucimobilis Endophthalmitis After Cataract Extraction	paucimobilis,endophthalmitis,vitrectomy
+3149143	Late-Onset Citrobacter koseri Endophthalmitis with Suture Exposure after Secondary Intraocular Lens Implantation	endophthalmitis,citrobacter,koseri
+3261698	Topiramate and the vision: a systematic review	tpm,tiacg,ciliochoroidal
+3136180	Toxic Anterior Segment Syndrome after Foldable Artiflex Iris-Fixated Phakic Intraocular Lens Implantation	tass,piol,artiflex
+4625431	Secondary angle closure glaucoma by lupus choroidopathy as an initial presentation of systemic lupus erythematosus: a case report	choroidopathy,sle,choroidal
+2913728	Intravitreal Ampicillin Sodium for Antibiotic-Resistant Endophthalmitis: Streptococcus uberis First Human Intraocular Infection Report	intravitreal,endophthalmitis,ampicillin
+4625575	Case report: atypical presentation of Mycobacterium tuberculosis uveitis preceding nodular scleritis	tuberculosis,intraocular,phacolytic
+2629687	Acute Angle-Closure Glaucoma from Spontaneous Massive Hemorrhagic Retinal Detachment	subretinal,glaucoma,eye
+3350242	Late-Onset Endophthalmitis Secondary to Exposed Glaucoma Tube Implant in a Rare Case of Paediatric Glaucoma	glaucoma,tube,eye

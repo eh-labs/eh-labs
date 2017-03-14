@@ -1,0 +1,27 @@
+4251529	Necrotizing RPGN with linear anti IgG deposits in a patient with history of granulomatosis with polyangiitis: a case report	gbm,gpa,anca
+4698952	Role of gingival manifestation in diagnosis of granulomatosis with polyangiitis (Wegeners granulomatosis)	gpa,gingival,anca
+4602417	Pauci-Immune Glomerulonephritis in Individuals With Disease Associated With Levamisole-Adulterated CocaineA Series of 4 Cases	levamisole,cocaine,pauci
+3639886	Granulomatosis with polyangiitis presenting as an orbital inflammatory pseudotumor: a case report	gpa,anca,orbital
+3574827	Culture-negative subacute bacterial endocarditis masquerades as granulomatosis with polyangiitis (Wegeners granulomatosis) involving both the kidney and lung	anca,sbe,pr3
+4407635	Granulomatosis with Polyangiitis Presenting as a Choroidal Tumor	gpa,choroidal,vasculitis
+3806251	A Case of Granulomatosis with Polyangiitis (Wegener's Granulomatosis) Presenting with Marked Inflamed Tracheobronchial Mucosa	gpa,anca,bronchial
+4010015	RituximabA Drug with Many Facets and Cures: A Treatment for Acute Refractory Hypoxemic Respiratory Failure Secondary to Severe Granulomatosis with Polyangiitis	gpa,dah,patient
+3332209	Increased IgG4-Positive Plasma Cells in Granulomatosis with Polyangiitis: A Diagnostic Pitfall of IgG4-Related Disease	igg4,gpa,anca
+4315802	Association of ANCA associated vasculitis and rheumatoid arthritis: a lesser recognized overlap syndrome	anca,aav,ra
+4158427	Hydralazine Induces Myeloperoxidase and Proteinase 3 Anti-Neutrophil Cytoplasmic Antibody Vasculitis and Leads to Pulmonary Renal Syndrome	hydralazine,anca,vasculitis
+4887646	Diffuse Large B Cell Lymphoma Mimicking Granulomatosis with Polyangiitis	gpa,vasculitis,anca
+3665212	A Patient Presenting with Bilateral Lung Lesions, Pleural Effusion, and Proteinuria	gpa,anca,pleural
+1257438	Antineutrophil cytoplasmic antibody (ANCA)-associated autoimmune diseases induced by antithyroid drugs: comparison with idiopathic ANCA vasculitides	anca,atd,isv
+3658292	The Churg-Strauss syndrome: An unusual presentation	css,vasculitis,eosinophilia
+4520074	Comparative investigation of respiratory tract involvement in granulomatosis with polyangiitis between PR3-ANCA positive and MPO-ANCA positive cases: a retrospective cohort study	anca,pr3,mpo
+4190398	A rare association between Fabrys disease and granulomatosis with polyangiitis: a potential pathogenic link	fabry,crescentic,glomerulonephritis
+4377243	A case of granulomatosis with polyangiitis preceded by subacute thyroiditis	gpa,thyroiditis,subacute
+3552688	Anti-neutrophil cytoplasmic antibodies in rheumatoid arthritis: two case reports and review of literature	anca,ra,gpa
+4379345	C1q nephropathy in the setting of granulomatosis with polyangiitis treated with tacrolimus	c1qn,tacrolimus,proteinuria
+4673333	Pauci-Immune Crescentic Glomerulonephritis: An ANCA-Associated Vasculitis	anca,picg,pr3
+3651925	Diffuse Alveolar Hemorrhage	dah,vasculitis,capillaritis
+3981232	Multiple Pulmonary Nodules: A Complex Case of Wegeners Granulomatosis	wg,wegener,granulomatosis
+3491225	Subarachnoid and Intracerebral Hemorrhage in Patients with Churg-Strauss Syndrome: Two Case Reports	css,hemorrhage,ich
+4669915	Spotlight on rituximab in the treatment of antineutrophil cytoplasmic antibody-associated vasculitis: current perspectives	rituximab,anca,cyclophosphamide
+4502202	Granulomatosis with polyangiitis and associated pulmonary emphysema: Breathtaking vasculitis	emphysema,gpa,vasculitis
+4246354	Two cases of extrapulmonary onset granulomatosis with polyangiitis which caused diffuse alveolar haemorrhage	gpa,he,dah

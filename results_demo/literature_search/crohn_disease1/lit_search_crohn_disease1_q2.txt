@@ -1,0 +1,11 @@
+2277428	Acute jejunoileal obstruction due to a pseudopolyp in a child with undiagnosed crohn disease: A case report	pseudopolyp,cd,obstruction
+4785781	Uncommon Causes of Acute Abdominal Pain A Pictorial Essay	bowel,mesenteric,abdominal
+3600280	Colocolic Intussusception in an Older Child: A Rare Case Report and a Literature Review	intussusception,colocolic,colon
+4811016	Diagnostic Dilemma in the Treatment of a Fatal Case of Bloody Diarrhea	intussusception,bowel,stools
+3195765	Ileosigmoid fistula and delayed ileal obstruction secondary to blunt abdominal trauma: a case report	bowel,ileosigmoid,fistula
+4768242	Management of Functional Constipation in Children: Therapy in Practice	fc,constipation,children
+4415744	Spectrum of Surgical Presentation of Eosinophilic Enteritis	eosinophilic,enteritis,tuberculosis
+3178522	Compound double ileoileal and ileocecocolic intussusception caused by lipoma of the ileum in an adult patient: A case report	intussusception,intussusceptions,ileum
+3003208	Giant Trichobezoar of Duodenojejunal Flexure: A Rare Entity	trichobezoar,bezoar,duodenojejunal
+3806710	Adult Colocolic Intussusception and Literature Review	intussusception,intussusceptions,colocolic
+3326973	Complicated Jejunal Diverticulitis: A Challenging Diagnosis and Difficult Therapy	diverticula,jejunal,diverticulitis

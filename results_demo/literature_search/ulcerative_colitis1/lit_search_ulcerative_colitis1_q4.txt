@@ -1,0 +1,32 @@
+4410509	Diagnostic Dilemma in Primary Blastomyces dermatitidis Meningitis: Role of Neurosurgical Biopsy	blastomycosis,blastomyces,fungal
+4887646	Diffuse Large B Cell Lymphoma Mimicking Granulomatosis with Polyangiitis	gpa,vasculitis,anca
+3220896	Hepatitis and Encephalitis due to Coxsackie Virus A9 in an Adult	coxsackie,hepatitis,virus
+2737771	Acute lymphocytic crisis following herpes simplex type 1 virus hepatitis in a nonimmunocompromised man: a case report	lymphocytosis,hsv,lymphocytic
+4464102	Tubercular Meningitis and Lymphadenitis Mimicking a Relapse of Burkitt's Lymphoma on 18F-FDG-PET/CT: A Case Report	tb,fdg,pet
+3401822	Infections of the nervous system	meningitis,neurologic,encephalitis
+4438889	A 19 Year Old With Fever, Rash, and Conjunctivitis: A Connection With the Heart	kd,ofv008,coronary
+3965925	An Unusual Case of Adult-Onset Still's Disease with Hemophagocytic Syndrome, Necrotic Leukoencephalopathy and Disseminated Intravascular Coagulation	aosd,hlh,hemophagocytic
+2803813	Encephalitis, acute renal failure, and acute hepatitis triggered by a viral infection in an immunocompetent young adult: a case report	cmv,immunocompetent,virus
+2896582	A 43-Year-Old Woman with Abdominal Pain and Fever	luq,reasoning,brucellosis
+4794578	Adult Onset Still's Disease: A Review on Diagnostic Workup and Treatment Options	aosd,fever,rash
+4216326	Miliary pulmonary cryptococcosis	miliary,cryptococcosis,cryptococcus
+2929636	Adult Onset Still's Disease and Rocky Mountain Spotted Fever	rash,her,aosd
+3506459	Powassan virus infection: case series and literature review from a single institution	powv,igm,encephalitis
+3492103	Suppurative necrotizing granulomatous lymphadenitis in adult-onset Stills disease: a case report	lymphadenitis,aosd,necrotizing
+3664367	Rapidly progressive dementia and ataxia in an elderly man	csf,hydrocephalus,mri
+4677012	Right Gaze Palsy and Hoarseness: A Rare Presentation of Mediastinal Tuberculosis with an Isolated Prepontine Cistern Tuberculoma	prepontine,mediastinal,tuberculoma
+4216385	Rhodotorula mucilaginosa associacted meningitis: A subacute entity with high mortality. Case report and review	rhodotorula,mucilaginosa,athens
+4177781	A Rare Presentation of Hepatitis A Infection with Extrahepatic Manifestations	hepatitis,extrahepatic,rash
+4652823	ANCA-Associated Systemic Vasculitis Presenting With Hypertrophic Spinal PachymeningitisA Report of 2 Cases and Review of Literature	aasv,anca,hsp
+3995161	Transverse myelitis and acute HIV infection: a case report	myelitis,hiv,he
+4255923	Candida albicans brain abscesses in an injection drug user patient: a case report	abscesses,brain,abscess
+1087888	Adrenal failure followed by status epilepticus and hemolytic anemia in primary antiphospholipid syndrome	adrenal,antiphospholipid,wuppertal.helios
+4510115	Undiagnosed Systemic Lupus Erythematosus Presenting as Hemophagocytic Lymphohistiocytosis	hlh,sle,hemophagocytosis
+4421269	A 34-year-old man with membranous nephropathy, a rash, meningitis and ocular involvementG. Bellomo et al.A 34-year-old man with membranous nephropathy, a rash, meningitis, and ocular involvement	syphilis,proteinuria,tpha
+4412252	Novel Thogotovirus Associated with Febrile Illness and Death, United States, 2014Novel Thogotovirus Species, United States, 2014	virus,bourbon,thogotovirus
+4769753	An Unusual Case of Systemic Lupus Erythematosus and Hemophagocytic Syndrome	hemophagocytic,hs,sle
+2860402	Strongyloides stercoralis hyperinfection after corticosteroid therapy: a report of two cases	hyperinfection,stercoralis,he
+3078859	Pandemic 2009 H1N1 virus infection associated with purpuric skin lesions: a case report	h1n1,vasculitis,influenza
+3934580	Epstein-Barr Virus Infection in an Elderly Nonimmunocompromised Adult Successfully Treated with Rituximab	ebv,rituximab,her
+4692302	The role of empirical albendazole treatment in idiopathic hypereosinophilia a case series	hypereosinophilia,albendazole,eosinophil
+4746400	Angioimmunoblastic T Cell Lymphoma Mimicking Chronic Urticaria	urticaria,angioedema,aitl

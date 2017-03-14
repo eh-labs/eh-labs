@@ -1,0 +1,7 @@
+3744779	Laboratory support in the diagnosis of uveitis	ocular,sarcoidosis,diagnosis
+4883984	Double trouble: a patient with both HLA-B27 anterior uveitis and HLA-A29 birdshot chorioretinitis	bscr,hla,a29
+4421269	A 34-year-old man with membranous nephropathy, a rash, meningitis and ocular involvementG. Bellomo et al.A 34-year-old man with membranous nephropathy, a rash, meningitis, and ocular involvement	syphilis,proteinuria,tpha
+4616419	An Update of the Mayo Clinic Cohort of Patients With Adult Primary Central Nervous System VasculitisDescription of 163 Patients	pcnsv,vasculitis,patients
+3872562	Pediatric uveitis: An update	uveitis,ocular,retinal
+2841371	Current approach in the diagnosis and management of posterior uveitis	uveitis,posterior,infective
+4421643	Nephrotic syndrome and hepatitis due to acquired syphilis: an uncommon presentation of a re-emerging diseaseNephrotic syndrome and hepatitis due to acquired syphilisM. Canney et al.	syphilis,nephrotic,hepatitis

@@ -1,0 +1,43 @@
+4308583	Status migrainosus as an initial presentation of multiple sclerosis	migraine,migrainosus,demyelinating
+3670521	Demyelinating Disease following Anti-TNFa Treatment: A Causal or Coincidental Association? Report of Four Cases and Review of the Literature	tnfa,demyelination,mri
+4521086	Severe neurologic syndrome associated with Middle East respiratory syndrome corona virus (MERS-CoV)	cov,mers,ngha.med.sa
+3751257	Multiple sclerosis presenting initially with a worsening of migraine symptoms	migraine,ms,headache
+3291843	Rare brain biopsy findings in a first ADEM-like event of pediatric MS: histopathologic, neuroradiologic and clinical features	adem,ms,demyelinating
+3506038	Lymphomatosis cerebri Presenting as a Recurrent Leukoencephalopathy	pcnsl,lesions,mri
+4147190	Multiple Sclerosis Presents with Psychotic Symptoms and Coexists with Hypertrophic Cardiomyopathy	hocm,psychotic,ms
+4604698	Acquired demyelinating disorders of central nervous system: A pediatric cohort	nmo,adem,ms
+3876908	Central Nervous System Demyelination in a Charcot-Marie-Tooth Type 1A Patient	cmt1a,cns,pmp22
+4487970	Neuromyelitis optica with linear enhancement of corpus callosum in brain magnetic resonance imaging with contrast: a case report	nmo,callosum,corpus
+4477182	A Case of Acute Disseminated Encephalomyelitis in a Middle-Aged Adult	adem,mri,periventricular
+3556850	A Case of Multiple Sclerosis and Celiac Disease	gluten,ms,cd
+4804446	Primary Central Nervous System Lymphoma	pcnsl,hebei,demyelinating
+4615875	Multifocal leukoencephalopathy in cocaine users: a report of two cases and review of the literature	cocaine,levamisole,leukoencephalopathy
+2737773	Demyelinating disease masquerading as a surgical problem: a case series	demyelinating,lesion,papillitis
+3168363	Cerebral Fat Embolism: A diagnostic challenge	cfe,fes,embolism
+3766273	Susacs syndrome as HIV-associated immune reconstitution inflammatory syndrome	ss,cart,hsr.it
+4750307	Clinico-radiological profile and outcome of dengue patients with central nervous system manifestations: A case series in an Eastern India tertiary care hospital	dengue,csf,encephalitis
+3891492	Motor recovery and microstructural change in rubro-spinal tract in subcortical stroke	fa,fmms,motor
+4009287	Open-Ring Enhancement in Pseudotumoral Multiple Sclerosis: Important Radiological Aspect	pseudotumoral,lesion,mri
+2936883	Recurrent myelitis after allogeneic stem cell transplantation. Report of two cases	myelitis,hsct,allogeneic
+3249821	Susac's Syndrome in a 27-Year-Old Female	susac,retinal,syndrome
+3932574	MRI evaluation of pathologies affecting the corpus callosum: A pictorial essay	callosum,corpus,splenium
+4159247	Influenza Vaccine-Induced CNS Demyelination in a 50-Year-Old Male	adem,cis,demyelinating
+3314735	Apparent diffusion coefficient restriction in the white matter: going beyond acute brain territorial ischemia	adc,matter,dwi
+3454579	Neuro-Behet disease presented diplopia with hemiparesis following minor head trauma	nbd,bd,beh
+4425815	Pactrims Invited Lecture / Ordinary Submission	nmo,ms,patients
+4835842	Reversible splenial lesion syndrome associated with encephalitis/encephalopathy presenting with great clinical heterogeneity	resles,scc,encephalitis
+3099216	Toxocariasis Presenting as Encephalomyelitis	toxocara,toxocariasis,eosinophilia
+3461402	Central and Extrapontine Myelinolysis Affecting the Brain and Spinal Cord. An Unusual Presentation of Pancreatic Encephalopathy	myelinolysis,encephalopathy,pancreatic
+4350196	Episodic neurological dysfunction in hereditary peripheral neuropathy	cmtx,transient,he
+4300795	What is Susac syndrome? - A brief review of articles	ss,callosum,retinal
+3403125	Multiple Large Tumefactive MS Plaques in a Young Man: A Diagnostic Enigma and Therapeutic Challenge	tms,tumefactive,lesions
+4887874	Three cases of neuromyelitis optica spectrum disorder	nmo,nmosd,lesions
+3751626	Primary cerebral low-grade B-cell lymphoma, monoclonal immunoglobulin deposition disease, cerebral light chain deposition disease and aggregoma: an update on classification and diagnosis	lcdd,chain,deposition
+4359422	Mycoplasma Pneumoniae Infection with Neurologic Complications	pneumoniae,myelitis,encephalitis
+3518965	Brain Abnormalities in Neuromyelitis Optica Spectrum Disorder	nmo,nmosd,lesions
+3095552	Acute urinary retention in a 23-year-old woman with mild encephalopathy with a reversible splenial lesion: a case report	mers,urinary,retention
+4673320	Susac's Syndrome: A Case with Unusual Cardiac Vestibular and Imaging Manifestations	susac,mri,bradycardia
+4491230	Comprehensive diagnostics in a case of hereditary diffuse leukodystrophy with spheroids	hdls,spheroids,csf1r
+4693392	Magnetic resonance imaging of optic nerve	optic,nerve,chiasma
+4198718	Fulminant Subacute Sclerosing Panencephalitis Presenting with Acute Ataxia and Hemiparesis in a 15-Year-Old Boy	sspe,measles,fulminant
+3970350	Susac's Syndrome in a Patient Diagnosed with MS for 20 Years: A Case Report	susac,hearing,retinal

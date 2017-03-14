@@ -1,0 +1,31 @@
+3399353	Orbital Apex Syndrome in Herpes Zoster Ophthalmicus	hzo,orbital,ophthalmoplegia
+3817136	Orbital cellulitis following silicone-sponge scleral buckles	silicone,scleral,buckle
+4850816	Hyaluronidase hypersensitivity: A rare complication of peribulbar block	peribulbar,hyaluronidase,hypersensitivity
+4671758	Subperiosteal hematoma from peribulbar block during cataract surgery leading to optic nerve compression in a patient with parahemophilia	peribulbar,eye,proptosis
+3764955	Orbital Inflammation Developing from Epidemic Keratoconjunctivitis in an Adult	orbital,eye,chemosis
+2636107	Acute orbital abscess complicating deep posterior subtenon triamcinolone injection	subtenon,triamcinolone,orbital
+2754082	Impact of antibiotic resistance in the management of ocular infections: the role of current and future antibiotics	ocular,besifloxacin,fluoroquinolones
+2851003	Traumatic Optic Neuropathy Accompanying Orbital Grease Gun Injury	grease,gun,proptosis
+4303600	The role of conjunctival biopsy in the diagnosis of granulomatosis with polyangiitis	polyangiitis,granulomatosis,conjunctival
+3591565	Periocular hematoma secondary to subperiosteal injury by a short needle	hematoma,subperiosteal,peribulbar
+2709033	Oral versus topical carbonic anhydrase inhibitors in ocular hypertension after scleral tunnel cataract surgery	iop,acetazolamide,dorzolamide
+3517307	Rapidly progressing subperiosteal orbital abscess: an unexpected complication of a group-A streptococcal pharyngitis in a healthy young patient	orbital,abscess,streptococcal
+3565151	A Case of Odontogenic Orbital Cellulitis Causing Blindness by Severe Tension Orbit	orbital,cellulitis,odontogenic
+3658342	Ophthalmic regional anaesthesia: A review and update	globe,anaesthetic,orbital
+3959040	Pigmented Hypopyon in Association with Listeria Monocytogenes Endopthalmitis: An Interesting Case Report Following Refractive Surgery Procedure with Literature Review	hypopyon,listeria,monocytogenes
+2803968	Endogenous endophthalmitis caused by Pseudomonas aeruginosa in a preterm infant: a case report	endophthalmitis,eye,pseudomonas
+2813585	Carotid Cavernous Fistula: Ophthalmological Implications	ccf,cavernous,sov
+2886263	Bilateral simultaneous acute angle closure caused by sulphonamide derivatives: A case series	sulphonamide,closure,iop
+3770888	Occult nonmetallic intraocular foreign bodies presenting as fulminant uveitis: a case series and review of the literature	iofb,foreign,iofbs
+3277022	The Hot Orbit: Orbital Cellulitis	orbital,abscess,cellulitis
+3306070	Sudden Onset and Blinding Spontaneous Direct Carotid-Cavernous Fistula	ccfs,carotid,proptosis
+2792620	Recent advances in pharmacotherapy of glaucoma	glaucoma,iop,latanoprost
+4331824	Neoadjuvant intra-arterial chemotherapy in patients with primary lacrimal adenoid cystic carcinoma	naic,lacrimal,exenteration
+4461732	Nontuberculous Mycobacterial Ocular Infections: A Systematic Review of the Literature	ntm,eyes,keratitis
+4367869	Rapidly evolving conjunctivitis due to Pasteurella multocida, occurring after direct inoculation with animal droplets in an immuno-compromised host	pasteurella,multocida,conjunctivitis
+4889789	Unilateral Eyelid Edema as Initial Sign of Orbital Sarcoidosis	sarcoidosis,eye,eyelid
+4108142	Necrotizing Scleritis and Peripheral Ulcerative Keratitis Associated with Wegeners Granulomatosis	wg,scleritis,puk
+4553301	ESBL E. coli Urosepsis Resulting in Endogenous Panophthalmitis Requiring Evisceration of the Eye in a Diabetic Patient	panophthalmitis,endophthalmitis,eye
+4065517	Anterior segment optical coherence tomography documentation of a case of topiramate induced acute angle closure	anterior,topiramate,tiaac
+4480352	Colletotrichum truncatum species complex: Treatment considerations and review of the literature for an unusual pathogen causing fungal keratitis and endophthalmitis	truncatum,colletotrichum,endophthalmitis
+2740249	Choroidopathy and kidney disease: a case report and review of the literature	retinal,sle,choroidopathy

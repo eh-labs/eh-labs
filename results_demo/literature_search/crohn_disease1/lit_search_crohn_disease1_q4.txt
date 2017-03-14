@@ -1,0 +1,12 @@
+2277428	Acute jejunoileal obstruction due to a pseudopolyp in a child with undiagnosed crohn disease: A case report	pseudopolyp,cd,obstruction
+3429747	Differential Diagnosis of Inflammatory Bowel Disease: What Is the Role of Colonoscopy?	colitis,ulcerative,crohn
+3959324	Terminal ileitis is not always Crohns disease	cd,ti,ileitis
+2693865	A Case of Intestinal Behcet's Disease Similar to Crohn's Colitis	behcet,crohn,disease
+3236314	Pathologic Features of Behet's Disease in the Tubuler Gut	bd,ulcers,beh
+3099084	Crohns Disease: A Surgeons Perspective	cd,strictureplasty,crohn
+4737449	Capsule Endoscopy for Ileitis with Potential Involvement of Other Sections of the Small Bowel	vce,ileitis,ileum
+3491534	Colon Tuberculosis: Endoscopic Features and Prospective Endoscopic Follow-Up After Anti-Tuberculosis TreatmentEndoscopic Features of Colon Tuberculosis Before and After Anti-TB Treatment	tb,colon,colonoscopy
+4316223	Seminar Report From the 2014 Taiwan Society of Inflammatory Bowel Disease (TSIBD) Spring Forum (May 24th, 2014): Crohn's Disease Versus Intestinal Tuberculosis Infection	tb,itb,taiwan
+3999013	Spectrum of pathologies in cases of intestinal obstruction & perforation based on histopathological examination of resected intestine - Report from a third world country	perforation,obstruction,cases
+2654961	Where Are All the Mycobacterium avium Subspecies paratuberculosis in Patients with Crohn's Disease?	crohn,map,endothelial
+3675246	Water enema multidetector CT technique and imaging of diverticulitis and chronic inflammatory bowel diseases	mdct,mural,bowel

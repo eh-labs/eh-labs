@@ -1,0 +1,48 @@
+3254208	Update on celiac disease etiology, differential diagnosis, drug targets, and management advances	cd,gluten,gfd
+4477936	Gastrointestinal Disorder Associated with Olmesartan Mimics Autoimmune EnteropathyOlmesartan Enteropathy	olmesartan,aie,enteropathy
+3281345	Screening for coeliac disease among Egyptian children	coeliac,cd,stature
+4697037	The importance of anti-transglutaminase IgA antibody detection in the diagnosis of celiac disease case report of an inappropriate diagnostic approach	cd,gluten,iga
+4016221	Ulcerative jejunitis in a child with celiac disease	jejunitis,ulcerative,rcd
+3395124	Atypical Celiac Disease: From Recognizing to Managing	cd,celiac,gfd
+4604755	Histological evaluation of duodenal biopsies from coeliac patients: the need for different grading criteria during follow-up	duodenal,gfd,gluten
+4017470	Gluten associated dyspepsia; serology and histological characteristics	cd,dyspeptic,dyspepsia
+102761	Primary biliary cirrhosis and autoimmune cholangitis are not associated with coeliac disease in Crete	iga,pbc,cd
+4429206	Assessing of Celiac Disease and Nonceliac Gluten Sensitivity	cd,gluten,ncgs
+4874797	High definition i-SCAN endoscopy with water immersion technique accurately reflects histological severity of celiac disease	hdwi,celiac,endoscopic
+2929410	The Face of Tropical Sprue in 2010	ts,diarrhea,celiac
+4057481	Screening Tests Using Serum Tissue Transglutaminase IgA May Facilitate the Identification of Undiagnosed Celiac Disease among Japanese Population	iga,ttg,lymphoma
+2848662	IgA anti-Actin antibodies in children with celiac disease: comparison of immunofluorescence with Elisa assay in predicting severe intestinal damage	iga,aaa,ttg
+4754526	Spectrum of chronic small bowel diarrhea with malabsorption in Indian subcontinent: is the trend really changing?	sprue,tropical,parasitic
+4679112	Clinical-Pathological Conference Series from the Medical University of GrazCase No 156: 82-year-old woman with chronic diarrhea and weight loss of 20kilograms	olmesartan,enteropathy,sprue
+1435993	Celiac disease	gluten,celiac,gliadin
+3438239	Prevalence of celiac disease among blood donors in SO PAULO the most populated city in Brazil	paulo,cd,o
+4112432	Diagnosis and management of adult coeliac disease: guidelines from the British Society of Gastroenterology	cd,gfd,gluten
+3444909	Diagnosing celiac disease by video capsule endoscopy (VCE) when esophogastroduodenoscopy (EGD) and biopsy is unable to provide a diagnosis: a case series	celiac,vce,egd
+3780512	Anti-Actin IgA Antibodies Identify Celiac Disease Patients with a Marsh 3 Intestinal Damage among Subjects with Moderate Anti-TG2 Levels	tg2,iga,cd
+4019828	Prevalence of serum celiac antibody in patients with IBD in Japan	celiac,ibd,gluten
+2924717	Diagnosis and treatment of coeliac disease	coeliac,gluten,disease
+3525033	Serologic celiac disease in patients with inflammatory bowel disease	iga,celiac,ema
+3321550	Frequency of Celiac Disease in Patients with Hypothyroidism	cd,hypothyroidism,celiac
+3446132	Value of Gluten Patch Test in Diagnosis of Celiac Disease	gluten,celiac,patch
+4667049	Onset of Celiac Disease after Treatment of Chronic Hepatitis C with Interferon Based Triple Therapy	interferon,celiac,hcv
+4498508	Circulating hematopoietic stem cells and putative intestinal stem cells in coeliac disease	isc,gfd,cd133
+4119669	Correlation of Tissue Transglutaminase Antibody with Duodenal Histologic Marsh Grading	ttg,celiac,marsh
+4457647	Loss and Gain of Tolerance to Pancreatic Glycoprotein 2 in Celiac DiseaseAnti-GP2 Antibodies in Celiac Disease	gp2,iga,cd
+3101726	Celiac disease in children and adolescents at a singe center in Saudi Arabia	gfd,cd,patients
+3166801	Celiac Disease and Myointimal Proliferation: A Possible Correlation?	cd,gliadin,gluten
+4479435	Modern diagnosis of celiac disease and relevant differential diagnoses in the case of cereal intolerance	celiac,gluten,disease
+4632446	The Spectrum of Differences between Childhood and Adulthood Celiac Disease	cd,gfd,tg2a
+3094008	Isolated short stature as a presentation of celiac disease in Saudi children	stature,cd,children
+4732421	The celiac iceberg: from the clinical spectrum to serology and histopathology in children and adolescents with type 1 diabetes mellitus and Down syndrome	celd,dm1,ds
+4042032	Assessment of the response to gluten-free diet in an Iraqi population with coeliac disease. A histological and serological follow-up study	gfd,cd,coeliac
+4177310	Effect of one year of a gluten-free diet on the clinical evolution of irritable bowel syndrome plus fibromyalgia in patients with associated lymphocytic enteritis: a case-control study	gfd,fms,marsh
+2275217	Secretion of celiac disease autoantibodies after in vitro gliadin challenge is dependent on small-bowel mucosal transglutaminase 2-specific IgA deposits	celiac,gliadin,mucosal
+3240817	Small- bowel mucosal changes and antibody responses after low- and moderate-dose gluten challenge in celiac disease	gluten,celiac,mucosal
+3365669	Capsule Endoscopy: A Valuable Tool in the Follow-Up of People With Celiac Disease on a Gluten-Free DietCapsule Endoscopy in the Follow-Up of Celiac Disease	gfd,celiac,villous
+3756193	Coeliac Disease-Associated Antibodies in Psoriasis	psoriasis,cd,iga
+4435386	Remission of Refractory Celiac Disease With Infliximab in a Pediatric Patient	rcd,celiac,gfd
+4733291	Evaluation of the Correlation Between tTG-IgA Titer and Duodenal Biopsy Findings in Children With Suspected Celiac Disease	serological,titer,cd
+4620784	Serological Screening for Celiac Disease in Adult Chinese Patients With Diarrhea Predominant Irritable Bowel Syndrome	httg,dgp,cd
+4435362	A Case of Severe Sprue-Like Enteropathy Associated With Valsartan	enteropathy,sprue,olmesartan
+2702920	Prevalence of Celiac Disease in Shiraz, Southern Iran	ttg,cd,shiraz
+4091865	Intestinal Intraepithelial Lymphocyte Cytometric Pattern Is More Accurate than Subepithelial Deposits of Anti-Tissue Transglutaminase IgA for the Diagnosis of Celiac Disease in Lymphocytic EnteritisDiagnosis of Celiac Lymphocytic Enteritis	iel,cd,tg2

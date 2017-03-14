@@ -1,0 +1,89 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../bower_components/paper-item/paper-icon-item.html">
+<link rel="import" href="../bower_components/paper-item/paper-item-body.html">
+
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+
+</head><body><dom-module id="eh-labs-view-literature">
+  <template>
+    <style>
+      :host {
+      }
+
+      .term{
+        background-color: lightgrey;
+        border-radius:10%;
+        padding: 1%;
+      }
+      paper-item{
+        background-color: var(--primary-background-color);
+        margin-bottom: .5vh;
+      }
+    </style>
+
+    <iron-ajax auto="" url="{{_getRequestUrl(query.path, query.notes)}}" handle-as="text" last-response="{{articleResponse}}" debounce-duration="10"></iron-ajax>
+
+    <template is="dom-repeat" items="{{articles}}" as="article">
+
+      <paper-item>
+        <paper-item-body three-line="">
+          <div primary="">[[article.title]]</div>
+          <a seconday="" href$="[[_getArticleUrl(article.pmcid)]]"><div>[[article.pmcid]] </div></a>
+          <div seconday="">
+            <template is="dom-repeat" items="[[article.terms]]">
+              <span class="term">[[item]]</span>
+            </template>
+          </div>
+        </paper-item-body>
+      </paper-item>
+
+    </template>
+
+  </template>
+
+  <script>
+    Polymer({
+      is: 'eh-labs-view-literature',
+
+      properties:{
+        articles: {
+          type: Array,
+          computed:'_getArticles(articleResponse)'
+        },
+        query:{
+          type: Object
+        },
+
+      },
+
+      _getRequestUrl: function(path, notes){
+        if (path) {
+          return  '/results_demo/literature_search/' + path + 'lit_search_' + path.replace("/", "") + '_q' + notes.length + '.txt'
+
+        } else { return ''}
+
+      },
+
+      _getArticleUrl(pmcid){
+        return pmcid ?  'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC' + pmcid + '/' : ''
+      },
+
+      _getArticles: function(articleResponse){
+        const lines = articleResponse.split('\n')
+        const articles = lines.map((line) => {
+          const [pmcid, title, terms] = line.split('\t')
+          return {pmcid, title, terms: terms ? terms.split(',') : []}
+        })
+        return articles
+      }
+
+      // https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474320/
+      //https://www.ncbi.nlm.nih.gov/pmc/pmctopmid/
+
+
+    });
+  </script>
+</dom-module>
+</body></html>
