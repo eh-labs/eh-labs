@@ -1,0 +1,127 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="../bower_components/app-layout/app-drawer/app-drawer.html">
+<link rel="import" href="../bower_components/app-layout/app-drawer-layout/app-drawer-layout.html">
+<link rel="import" href="../bower_components/app-layout/app-header/app-header.html">
+<link rel="import" href="../bower_components/app-layout/app-header-layout/app-header-layout.html">
+<link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+<link rel="import" href="../bower_components/app-layout/app-toolbar/app-toolbar.html">
+<link rel="import" href="../bower_components/app-route/app-location.html">
+<link rel="import" href="../bower_components/app-route/app-route.html">
+<link rel="import" href="../bower_components/iron-pages/iron-pages.html">
+<link rel="import" href="../bower_components/iron-selector/iron-selector.html">
+<link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+
+<link rel="import" href="eh-labs-icons.html">
+
+<link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link rel="import" href="../bower_components/paper-styles/default-theme.html">
+<link rel="import" href="../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../bower_components/paper-fab/paper-fab.html">
+<link rel="import" href="../bower_components/app-localize-behavior/app-localize-behavior.html">
+
+
+<link rel="import" href="eh-labs-data-diagnoses.html">
+<link rel="import" href="eh-labs-data-ehr.html">
+
+<link rel="import" href="../bower_components/paper-input/paper-textarea.html">
+<link rel="import" href="../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../bower_components/basic-seamless-iframe/basic-seamless-iframe.html">
+
+
+</head><body><dom-module id="eh-labs-digital-companion">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+
+      app-header {
+        color: var(--text-primary-color);
+        background-color: var(--primary-color);
+      }
+      app-header paper-icon-button {
+      }
+
+      .drawer-list {
+        margin: 0 20px;
+      }
+
+      .drawer-list a {
+        display: block;
+        padding: 0 16px;
+        text-decoration: none;
+        color: var(--secondary-text-color);
+        line-height: 40px;
+      }
+
+      .drawer-list a.iron-selected {
+        color: black;
+        font-weight: bold;
+      }
+
+      #infoPageSelector{
+        @apply(--layout-inline);
+      }
+
+      #infoPageSelector a{
+        margin-left: 1vw;
+      }
+
+      #infoPageSelector a paper-fab{
+        background-color: var(--light-primary-color);
+      }
+
+
+      #infoPageSelector a.iron-selected paper-fab{
+        background-color: var(--accent-color);
+      }
+
+
+    </style>
+
+    <app-location route="{{route}}"></app-location>
+    <app-route route="{{route}}" pattern="/:page" data="{{routeData}}" tail="{{subroute}}" query-params="{{params}}"></app-route>
+
+    <app-drawer-layout fullbleed="">
+      
+      <app-drawer id="drawer">
+        <app-toolbar>Menu</app-toolbar>
+        <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
+          <a name="diagnosis-support" href="/diagnosis-support">{{localize('diagnosis-support')}}</a>
+          <a name="annotated-ehr" href="/annotated-ehr">{{localize('annotated-ehr')}}</a>
+          <a name="literature" href="/literature">{{localize('literature')}}</a>
+        </iron-selector>
+      </app-drawer>
+
+      
+      <app-header-layout has-scrolling-region="">
+
+        <app-header condenses="" reveals="" effects="waterfall">
+          <app-toolbar>
+            <paper-icon-button icon="eh-labs-icons:menu" drawer-toggle=""></paper-icon-button>
+            <div main-title="">[[localize(page)]]</div>
+            <iron-selector id="infoPageSelector" selected="[[page]]" attr-for-selected="name" role="navigation">
+              <a name="diagnosis-support" href="[[_getPageUrl('diagnosis-support', query)]]"><paper-fab icon="eh-labs-icons:diagnosis" mini=""></paper-fab></a>
+              <a name="annotated-ehr" href="[[_getPageUrl('annotated-ehr', query)]]"><paper-fab icon="eh-labs-icons:ehr" mini=""></paper-fab></a>
+              <a name="literature" href="/literature"><paper-fab label="[[localize('/literature')]]" icon="eh-labs-icons:literature" mini=""></paper-fab></a>
+            </iron-selector>
+
+          </app-toolbar>
+        </app-header>
+
+        <eh-labs-data-ehr query="[[query]]" important-terms="{{terms}}"></eh-labs-data-ehr>
+        <eh-labs-data-diagnoses query="[[query]]" diagnoses="{{diagnoses}}"></eh-labs-data-diagnoses>
+
+        <iron-pages selected="[[page]]" attr-for-selected="name" fallback-selection="404" role="main">
+          <eh-labs-view-diagnosis-support name="diagnosis-support" diagnoses="[[diagnoses]]"></eh-labs-view-diagnosis-support>
+          <eh-labs-view-annotated-ehr name="annotated-ehr" terms="[[terms]]" ehr="[[query]]"></eh-labs-view-annotated-ehr>
+          <eh-labs-view-literature name="literature" query="[[query]]"></eh-labs-view-literature>
+          <my-view404 name="404"></my-view404>
+        </iron-pages>
+      </app-header-layout>
+    </app-drawer-layout>
+  </template>
+
+  <script>Polymer({is:"eh-labs-digital-companion",properties:{page:{type:String,reflectToAttribute:!0,observer:"_pageChanged"},language:{value:"en"},query:{type:String,computed:"_example(params)"},diagnoses:{type:Array}},behaviors:[Polymer.AppLocalizeBehavior],observers:["_routePageChanged(routeData.page)"],_getPageUrl:function(e,a){return"/"+e+"?q="+encodeURIComponent(JSON.stringify(a))},attached:function(){this.loadResources(this.resolveUrl("locales.json"))},_example:function(e){return e.q?JSON.parse(e.q):exampleEhrs[0]},_routePageChanged:function(e){this.page=e||"diagnosis-support",this.$.drawer.persistent||this.$.drawer.close()},_pageChanged:function(e){var a=this.resolveUrl("eh-labs-view-"+e+".html");this.importHref(a,null,this._showPage404,!0)},_showPage404:function(){this.page="404"}});</script>
+</dom-module>
+</body></html>

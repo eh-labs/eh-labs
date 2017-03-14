@@ -1,0 +1,42 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../bower_components/paper-item/paper-icon-item.html">
+<link rel="import" href="../bower_components/paper-item/paper-item-body.html">
+
+</head><body><dom-module id="eh-labs-view-diagnosis-support">
+  <template>
+    <style>
+      :host {
+      }
+
+      .term{
+        text-decoration: underline;
+      }
+      paper-item{
+        background-color: var(--primary-background-color);
+        margin-bottom: .5vh;
+      }
+    </style>
+
+    <template is="dom-repeat" items="{{diagnoses}}" as="diagnose">
+
+      <paper-item>
+        <paper-item-body two-line="">
+          <div>[[diagnose.diagnose]]</div>
+          <div seconday="">[[diagnose.code]] </div>
+          <div secondary="">
+            <template is="dom-repeat" items="{{diagnosis.terms}}" as="term">
+              <span class="term">[[term]]</span>
+            </template>
+          </div>
+        </paper-item-body>
+      </paper-item>
+
+    </template>
+
+  </template>
+
+  <script>Polymer({is:"eh-labs-view-diagnosis-support",properties:{diagnoses:{type:Array}}});</script>
+</dom-module>
+</body></html>

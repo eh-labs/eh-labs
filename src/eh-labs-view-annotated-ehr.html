@@ -1,0 +1,45 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="shared-styles.html">
+
+<link rel="import" href="elements/markjs-element.html">
+
+</head><body><dom-module id="eh-labs-view-annotated-ehr">
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+
+
+
+      }
+
+      mark{
+        background-color: var(--light-accent-color);
+
+      }
+
+      .medical-note{
+        margin-top:5px;
+        background-color: var(--primary-background-color);
+
+        padding: 10px;
+        border-radius: 10px;
+      }
+
+    </style>
+
+
+  <div id="marked">
+    <template is="dom-repeat" items="[[ehr.notes]]" as="note">
+      <p class="medical-note">[[note]]</p>
+    </template>
+
+  </div>
+
+
+
+  </template>
+
+  <script>Polymer({is:"eh-labs-view-annotated-ehr",properties:{ehr:{type:Object,notify:!0},terms:{type:Array,notify:!0}},observers:[],_prettyPrint:function(e){return e.notes},_performMark:function(e,t){const r=new Mark(Polymer.dom(this.root).querySelectorAll(".medical-note"));var o=this.get("terms");r.unmark({done:function(){r.mark(o,{})}})},attached:function(){this.async(function(){Polymer.dom(this.root).querySelectorAll(".medical-note");this._performMark(this.terms,this.ehr)})}});</script>
+</dom-module>
+</body></html>
