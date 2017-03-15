@@ -41,8 +41,10 @@
       }
 
       basic-seamless-iframe{
-        min-width:400px;
-        min-height:600px;
+        width:400px;
+        height:600px;
+        max-height: 80vh;
+        max-width: 90vw;
       }
 
       .toolbar{
@@ -102,6 +104,7 @@
           <eh-labs-data-ehr query-data="{{queryData}}"></eh-labs-data-ehr>
 
           <iron-collapse opened="[[showExamples]]">
+            <h2>Pick an example record</h2>
             <template is="dom-repeat" items="[[queryData]]" as="ehr">
               <paper-item id="[[index]]" on-tap="_selectEhr">Example [[index]] - Diagnose: [[ehr.path]]</paper-item>
             </template>

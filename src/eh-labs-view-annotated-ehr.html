@@ -68,6 +68,6 @@
 
   </template>
 
-  <script>Polymer({is:"eh-labs-view-annotated-ehr",properties:{ehr:{type:Object,notify:!0},terms:{type:Array,notify:!0}},observers:["_performMark(termResponse, ehr)"],_getRequestUrl:function(e){return e?"/results_demo/kw_highlight/"+e+"kw_highlight_"+e.replace("/","")+"_full.txt":""},_prettyPrint:function(e){return e.notes},_performMark:function(e,r){const t=new Mark(Polymer.dom(this.root).querySelectorAll(".medical-note"));var o=e.split(",");t.unmark({done:function(){t.mark(o,{separateWordSearch:!1})}})},attached:function(){}});</script>
+  <script>Polymer({is:"eh-labs-view-annotated-ehr",properties:{ehr:{type:Object,notify:!0},terms:{type:Array,notify:!0}},observers:["_performMark(termResponse, ehr)"],_getRequestUrl:function(e){return e?"/results_demo/kw_highlight/"+e+"kw_highlight_"+e.replace("/","")+"_full.txt":""},_prettyPrint:function(e){return e.notes},_performMark:function(e,r){const t=new Mark(Polymer.dom(this.root).querySelectorAll(".medical-note"));var o=e.split(",");t.unmark({done:function(){t.mark(o,{separateWordSearch:!1,accuracy:"exactly"})}})},attached:function(){}});</script>
 </dom-module>
 </body></html>

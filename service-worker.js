@@ -29,7 +29,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["/bower_components/webcomponentsjs/webcomponents-lite.min.js","02395895d5d08242c6ba93518a6da2c5"],["/index.html","7e52a95c4fe2af8d65d42b8383f4055d"],["/manifest.json","2eefc15db4b58758cddc0d666e27d399"],["/src/eh-labs-digital-companion.html","b6cdc7ac7c320fca2472aa4155c9c1c0"],["/src/eh-labs-view-404.html","f4cb5dfb5ff4e8911d004d95b8659977"],["/src/eh-labs-view-annotated-ehr.html","6469f67d657538a1a18d9aca0366544d"],["/src/eh-labs-view-diagnosis-support.html","0799f177417070a7bd2eeacf800fbcdb"],["/src/eh-labs-view-literature.html","130ffec3eb438a1bba6e99389e5ce73a"]];
+var PrecacheConfig = [["/bower_components/webcomponentsjs/webcomponents-lite.min.js","02395895d5d08242c6ba93518a6da2c5"],["/index.html","7e52a95c4fe2af8d65d42b8383f4055d"],["/manifest.json","2eefc15db4b58758cddc0d666e27d399"],["/src/eh-labs-digital-companion.html","b6cdc7ac7c320fca2472aa4155c9c1c0"],["/src/eh-labs-view-404.html","f4cb5dfb5ff4e8911d004d95b8659977"],["/src/eh-labs-view-annotated-ehr.html","e7e173e41c54f8b52f07847875a264a9"],["/src/eh-labs-view-diagnosis-support.html","0799f177417070a7bd2eeacf800fbcdb"],["/src/eh-labs-view-literature.html","8f3e9f95341d5b539a30b5f123ae2835"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1--' + (self.registration ? self.registration.scope : '') + '-';
 

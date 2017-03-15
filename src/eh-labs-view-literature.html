@@ -22,7 +22,7 @@
       <paper-item>
         <paper-item-body three-line="">
           <div primary="">[[article.title]]</div>
-          <a seconday="" href$="[[_getArticleUrl(article.pmcid)]]"><div>[[article.pmcid]] </div></a>
+          <a seconday="" target="_blank" href$="[[_getArticleUrl(article.pmcid)]]"><div>[[article.pmcid]] </div></a>
           <div seconday="">
             <template is="dom-repeat" items="[[article.terms]]">
               <span class="term">[[item]]</span>
